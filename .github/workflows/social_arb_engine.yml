@@ -23,8 +23,11 @@ jobs:
       - name: Install Analysis Tools
         run: pip install -r requirements.txt # Or run pip install pandas vadersentiment requests ...
 
+      - name: Populate Entity Database
+        run: python -m src.utils.populate_db
+
       - name: Execute Acquisition & Logic
-        run: python src/main_engine.py
+        run: python -m src.main_engine
         env:
           USER_AGENT_STRING: "SocialArbBot/1.0"
 
