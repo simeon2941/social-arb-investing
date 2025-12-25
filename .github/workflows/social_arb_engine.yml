@@ -1,0 +1,37 @@
+name: Social Arb Engine
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Run every 6 hours
+  workflow_dispatch:      # Allow manual trigger
+
+jobs:
+  hunt-catalysts:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write     # Required for Git-Scraping pattern
+    steps:
+      - name: Checkout Intelligence Repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python Environment
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: Install Analysis Tools
+        run: pip install -r requirements.txt # Or run pip install pandas vadersentiment requests ...
+
+      - name: Execute Acquisition & Logic
+        run: python src/main_engine.py
+        env:
+          USER_AGENT_STRING: "SocialArbBot/1.0"
+
+      - name: Commit Intelligence to Ledger
+        run: |
+          git config --global user.name "SocialArbBot"
+          git config --global user.email "bot@noreply.github.com"
+          git add data/
+          # Commit only if changes exist
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update Signals: $(date -u)" && git push)

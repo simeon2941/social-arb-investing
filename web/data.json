@@ -1,0 +1,285 @@
+[
+  {
+    "ticker": "META",
+    "signal_strength": 4,
+    "velocity": 0,
+    "avg_sentiment": 0.571375,
+    "blind_spot": false,
+    "analyst_rating": "Unknown",
+    "est_position_shares": 0,
+    "sources": [
+      "Reddit/r/wallstreetbets",
+      "Reddit/r/stocks",
+      "Reddit/r/investing"
+    ],
+    "details": {
+      "count": 4,
+      "sentiment_sum": 2.2855,
+      "sources": [
+        "Reddit/r/wallstreetbets",
+        "Reddit/r/stocks",
+        "Reddit/r/investing",
+        "Reddit/r/investing"
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "signal_strength": 4,
+    "velocity": 0,
+    "avg_sentiment": 0.8843749999999999,
+    "blind_spot": false,
+    "analyst_rating": "Unknown",
+    "est_position_shares": 0,
+    "sources": [
+      "Reddit/r/wallstreetbets",
+      "Reddit/r/stocks",
+      "Reddit/r/investing"
+    ],
+    "details": {
+      "count": 4,
+      "sentiment_sum": 3.5374999999999996,
+      "sources": [
+        "Reddit/r/wallstreetbets",
+        "Reddit/r/stocks",
+        "Reddit/r/stocks",
+        "Reddit/r/investing"
+      ]
+    }
+  },
+  {
+    "ticker": "INTC",
+    "signal_strength": 1,
+    "velocity": 0,
+    "avg_sentiment": 0.9072,
+    "blind_spot": false,
+    "analyst_rating": "Unknown",
+    "est_position_shares": 0,
+    "sources": [
+      "Reddit/r/wallstreetbets"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.9072,
+      "sources": [
+        "Reddit/r/wallstreetbets"
+      ]
+    }
+  },
+  {
+    "ticker": "GOOG",
+    "signal_strength": 5,
+    "velocity": 0,
+    "avg_sentiment": 0.8816599999999999,
+    "blind_spot": false,
+    "analyst_rating": "Unknown",
+    "est_position_shares": 0,
+    "sources": [
+      "Reddit/r/wallstreetbets",
+      "Reddit/r/stocks",
+      "Reddit/r/investing"
+    ],
+    "details": {
+      "count": 5,
+      "sentiment_sum": 4.4083,
+      "sources": [
+        "Reddit/r/wallstreetbets",
+        "Reddit/r/stocks",
+        "Reddit/r/stocks",
+        "Reddit/r/investing",
+        "Reddit/r/investing"
+      ]
+    }
+  },
+  {
+    "ticker": "BLK",
+    "signal_strength": 1,
+    "velocity": 0,
+    "avg_sentiment": 0.9072,
+    "blind_spot": false,
+    "analyst_rating": "Unknown",
+    "est_position_shares": 0,
+    "sources": [
+      "Reddit/r/wallstreetbets"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.9072,
+      "sources": [
+        "Reddit/r/wallstreetbets"
+      ]
+    }
+  },
+  {
+    "ticker": "CSCO",
+    "signal_strength": 1,
+    "velocity": 0,
+    "avg_sentiment": 0.9072,
+    "blind_spot": false,
+    "analyst_rating": "Unknown",
+    "est_position_shares": 0,
+    "sources": [
+      "Reddit/r/wallstreetbets"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.9072,
+      "sources": [
+        "Reddit/r/wallstreetbets"
+      ]
+    }
+  },
+  {
+    "ticker": "ONDS",
+    "signal_strength": 1,
+    "velocity": 0,
+    "avg_sentiment": 0.296,
+    "blind_spot": true,
+    "analyst_rating": "Unknown",
+    "est_position_shares": 10,
+    "sources": [
+      "Reddit/r/wallstreetbets"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.296,
+      "sources": [
+        "Reddit/r/wallstreetbets"
+      ]
+    }
+  },
+  {
+    "ticker": "BAC",
+    "signal_strength": 1,
+    "velocity": 0,
+    "avg_sentiment": 0.9886,
+    "blind_spot": false,
+    "analyst_rating": "Unknown",
+    "est_position_shares": 0,
+    "sources": [
+      "Reddit/r/stocks"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.9886,
+      "sources": [
+        "Reddit/r/stocks"
+      ]
+    }
+  },
+  {
+    "ticker": "AVGO",
+    "signal_strength": 1,
+    "velocity": 0,
+    "avg_sentiment": 0.9886,
+    "blind_spot": false,
+    "analyst_rating": "Unknown",
+    "est_position_shares": 0,
+    "sources": [
+      "Reddit/r/stocks"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.9886,
+      "sources": [
+        "Reddit/r/stocks"
+      ]
+    }
+  },
+  {
+    "ticker": "TSM",
+    "signal_strength": 1,
+    "velocity": 0,
+    "avg_sentiment": 0.8708,
+    "blind_spot": false,
+    "analyst_rating": "Unknown",
+    "est_position_shares": 0,
+    "sources": [
+      "Reddit/r/investing"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.8708,
+      "sources": [
+        "Reddit/r/investing"
+      ]
+    }
+  },
+  {
+    "ticker": "MSFT",
+    "signal_strength": 1,
+    "velocity": 0,
+    "avg_sentiment": 0.8708,
+    "blind_spot": false,
+    "analyst_rating": "Unknown",
+    "est_position_shares": 0,
+    "sources": [
+      "Reddit/r/investing"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.8708,
+      "sources": [
+        "Reddit/r/investing"
+      ]
+    }
+  },
+  {
+    "ticker": "NOC",
+    "signal_strength": 1,
+    "velocity": 0,
+    "avg_sentiment": 0.6249,
+    "blind_spot": false,
+    "analyst_rating": "Unknown",
+    "est_position_shares": 0,
+    "sources": [
+      "Reddit/r/investing"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.6249,
+      "sources": [
+        "Reddit/r/investing"
+      ]
+    }
+  },
+  {
+    "ticker": "AAPL",
+    "signal_strength": 2,
+    "velocity": 0,
+    "avg_sentiment": 0.15015,
+    "blind_spot": false,
+    "analyst_rating": "Unknown",
+    "est_position_shares": 0,
+    "sources": [
+      "Reddit/r/investing"
+    ],
+    "details": {
+      "count": 2,
+      "sentiment_sum": 0.3003,
+      "sources": [
+        "Reddit/r/investing",
+        "Reddit/r/investing"
+      ]
+    }
+  },
+  {
+    "ticker": "COIN",
+    "signal_strength": 1,
+    "velocity": 0,
+    "avg_sentiment": -0.4576,
+    "blind_spot": false,
+    "analyst_rating": "Unknown",
+    "est_position_shares": 0,
+    "sources": [
+      "Reddit/r/investing"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": -0.4576,
+      "sources": [
+        "Reddit/r/investing"
+      ]
+    }
+  }
+]

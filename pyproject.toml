@@ -1,0 +1,29 @@
+[project]
+name = "social-arb-investing"
+version = "0.1.0"
+description = "A zero-cost architecture for Social Arbitrage and Observational Investing."
+authors = [
+    {name = "Antigravity", email = "bot@noreply.github.com"},
+]
+dependencies = [
+    "requests",
+    "pandas",
+    "vadersentiment",
+    "pytrends",
+    "sec-cik-mapper",
+    "textual",
+    "feedparser",
+    "yfinance",
+    "lxml",
+    "beautifulsoup4"
+]
+requires-python = ">=3.10"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
+
+[tool.pdm]
+distribution = false

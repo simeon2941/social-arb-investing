@@ -1,0 +1,111 @@
+{
+  "META": {
+    "count": 4,
+    "sentiment_sum": 2.2855,
+    "sources": [
+      "Reddit/r/wallstreetbets",
+      "Reddit/r/stocks",
+      "Reddit/r/investing",
+      "Reddit/r/investing"
+    ]
+  },
+  "NVDA": {
+    "count": 4,
+    "sentiment_sum": 3.5374999999999996,
+    "sources": [
+      "Reddit/r/wallstreetbets",
+      "Reddit/r/stocks",
+      "Reddit/r/stocks",
+      "Reddit/r/investing"
+    ]
+  },
+  "INTC": {
+    "count": 1,
+    "sentiment_sum": 0.9072,
+    "sources": [
+      "Reddit/r/wallstreetbets"
+    ]
+  },
+  "GOOG": {
+    "count": 5,
+    "sentiment_sum": 4.4083,
+    "sources": [
+      "Reddit/r/wallstreetbets",
+      "Reddit/r/stocks",
+      "Reddit/r/stocks",
+      "Reddit/r/investing",
+      "Reddit/r/investing"
+    ]
+  },
+  "BLK": {
+    "count": 1,
+    "sentiment_sum": 0.9072,
+    "sources": [
+      "Reddit/r/wallstreetbets"
+    ]
+  },
+  "CSCO": {
+    "count": 1,
+    "sentiment_sum": 0.9072,
+    "sources": [
+      "Reddit/r/wallstreetbets"
+    ]
+  },
+  "ONDS": {
+    "count": 1,
+    "sentiment_sum": 0.296,
+    "sources": [
+      "Reddit/r/wallstreetbets"
+    ]
+  },
+  "BAC": {
+    "count": 1,
+    "sentiment_sum": 0.9886,
+    "sources": [
+      "Reddit/r/stocks"
+    ]
+  },
+  "AVGO": {
+    "count": 1,
+    "sentiment_sum": 0.9886,
+    "sources": [
+      "Reddit/r/stocks"
+    ]
+  },
+  "TSM": {
+    "count": 1,
+    "sentiment_sum": 0.8708,
+    "sources": [
+      "Reddit/r/investing"
+    ]
+  },
+  "MSFT": {
+    "count": 1,
+    "sentiment_sum": 0.8708,
+    "sources": [
+      "Reddit/r/investing"
+    ]
+  },
+  "NOC": {
+    "count": 1,
+    "sentiment_sum": 0.6249,
+    "sources": [
+      "Reddit/r/investing"
+    ]
+  },
+  "AAPL": {
+    "count": 2,
+    "sentiment_sum": 0.3003,
+    "sources": [
+      "Reddit/r/investing",
+      "Reddit/r/investing"
+    ]
+  },
+  "COIN": {
+    "count": 1,
+    "sentiment_sum": -0.4576,
+    "sources": [
+      "Reddit/r/investing"
+    ]
+  }
+}

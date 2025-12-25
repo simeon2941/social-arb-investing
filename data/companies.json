@@ -1,0 +1,9 @@
+[
+    {"symbol": "AAPL", "name": "Apple Inc", "aliases": ["iphone", "macbook", "ipad", "vision pro", "apple"]},
+    {"symbol": "TSLA", "name": "Tesla", "aliases": ["cybertruck", "model 3", "model y", "elon musk", "tesla"]},
+    {"symbol": "NVO", "name": "Novo Nordisk", "aliases": ["ozempic", "wegovy", "novo nordisk"]},
+    {"symbol": "ELF", "name": "e.l.f. Beauty", "aliases": ["elf cosmetics", "elf beauty", "elf makeup"]},
+    {"symbol": "LULU", "name": "Lululemon Athletica", "aliases": ["lululemon", "align leggings", "lulu"]},
+    {"symbol": "CROX", "name": "Crocs", "aliases": ["crocs", "jibbitz"]},
+    {"symbol": "HIMS", "name": "Hims & Hers Health", "aliases": ["hims", "hers", "minoxidil", "hims & hers"]}
+]

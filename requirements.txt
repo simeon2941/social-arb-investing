@@ -1,0 +1,10 @@
+requests
+pandas
+vadersentiment
+pytrends
+sec-cik-mapper
+textual
+feedparser
+yfinance
+lxml
+beautifulsoup4
