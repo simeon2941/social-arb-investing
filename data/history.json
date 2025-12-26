@@ -1,26 +1,5 @@
 {
-  "GOOG": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ]
-  },
   "COST": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ]
-  },
-  "META": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ]
-  },
-  "AAPL": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
