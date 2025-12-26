@@ -13,12 +13,11 @@ class TwitterScraper:
     """
     
     # List of public Nitter instances (prone to change, need robust fallback)
+    # List of public Nitter instances (prone to change, need robust fallback)
     NITTER_INSTANCES = [
-        "https://nitter.net",
-        "https://nitter.cz",
         "https://nitter.privacydev.net",
-        "https://nitter.projectsegfau.lt",
-        "https://nitter.eu"
+        "https://nitter.poast.org",
+        "https://xcancel.com",
     ]
 
     def __init__(self):
@@ -40,7 +39,7 @@ class TwitterScraper:
         encoded_query = urllib.parse.quote(query)
         
         # Try up to 3 instances
-        for _ in range(3):
+        for _ in range(5): # Increased retries
             instance = self._get_working_instance()
             url = f"{instance}/search/rss?f=tweets&q={encoded_query}"
             
@@ -48,7 +47,16 @@ class TwitterScraper:
             
             try:
                 # Set short timeout to fail fast
-                feed = feedparser.parse(url)
+                # Use requests with headers to look like a browser
+                headers = {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+                }
+                resp = requests.get(url, headers=headers, timeout=10)
+                
+                if resp.status_code != 200:
+                    raise Exception(f"Status Code {resp.status_code}")
+
+                feed = feedparser.parse(resp.content)
                 
                 # Check for bozo bit (parsing error) or empty status if instance is down
                 if feed.bozo and not feed.entries:
