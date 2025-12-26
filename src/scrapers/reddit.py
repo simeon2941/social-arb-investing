@@ -88,6 +88,48 @@ class RedditScraper:
             print(f"Exception searching {query}: {e}")
             return []
 
+    def fetch_comments(self, permalink: str, limit: int = 5) -> List[str]:
+        """
+        Fetches top comments for a given post perma-link.
+        """
+        # Ensure we construct the full URL correctly
+        # permalinks in JSON usually start with /r/...
+        if not permalink.startswith("http"):
+             if not permalink.startswith("/"):
+                 permalink = "/" + permalink
+             url = f"{self.BASE_URL}{permalink}.json?limit={limit}"
+        else:
+             url = f"{permalink}.json?limit={limit}"
+
+        print(f"Fetching Comments from: {url}")
+        
+        try:
+            response = requests.get(url, headers=self.headers)
+            if response.status_code != 200:
+                print(f"Error fetching comments: {response.status_code}")
+                return []
+                
+            data = response.json()
+            # Reddit JSON for a post returns a list: [post_listing, comment_listing]
+            if not isinstance(data, list) or len(data) < 2:
+                return []
+                
+            comment_listing = data[1]
+            children = comment_listing.get("data", {}).get("children", [])
+            
+            comments = []
+            for child in children:
+                c_data = child.get("data", {})
+                body = c_data.get("body")
+                if body:
+                    comments.append(body)
+                    
+            return comments
+
+        except Exception as e:
+            print(f"Exception fetching comments: {e}")
+            return []
+
 if __name__ == "__main__":
     scraper = RedditScraper()
     print(scraper.fetch_subreddit_new("wallstreetbets", limit=2))

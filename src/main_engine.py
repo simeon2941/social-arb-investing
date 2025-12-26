@@ -8,6 +8,7 @@ from src.scrapers.news import NewsVerifier
 from src.analysis.entity_resolution import EntityResolver
 from src.analysis.sentiment import SentimentEngine
 from src.analysis.risk import RiskManager
+from src.analysis.bot_detector import BotDetector
 
 from src.scrapers.weather import WeatherScraper
 
@@ -34,6 +35,7 @@ class SocialArbEngine:
         self.resolver = EntityResolver()
         self.sentiment = SentimentEngine()
         self.risk = RiskManager()
+        self.bot_detector = BotDetector()
         
     def run(self):
         print("Starting Social Arb Engine...")
@@ -76,17 +78,42 @@ class SocialArbEngine:
         for sub in subreddits:
             posts = self.reddit.fetch_subreddit_new(sub, limit=10)
             for post in posts:
+                # 0. Bot Detection Filter
+                if self.bot_detector.is_bot(post):
+                    print(f"Skipping Bot Post: {post['title']}")
+                    continue
+
                 tickers = self.resolver.resolve(post['content'])
                 if tickers:
                      for ticker in tickers:
                         # Sentiment Check
                         sent = self.sentiment.analyze(post['content'])
-                        if sent['compound'] > 0.05 or sent['compound'] < -0.05:
+                        
+                        # Phase 3: Comment Deep Dive (The Wisdom of Crowds)
+                        additional_sentiment = 0.0
+                        if post.get('score', 0) > 50 and post.get('comments', 0) > 5:
+                            # Verify with comments
+                            permalink = post.get('link', '').replace("https://reddit.com", "")
+                            if permalink:
+                                comments = self.reddit.fetch_comments(permalink, limit=5)
+                                crowd_confirmation = self.bot_detector.verify_comments(comments)
+                                print(f"Crowd Confirmation for {ticker}: {crowd_confirmation}")
+                                
+                                # If crowd disagrees strongly, penalize sentiment
+                                if sent['compound'] > 0 and crowd_confirmation < -0.1:
+                                    print(f"Signal KILLED: Crowd Disagrees on {ticker}")
+                                    sent['compound'] = -0.1 # Flip it or neutralize
+                                else:
+                                    additional_sentiment = crowd_confirmation * 0.5
+
+                        final_sentiment = sent['compound'] + additional_sentiment
+
+                        if final_sentiment > 0.05 or final_sentiment < -0.05:
                             signals.append({
                                 "ticker": ticker,
                                 "source": f"Reddit/r/{sub}",
                                 "raw_text": post['title'],
-                                "sentiment_score": sent['compound'],
+                                "sentiment_score": final_sentiment,
                                 "timestamp": post['timestamp']
                             })
 
