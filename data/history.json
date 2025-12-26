@@ -7,30 +7,29 @@
     ]
   },
   "NVDA": {
-    "count": 2,
-    "sentiment_sum": 1.6618,
+    "count": 3,
+    "sentiment_sum": 2.2477,
     "sources": [
+      "Reddit/r/stocks",
       "Reddit/r/stocks",
       "Reddit/r/investing"
     ]
   },
   "GOOG": {
-    "count": 3,
-    "sentiment_sum": 2.534,
+    "count": 1,
+    "sentiment_sum": 0.9894,
     "sources": [
-      "Reddit/r/stocks",
-      "Reddit/r/stocks",
       "Reddit/r/stocks"
     ]
   },
-  "IVZ": {
+  "MSCI": {
     "count": 1,
     "sentiment_sum": 0.7512,
     "sources": [
       "Reddit/r/investing"
     ]
   },
-  "MSCI": {
+  "IVZ": {
     "count": 1,
     "sentiment_sum": 0.7512,
     "sources": [

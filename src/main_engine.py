@@ -2,6 +2,7 @@ import json
 import os
 from datetime import datetime
 from src.scrapers.tiktok import TikTokScraper
+from src.scrapers.instagram import InstagramScraper
 from src.scrapers.reddit import RedditScraper
 from src.scrapers.trends import TrendsScraper
 from src.scrapers.news import NewsVerifier
@@ -26,6 +27,7 @@ class SocialArbEngine:
 
     def __init__(self):
         self.tiktok = TikTokScraper()
+        self.instagram = InstagramScraper()
         self.reddit = RedditScraper()
         self.twitter = TwitterScraper() # Start Twitter Scraper
         self.trends = TrendsScraper()
@@ -71,6 +73,43 @@ class SocialArbEngine:
                         "timestamp": entry['timestamp']
                     })
 
+        # 1.5 Instagram Layer (visual hype)
+        print("--- Phase 1.5: Instagram Layer ---")
+        # Placeholder usernames; replace with real influencer accounts
+        insta_usernames = ["financeinfluencer1", "financeinfluencer2"]
+        insta_posts = self.instagram.fetch_posts(insta_usernames, limit=5)
+        for post in insta_posts:
+            tickers = self.resolver.resolve(post.get('caption', ''))
+            if tickers:
+                for ticker in tickers:
+                    sent = self.sentiment.analyze(post.get('caption', ''))
+                    if sent['compound'] > 0.05 or sent['compound'] < -0.05:
+                        signals.append({
+                            "ticker": ticker,
+                            "source": f"Instagram/{post.get('username', 'unknown')}",
+                            "raw_text": post.get('caption', ''),
+                            "sentiment_score": sent['compound'],
+                            "timestamp": post.get('timestamp')
+                        })
+
+                # 1.6 TikTok Layer (viral hype)
+        print("--- Phase 1.6: TikTok Layer ---")
+        tiktok_tags = ["finance", "stockmarket"]
+        for tag in tiktok_tags:
+            posts = self.tiktok.fetch_tag(tag, limit=5)
+            for post in posts:
+                tickers = self.resolver.resolve(post.get('content', ''))
+                if tickers:
+                    for ticker in tickers:
+                        sent = self.sentiment.analyze(post.get('content', ''))
+                        if sent['compound'] > 0.05 or sent['compound'] < -0.05:
+                            signals.append({
+                                "ticker": ticker,
+                                "source": f"TikTok/{tag}",
+                                "raw_text": post.get('content', ''),
+                                "sentiment_score": sent['compound'],
+                                "timestamp": post.get('timestamp')
+                            })
         # 2. Fetch from Reddit (discursive)
         print("--- Phase 2: Discursive Layer ---")
         # In production, iterate through list of watched subreddits

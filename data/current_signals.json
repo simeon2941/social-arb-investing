@@ -2,7 +2,7 @@
   {
     "ticker": "META",
     "signal_strength": 1,
-    "velocity": 1,
+    "velocity": 0,
     "avg_sentiment": 1.1964166666666667,
     "blind_spot": false,
     "analyst_rating": "Unknown",
@@ -20,20 +20,21 @@
   },
   {
     "ticker": "NVDA",
-    "signal_strength": 2,
-    "velocity": 2,
-    "avg_sentiment": 0.8309,
+    "signal_strength": 3,
+    "velocity": 0,
+    "avg_sentiment": 0.7492333333333333,
     "blind_spot": false,
     "analyst_rating": "Unknown",
     "est_position_shares": 0,
     "sources": [
-      "Reddit/r/stocks",
-      "Reddit/r/investing"
+      "Reddit/r/investing",
+      "Reddit/r/stocks"
     ],
     "details": {
-      "count": 2,
-      "sentiment_sum": 1.6618,
+      "count": 3,
+      "sentiment_sum": 2.2477,
       "sources": [
+        "Reddit/r/stocks",
         "Reddit/r/stocks",
         "Reddit/r/investing"
       ]
@@ -41,9 +42,9 @@
   },
   {
     "ticker": "GOOG",
-    "signal_strength": 3,
-    "velocity": 3,
-    "avg_sentiment": 0.8446666666666666,
+    "signal_strength": 1,
+    "velocity": 0,
+    "avg_sentiment": 0.9894,
     "blind_spot": false,
     "analyst_rating": "Unknown",
     "est_position_shares": 0,
@@ -51,19 +52,17 @@
       "Reddit/r/stocks"
     ],
     "details": {
-      "count": 3,
-      "sentiment_sum": 2.534,
+      "count": 1,
+      "sentiment_sum": 0.9894,
       "sources": [
-        "Reddit/r/stocks",
-        "Reddit/r/stocks",
         "Reddit/r/stocks"
       ]
     }
   },
   {
-    "ticker": "IVZ",
+    "ticker": "MSCI",
     "signal_strength": 1,
-    "velocity": 1,
+    "velocity": 0,
     "avg_sentiment": 0.7512,
     "blind_spot": true,
     "analyst_rating": "Unknown",
@@ -80,9 +79,9 @@
     }
   },
   {
-    "ticker": "MSCI",
+    "ticker": "IVZ",
     "signal_strength": 1,
-    "velocity": 1,
+    "velocity": 0,
     "avg_sentiment": 0.7512,
     "blind_spot": true,
     "analyst_rating": "Unknown",
@@ -101,7 +100,7 @@
   {
     "ticker": "AAPL",
     "signal_strength": 1,
-    "velocity": 1,
+    "velocity": 0,
     "avg_sentiment": 0.9743,
     "blind_spot": false,
     "analyst_rating": "Unknown",
