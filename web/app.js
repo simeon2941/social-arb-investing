@@ -97,20 +97,24 @@ document.addEventListener('DOMContentLoaded', () => {
                     ${signal.current_price ? '$' + signal.current_price.toFixed(2) : ''}
                 </div>
 
-                <div class="card-stats">
-                    <div class="stat">
-                        <span class="stat-label">STRENGTH</span>
-                        <span class="stat-val">${signal.signal_strength}</span>
+                <div class="card-grid">
+                    <div class="stat-item">
+                        <span class="label">SIGNAL</span>
+                        <span class="value">${signal.signal_strength} <span class="sub">(${signal.velocity > 0 ? '+' : ''}${signal.velocity})</span></span>
                     </div>
-                    <div class="stat">
-                        <span class="stat-label">TREND RATIO</span>
-                        <span class="stat-val" style="color: ${signal.trend_sentiment > 1.5 ? 'var(--accent-success)' : '#888'}">
-                            ${signal.trend_sentiment ? signal.trend_sentiment.toFixed(1) : '-'}
+                    <div class="stat-item">
+                        <span class="label">SOURCES</span>
+                        <span class="value">${signal.sources.length}</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="label">HYPE RATIO</span>
+                        <span class="value" style="color: ${signal.trend_sentiment > 1.5 ? 'var(--accent-success)' : signal.trend_sentiment < 0.8 ? 'var(--accent-danger)' : '#888'}">
+                            ${signal.trend_sentiment ? signal.trend_sentiment.toFixed(1) + 'x' : '-'}
                         </span>
                     </div>
-                    <div class="stat">
-                        <span class="stat-label">SOURCES</span>
-                        <span class="stat-val">${signal.sources.length}</span>
+                    <div class="stat-item">
+                        <span class="label">SEARCH VOL</span>
+                        <span class="value">${signal.bullish_search_vol ? signal.bullish_search_vol.toLocaleString() : '-'}</span>
                     </div>
                 </div>
             `;
