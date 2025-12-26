@@ -92,14 +92,21 @@ document.addEventListener('DOMContentLoaded', () => {
                         ${signal.avg_sentiment.toFixed(2)}
                     </div>
                 </div>
+                
+                <div class="card-price">
+                    ${signal.current_price ? '$' + signal.current_price.toFixed(2) : ''}
+                </div>
+
                 <div class="card-stats">
                     <div class="stat">
                         <span class="stat-label">STRENGTH</span>
                         <span class="stat-val">${signal.signal_strength}</span>
                     </div>
                     <div class="stat">
-                        <span class="stat-label">VELOCITY</span>
-                        <span class="stat-val">${signal.velocity}</span>
+                        <span class="stat-label">TREND RATIO</span>
+                        <span class="stat-val" style="color: ${signal.trend_sentiment > 1.5 ? 'var(--accent-success)' : '#888'}">
+                            ${signal.trend_sentiment ? signal.trend_sentiment.toFixed(1) : '-'}
+                        </span>
                     </div>
                     <div class="stat">
                         <span class="stat-label">SOURCES</span>

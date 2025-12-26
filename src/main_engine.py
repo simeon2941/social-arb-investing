@@ -4,7 +4,7 @@ from datetime import datetime
 from src.scrapers.tiktok import TikTokScraper
 from src.scrapers.instagram import InstagramScraper
 from src.scrapers.reddit import RedditScraper
-from src.scrapers.trends import TrendsScraper
+from src.scrapers.trends import TrendsScraper, AdvancedTrendsScraper
 from src.scrapers.news import NewsVerifier
 from src.analysis.entity_resolution import EntityResolver
 from src.analysis.sentiment import SentimentEngine
@@ -32,8 +32,9 @@ class SocialArbEngine:
         self.tiktok = TikTokScraper()
         self.instagram = InstagramScraper()
         self.reddit = RedditScraper()
-        self.twitter = TwitterScraper() # Start Twitter Scraper
+        self.twitter = TwitterScraper() 
         self.trends = TrendsScraper()
+        self.advanced_trends = AdvancedTrendsScraper() # Advanced logic
         self.weather = WeatherScraper()
         self.verifier = NewsVerifier()
         self.analyst = AnalystVerifier()
@@ -41,6 +42,13 @@ class SocialArbEngine:
         self.sentiment = SentimentEngine()
         self.risk = RiskManager()
         self.bot_detector = BotDetector()
+        
+        # Helper for price
+        try:
+            import yfinance as yf
+            self.yf = yf
+        except ImportError:
+            self.yf = None
         
     def run(self):
         print("Starting Social Arb Engine...")
@@ -209,6 +217,35 @@ class SocialArbEngine:
         else:
             print("--- Phase 3b: Twitter Cross-Check (SKIPPED per config) ---")
 
+        # 3c. Advanced Trends & Price Overlay
+        print("--- Phase 3c: Trends & Price Context ---")
+        for ticker, data in aggregated.items():
+            if data['count'] >= 1:
+                # 1. Google Trends Sentiment
+                # checks Hype (Volume) and Sentiment (Bull/Bear ratio)
+                print(f"Analyzing Trends for {ticker}...")
+                trend_data = self.advanced_trends.get_sentiment_index(ticker)
+                
+                if trend_data:
+                    data['trend_sentiment'] = float(trend_data.get('sentiment_ratio', 0))
+                    data['bullish_vol'] = int(trend_data.get('total_bullish_volume', 0))
+                    data['bearish_vol'] = int(trend_data.get('total_bearish_volume', 0))
+                    
+                    # Weight it into the main sentiment?
+                    # For now keep separate for the dashboard
+                
+                # 2. Live Price (yfinance)
+                if self.yf:
+                    try:
+                        t = self.yf.Ticker(ticker)
+                        hist = t.history(period="1d")
+                        if not hist.empty:
+                            current_price = hist['Close'].iloc[-1]
+                            data['current_price'] = float(current_price)
+                            print(f"Price for {ticker}: ${current_price:.2f}")
+                    except Exception as e:
+                        print(f"Failed to fetch price for {ticker}: {e}")
+
         # 4. Verification, Velocity & Risk
         print("--- Phase 4: Verification & Execution ---")
         final_output = []
@@ -248,7 +285,15 @@ class SocialArbEngine:
                 "analyst_rating": asymmetry_rating,
                 "est_position_shares": est_shares,
                 "sources": list(set(data['sources'])), # unique sources
-                "details": data
+                "est_position_shares": est_shares,
+                "sources": list(set(data['sources'])), # unique sources
+                "details": data,
+                
+                # New metrics for Dashboard
+                "current_price": data.get("current_price", 0),
+                "trend_sentiment": data.get("trend_sentiment", 0), # 0 means no data/neutral
+                "bullish_search_vol": data.get("bullish_vol", 0),
+                "bearish_search_vol": data.get("bearish_vol", 0)
             })
             
         # Update History with current run stats

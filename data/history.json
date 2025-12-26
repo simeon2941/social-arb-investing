@@ -1,1 +1,85 @@
-{}
+{
+  "NVDA": {
+    "count": 2,
+    "sentiment_sum": 1.3993,
+    "sources": [
+      "https://reddit.com/r/stocks/comments/1pwc2si/samsung_and_sk_hynix_raise_2026_hbm3e_order/",
+      "https://reddit.com/r/stocks/comments/1pwa0jk/ive_set_aside_200k_to_invest_in_nvda_stock_can_it/"
+    ],
+    "trend_sentiment": 3.90327868852459,
+    "bullish_vol": 2381,
+    "bearish_vol": 609
+  },
+  "AMZN": {
+    "count": 1,
+    "sentiment_sum": 0.4215,
+    "sources": [
+      "https://reddit.com/r/stocks/comments/1pwc2si/samsung_and_sk_hynix_raise_2026_hbm3e_order/"
+    ],
+    "trend_sentiment": 5.925373134328358,
+    "bullish_vol": 1191,
+    "bearish_vol": 200
+  },
+  "GOOG": {
+    "count": 1,
+    "sentiment_sum": 0.4215,
+    "sources": [
+      "https://reddit.com/r/stocks/comments/1pwc2si/samsung_and_sk_hynix_raise_2026_hbm3e_order/"
+    ],
+    "trend_sentiment": 16.5,
+    "bullish_vol": 858,
+    "bearish_vol": 51
+  },
+  "MSCI": {
+    "count": 2,
+    "sentiment_sum": 1.6632,
+    "sources": [
+      "https://reddit.com/r/stocks/comments/1pw82qm/best_etf_for_india_exposure_from_us_canada/",
+      "https://reddit.com/r/investing/comments/1pwa7rk/best_etf_for_india_exposure_from_us_canada/"
+    ],
+    "trend_sentiment": 16.24175824175824,
+    "bullish_vol": 1478,
+    "bearish_vol": 90
+  },
+  "BLK": {
+    "count": 2,
+    "sentiment_sum": 1.6632,
+    "sources": [
+      "https://reddit.com/r/stocks/comments/1pw82qm/best_etf_for_india_exposure_from_us_canada/",
+      "https://reddit.com/r/investing/comments/1pwa7rk/best_etf_for_india_exposure_from_us_canada/"
+    ],
+    "trend_sentiment": 38.90909090909091,
+    "bullish_vol": 428,
+    "bearish_vol": 10
+  },
+  "MMM": {
+    "count": 1,
+    "sentiment_sum": 0.5456,
+    "sources": [
+      "https://reddit.com/r/investing/comments/1pw9csw/five_under6_grid_resilience_names_worth_comparing/"
+    ],
+    "trend_sentiment": 173.0,
+    "bullish_vol": 173,
+    "bearish_vol": 0
+  },
+  "V": {
+    "count": 1,
+    "sentiment_sum": -0.0759,
+    "sources": [
+      "https://reddit.com/r/investing/comments/1pw930b/does_roth_ira_make_sense_for_an_international/"
+    ],
+    "trend_sentiment": 4.698375870069605,
+    "bullish_vol": 4050,
+    "bearish_vol": 861
+  },
+  "MU": {
+    "count": 1,
+    "sentiment_sum": 0.9726,
+    "sources": [
+      "https://reddit.com/r/investing/comments/1pw8zbe/micron_technology_from_113_to_287_the_surge/"
+    ],
+    "trend_sentiment": 9.813636363636364,
+    "bullish_vol": 2159,
+    "bearish_vol": 219
+  }
+}

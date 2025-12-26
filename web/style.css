@@ -244,6 +244,14 @@ header {
     letter-spacing: -1px;
 }
 
+.card-price {
+    font-family: var(--font-mono);
+    color: var(--accent-primary);
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+    opacity: 0.8;
+}
+
 .sentiment-badge {
     font-size: 0.8rem;
     padding: 4px 8px;
