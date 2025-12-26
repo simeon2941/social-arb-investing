@@ -1,5 +1,6 @@
 import feedparser
 import requests
+import pandas as pd
 from typing import List, Dict, Any
 from datetime import datetime
 import xml.etree.ElementTree as ET
@@ -138,7 +139,7 @@ class AdvancedTrendsScraper:
         
         data = self.get_interest_over_time(kw_list, timeframe='today 3-m')
         
-        if data is None or data.empty:
+        if data is None or (isinstance(data, pd.DataFrame) and data.empty) or (isinstance(data, dict) and not data):
             return None
             
         # Calculate simple ratio

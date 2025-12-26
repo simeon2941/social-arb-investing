@@ -127,54 +127,43 @@ class SocialArbEngine:
                                 "timestamp": post.get('timestamp')
                             })
         # 2. Fetch from Reddit (discursive)
-        # 2. Fetch from Reddit (discursive)
-        print("--- Phase 2: Discursive Layer ---")
-        # In production, iterate through list of watched subreddits
-        reddit_config = self.config.get("scrapers", {}).get("reddit", {})
-        subreddits = reddit_config.get("subreddits", ["wallstreetbets", "stocks", "investing", "skincareaddiction"])
-        reddit_limit = reddit_config.get("limit", 10)
+        # 2. Reddit Layer (Expanded)
+        print("--- Phase 2: Reddit Discussion Layer ---")
+        # Define the 'investment universe' of subreddits
+        subs = [
+            "wallstreetbets", "stocks", "investing", "options", "pennystocks", 
+            "stockmarket", "thetagang", "dividends", "SPACs", "smallstreetbets",
+            "Daytrading", "SwingTrading", "ValueInvesting", "SecurityAnalysis",
+            "shortsqueeze", "RobinHood"
+        ]
         
-        for sub in subreddits:
-            posts = self.reddit.fetch_subreddit_new(sub, limit=reddit_limit)
-            for post in posts:
-                # 0. Bot Detection Filter
+        # We use the new batch fetcher
+        reddit_posts = self.reddit.fetch_feed(subreddits=subs, limit=50)
+        
+        for post in reddit_posts:
+            # 0. Bot Detection Filter
                 if self.bot_detector.is_bot(post):
                     print(f"Skipping Bot Post: {post['title']}")
                     continue
 
-                tickers = self.resolver.resolve(post['content'])
+                # Resolve entity from Title + Content
+                text_to_scan = f"{post.get('title')} {post.get('content')}"
+                tickers = self.resolver.resolve(text_to_scan)
+                
                 if tickers:
-                     for ticker in tickers:
+                    for ticker in tickers:
                         # Sentiment Check
-                        sent = self.sentiment.analyze(post['content'])
+                        sent = self.sentiment.analyze(text_to_scan)
                         
-                        # Phase 3: Comment Deep Dive (The Wisdom of Crowds)
-                        additional_sentiment = 0.0
-                        if post.get('score', 0) > 50 and post.get('comments', 0) > 5:
-                            # Verify with comments
-                            permalink = post.get('link', '').replace("https://reddit.com", "")
-                            if permalink:
-                                comments = self.reddit.fetch_comments(permalink, limit=5)
-                                crowd_confirmation = self.bot_detector.verify_comments(comments)
-                                print(f"Crowd Confirmation for {ticker}: {crowd_confirmation}")
-                                
-                                # If crowd disagrees strongly, penalize sentiment
-                                if sent['compound'] > 0 and crowd_confirmation < -0.1:
-                                    print(f"Signal KILLED: Crowd Disagrees on {ticker}")
-                                    sent['compound'] = -0.1 # Flip it or neutralize
-                                else:
-                                    additional_sentiment = crowd_confirmation * 0.5
-
-                        final_sentiment = sent['compound'] + additional_sentiment
-
-                        if final_sentiment > 0.05 or final_sentiment < -0.05:
-                            signals.append({
-                                "ticker": ticker,
-                                "source": post.get('link', f"Reddit/r/{sub}"),
-                                "raw_text": post['title'],
-                                "sentiment_score": final_sentiment,
-                                "timestamp": post['timestamp']
-                            })
+                        # Simplified appending (Crowd Wisdom disabled for speed/stability temporarily)
+                        signals.append({
+                            "ticker": ticker,
+                            "source": f"Reddit: {post.get('subreddit')}", 
+                            "raw_text": post.get('title'),
+                            "sentiment_score": sent['compound'],
+                            "timestamp": post['timestamp'],
+                            "link": post.get('link')
+                        })
 
         # 3. Aggregate Signals & Calculate Velocity
         print("--- Phase 3: Aggregation & Velocity ---")

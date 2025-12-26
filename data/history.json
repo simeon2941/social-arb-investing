@@ -1,1 +1,432 @@
-{}
+{
+  "CRM": {
+    "count": 1,
+    "sentiment_sum": 0.862,
+    "sources": [
+      "Reddit: wallstreetbets"
+    ]
+  },
+  "META": {
+    "count": 8,
+    "sentiment_sum": 6.894,
+    "sources": [
+      "Reddit: wallstreetbets",
+      "Reddit: wallstreetbets",
+      "Reddit: stocks",
+      "Reddit: stocks",
+      "Reddit: investing",
+      "Reddit: pennystocks",
+      "Reddit: stockmarket",
+      "Reddit: thetagang"
+    ]
+  },
+  "CSCO": {
+    "count": 1,
+    "sentiment_sum": 0.9072,
+    "sources": [
+      "Reddit: wallstreetbets"
+    ]
+  },
+  "NVDA": {
+    "count": 15,
+    "sentiment_sum": 10.530199999999997,
+    "sources": [
+      "Reddit: wallstreetbets",
+      "Reddit: stocks",
+      "Reddit: stocks",
+      "Reddit: stocks",
+      "Reddit: stocks",
+      "Reddit: stocks",
+      "Reddit: stocks",
+      "Reddit: investing",
+      "Reddit: investing",
+      "Reddit: stockmarket",
+      "Reddit: stockmarket",
+      "Reddit: stockmarket",
+      "Reddit: stockmarket",
+      "Reddit: stockmarket",
+      "Reddit: stockmarket"
+    ]
+  },
+  "BLK": {
+    "count": 4,
+    "sentiment_sum": 3.4662,
+    "sources": [
+      "Reddit: wallstreetbets",
+      "Reddit: stocks",
+      "Reddit: investing",
+      "Reddit: dividends"
+    ]
+  },
+  "GOOG": {
+    "count": 12,
+    "sentiment_sum": 7.549399999999999,
+    "sources": [
+      "Reddit: wallstreetbets",
+      "Reddit: stocks",
+      "Reddit: stocks",
+      "Reddit: stocks",
+      "Reddit: stocks",
+      "Reddit: investing",
+      "Reddit: investing",
+      "Reddit: options",
+      "Reddit: options",
+      "Reddit: stockmarket",
+      "Reddit: stockmarket",
+      "Reddit: stockmarket"
+    ]
+  },
+  "INTC": {
+    "count": 3,
+    "sentiment_sum": 1.8007,
+    "sources": [
+      "Reddit: wallstreetbets",
+      "Reddit: options",
+      "Reddit: stockmarket"
+    ]
+  },
+  "ONDS": {
+    "count": 1,
+    "sentiment_sum": 0.296,
+    "sources": [
+      "Reddit: wallstreetbets"
+    ]
+  },
+  "AMZN": {
+    "count": 3,
+    "sentiment_sum": 0.7,
+    "sources": [
+      "Reddit: stocks",
+      "Reddit: stockmarket",
+      "Reddit: stockmarket"
+    ]
+  },
+  "MSCI": {
+    "count": 2,
+    "sentiment_sum": 1.8372,
+    "sources": [
+      "Reddit: stocks",
+      "Reddit: investing"
+    ]
+  },
+  "VG": {
+    "count": 1,
+    "sentiment_sum": 0.2263,
+    "sources": [
+      "Reddit: stocks"
+    ]
+  },
+  "POET": {
+    "count": 1,
+    "sentiment_sum": 0.997,
+    "sources": [
+      "Reddit: stocks"
+    ]
+  },
+  "AVGO": {
+    "count": 2,
+    "sentiment_sum": 1.2387,
+    "sources": [
+      "Reddit: stocks",
+      "Reddit: options"
+    ]
+  },
+  "BAC": {
+    "count": 1,
+    "sentiment_sum": 0.9894,
+    "sources": [
+      "Reddit: stocks"
+    ]
+  },
+  "MU": {
+    "count": 2,
+    "sentiment_sum": 1.9169,
+    "sources": [
+      "Reddit: stocks",
+      "Reddit: investing"
+    ]
+  },
+  "AAPL": {
+    "count": 3,
+    "sentiment_sum": 1.1198000000000001,
+    "sources": [
+      "Reddit: stocks",
+      "Reddit: options",
+      "Reddit: stockmarket"
+    ]
+  },
+  "MMM": {
+    "count": 4,
+    "sentiment_sum": 3.5212,
+    "sources": [
+      "Reddit: stocks",
+      "Reddit: investing",
+      "Reddit: pennystocks",
+      "Reddit: pennystocks"
+    ]
+  },
+  "V": {
+    "count": 1,
+    "sentiment_sum": -0.1668,
+    "sources": [
+      "Reddit: investing"
+    ]
+  },
+  "MSFT": {
+    "count": 3,
+    "sentiment_sum": 1.0247,
+    "sources": [
+      "Reddit: investing",
+      "Reddit: options",
+      "Reddit: stockmarket"
+    ]
+  },
+  "TSM": {
+    "count": 1,
+    "sentiment_sum": 0.8762,
+    "sources": [
+      "Reddit: investing"
+    ]
+  },
+  "SLV": {
+    "count": 2,
+    "sentiment_sum": 1.5622,
+    "sources": [
+      "Reddit: options",
+      "Reddit: options"
+    ]
+  },
+  "WEN": {
+    "count": 2,
+    "sentiment_sum": 1.3597000000000001,
+    "sources": [
+      "Reddit: options",
+      "Reddit: thetagang"
+    ]
+  },
+  "IBKR": {
+    "count": 1,
+    "sentiment_sum": 0.9906,
+    "sources": [
+      "Reddit: options"
+    ]
+  },
+  "CWAN": {
+    "count": 1,
+    "sentiment_sum": 0.0,
+    "sources": [
+      "Reddit: options"
+    ]
+  },
+  "BYND": {
+    "count": 1,
+    "sentiment_sum": 0.9676,
+    "sources": [
+      "Reddit: pennystocks"
+    ]
+  },
+  "SQFT": {
+    "count": 1,
+    "sentiment_sum": 0.7438,
+    "sources": [
+      "Reddit: pennystocks"
+    ]
+  },
+  "PW": {
+    "count": 1,
+    "sentiment_sum": 0.7438,
+    "sources": [
+      "Reddit: pennystocks"
+    ]
+  },
+  "ZENA": {
+    "count": 1,
+    "sentiment_sum": 0.9688,
+    "sources": [
+      "Reddit: pennystocks"
+    ]
+  },
+  "ELBM": {
+    "count": 1,
+    "sentiment_sum": 0.988,
+    "sources": [
+      "Reddit: pennystocks"
+    ]
+  },
+  "MWG": {
+    "count": 1,
+    "sentiment_sum": -0.2368,
+    "sources": [
+      "Reddit: pennystocks"
+    ]
+  },
+  "MEHA": {
+    "count": 1,
+    "sentiment_sum": 0.1027,
+    "sources": [
+      "Reddit: pennystocks"
+    ]
+  },
+  "ARAY": {
+    "count": 1,
+    "sentiment_sum": 0.5423,
+    "sources": [
+      "Reddit: pennystocks"
+    ],
+    "trend_sentiment": 100.0,
+    "bullish_vol": 100,
+    "bearish_vol": 0
+  },
+  "CUPPF": {
+    "count": 1,
+    "sentiment_sum": 0.9982,
+    "sources": [
+      "Reddit: pennystocks"
+    ]
+  },
+  "ONAR": {
+    "count": 1,
+    "sentiment_sum": 0.3612,
+    "sources": [
+      "Reddit: pennystocks"
+    ]
+  },
+  "CAD": {
+    "count": 1,
+    "sentiment_sum": -0.2255,
+    "sources": [
+      "Reddit: pennystocks"
+    ],
+    "trend_sentiment": 16.055900621118013,
+    "bullish_vol": 2585,
+    "bearish_vol": 160
+  },
+  "ALGID": {
+    "count": 1,
+    "sentiment_sum": 0.6369,
+    "sources": [
+      "Reddit: pennystocks"
+    ],
+    "trend_sentiment": 100.0,
+    "bullish_vol": 100,
+    "bearish_vol": 0
+  },
+  "LEXX": {
+    "count": 1,
+    "sentiment_sum": 0.9924,
+    "sources": [
+      "Reddit: pennystocks"
+    ]
+  },
+  "NAMI": {
+    "count": 1,
+    "sentiment_sum": -0.1898,
+    "sources": [
+      "Reddit: pennystocks"
+    ],
+    "trend_sentiment": 921.0,
+    "bullish_vol": 921,
+    "bearish_vol": 0
+  },
+  "SOPA": {
+    "count": 1,
+    "sentiment_sum": 0.2725,
+    "sources": [
+      "Reddit: pennystocks"
+    ],
+    "trend_sentiment": 880.0,
+    "bullish_vol": 880,
+    "bearish_vol": 0
+  },
+  "PETV": {
+    "count": 1,
+    "sentiment_sum": 0.9772,
+    "sources": [
+      "Reddit: pennystocks"
+    ]
+  },
+  "SHOP": {
+    "count": 1,
+    "sentiment_sum": 0.3793,
+    "sources": [
+      "Reddit: stockmarket"
+    ],
+    "trend_sentiment": 2.827526132404181,
+    "bullish_vol": 3246,
+    "bearish_vol": 1147
+  },
+  "DJT": {
+    "count": 1,
+    "sentiment_sum": 0.9738,
+    "sources": [
+      "Reddit: stockmarket"
+    ],
+    "trend_sentiment": 1.8951048951048952,
+    "bullish_vol": 271,
+    "bearish_vol": 142
+  },
+  "NFLX": {
+    "count": 1,
+    "sentiment_sum": 0.9153,
+    "sources": [
+      "Reddit: stockmarket"
+    ],
+    "trend_sentiment": 4.1688311688311686,
+    "bullish_vol": 321,
+    "bearish_vol": 76
+  },
+  "COIN": {
+    "count": 1,
+    "sentiment_sum": 0.0,
+    "sources": [
+      "Reddit: stockmarket"
+    ],
+    "trend_sentiment": 2.600612870275792,
+    "bullish_vol": 5092,
+    "bearish_vol": 1957
+  },
+  "UVXY": {
+    "count": 1,
+    "sentiment_sum": -0.8482,
+    "sources": [
+      "Reddit: thetagang"
+    ]
+  },
+  "QQQ": {
+    "count": 1,
+    "sentiment_sum": -0.8482,
+    "sources": [
+      "Reddit: thetagang"
+    ],
+    "trend_sentiment": 15.08421052631579,
+    "bullish_vol": 2866,
+    "bearish_vol": 189
+  },
+  "ACN": {
+    "count": 1,
+    "sentiment_sum": 0.8599,
+    "sources": [
+      "Reddit: thetagang"
+    ],
+    "trend_sentiment": 1.5247524752475248,
+    "bullish_vol": 154,
+    "bearish_vol": 100
+  },
+  "UPS": {
+    "count": 1,
+    "sentiment_sum": -0.7087,
+    "sources": [
+      "Reddit: dividends"
+    ],
+    "trend_sentiment": 2.9851250845165653,
+    "bullish_vol": 4415,
+    "bearish_vol": 1478
+  },
+  "VUSB": {
+    "count": 1,
+    "sentiment_sum": 0.8048,
+    "sources": [
+      "Reddit: dividends"
+    ]
+  }
+}
