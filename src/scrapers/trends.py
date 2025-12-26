@@ -49,9 +49,9 @@ class TrendsScraper:
             
             results.append({
                 "platform": "GoogleTrends",
-                "query": entry.title,
-                "guid": entry.id,
-                "link": entry.link,
+                "query": entry.get('title', 'Unknown'),
+                "guid": entry.get('id') or entry.get('link') or entry.get('title'),
+                "link": entry.get('link', ''),
                 "timestamp": entry.get("published", datetime.now().isoformat()),
                 "traffic": traffic,
                 "content": entry.get("summary", "")
