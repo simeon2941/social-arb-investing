@@ -36,8 +36,11 @@ def debug_trends():
     
     matches = 0
     for t in trends:
-        query = t['query']
-        content = t['content']
+        print(f"Entry Keys: {t.keys()}")
+        query = t.get('title', 'UNKNOWN')
+        # query = t['query']
+        content = t.get('ht_news_item_snippet', '')
+        # content = t['content']
         text = f"{query} {content}"
         
         tickers = resolver.resolve(text)

@@ -51,11 +51,13 @@ def fetch_posts(usernames: List[str], limit: int = 5) -> List[Dict]:
                     node = edge.get("node", {})
                     caption_edges = node.get("edge_media_to_caption", {}).get("edges", [])
                     caption = caption_edges[0].get("node", {}).get("text", "") if caption_edges else ""
+                    shortcode = node.get("shortcode")
                     results.append({
                         "username": username,
                         "caption": caption,
                         "media_url": node.get("display_url"),
                         "timestamp": node.get("taken_at_timestamp"),
+                        "permalink": f"https://www.instagram.com/p/{shortcode}/" if shortcode else f"https://www.instagram.com/{username}/"
                     })
                 continue
         except Exception:

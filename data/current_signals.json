@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "ticker": "TEST",
+    "signal_strength": 10,
+    "velocity": 5,
+    "avg_sentiment": 0.8,
+    "blind_spot": true,
+    "analyst_rating": 0.5,
+    "est_position_shares": 100,
+    "sources": [
+      "https://reddit.com/r/test/comments/123/test_post"
+    ],
+    "details": {}
+  }
+]

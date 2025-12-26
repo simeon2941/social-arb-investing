@@ -92,7 +92,7 @@ class SocialArbEngine:
                     if sent['compound'] > 0.05 or sent['compound'] < -0.05:
                         signals.append({
                             "ticker": ticker,
-                            "source": f"Instagram/{post.get('username', 'unknown')}",
+                            "source": post.get('permalink', f"Instagram/{post.get('username', 'unknown')}"),
                             "raw_text": post.get('caption', ''),
                             "sentiment_score": sent['compound'],
                             "timestamp": post.get('timestamp')
@@ -113,7 +113,7 @@ class SocialArbEngine:
                         if sent['compound'] > 0.05 or sent['compound'] < -0.05:
                             signals.append({
                                 "ticker": ticker,
-                                "source": f"TikTok/{tag}",
+                                "source": post.get('link', f"TikTok/{tag}"),
                                 "raw_text": post.get('content', ''),
                                 "sentiment_score": sent['compound'],
                                 "timestamp": post.get('timestamp')
@@ -162,7 +162,7 @@ class SocialArbEngine:
                         if final_sentiment > 0.05 or final_sentiment < -0.05:
                             signals.append({
                                 "ticker": ticker,
-                                "source": f"Reddit/r/{sub}",
+                                "source": post.get('link', f"Reddit/r/{sub}"),
                                 "raw_text": post['title'],
                                 "sentiment_score": final_sentiment,
                                 "timestamp": post['timestamp']
@@ -293,8 +293,14 @@ class SocialArbEngine:
 
         # Also save to web directory for Vercel
         web_path = os.path.join("web", "data.json")
+        web_data = {
+            "metadata": {
+                "last_scan": datetime.now().strftime("%H:%M:%S")
+            },
+            "signals": data
+        }
         with open(web_path, "w") as f:
-            json.dump(data, f, indent=2)
+            json.dump(web_data, f, indent=2)
         print(f"Web Dashboard data saved to {web_path}")
 
 if __name__ == "__main__":
