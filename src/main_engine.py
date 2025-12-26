@@ -25,7 +25,10 @@ class SocialArbEngine:
     DATA_FILE = os.path.join("data", "ledger.json")
     HISTORY_FILE = os.path.join("data", "history.json")
 
+    CONFIG_FILE = "config.json"
+
     def __init__(self):
+        self._load_config()
         self.tiktok = TikTokScraper()
         self.instagram = InstagramScraper()
         self.reddit = RedditScraper()
@@ -74,10 +77,13 @@ class SocialArbEngine:
                     })
 
         # 1.5 Instagram Layer (visual hype)
+        # 1.5 Instagram Layer (visual hype)
         print("--- Phase 1.5: Instagram Layer ---")
         # Placeholder usernames; replace with real influencer accounts
-        insta_usernames = ["financeinfluencer1", "financeinfluencer2"]
-        insta_posts = self.instagram.fetch_posts(insta_usernames, limit=5)
+        insta_config = self.config.get("scrapers", {}).get("instagram", {})
+        insta_usernames = insta_config.get("usernames", ["financeinfluencer1", "financeinfluencer2"])
+        insta_limit = insta_config.get("limit", 5)
+        insta_posts = self.instagram.fetch_posts(insta_usernames, limit=insta_limit)
         for post in insta_posts:
             tickers = self.resolver.resolve(post.get('caption', ''))
             if tickers:
@@ -94,9 +100,11 @@ class SocialArbEngine:
 
                 # 1.6 TikTok Layer (viral hype)
         print("--- Phase 1.6: TikTok Layer ---")
-        tiktok_tags = ["finance", "stockmarket"]
+        tiktok_config = self.config.get("scrapers", {}).get("tiktok", {})
+        tiktok_tags = tiktok_config.get("tags", ["finance", "stockmarket"])
+        tiktok_limit = tiktok_config.get("limit", 5)
         for tag in tiktok_tags:
-            posts = self.tiktok.fetch_tag(tag, limit=5)
+            posts = self.tiktok.fetch_tag(tag, limit=tiktok_limit)
             for post in posts:
                 tickers = self.resolver.resolve(post.get('content', ''))
                 if tickers:
@@ -111,11 +119,15 @@ class SocialArbEngine:
                                 "timestamp": post.get('timestamp')
                             })
         # 2. Fetch from Reddit (discursive)
+        # 2. Fetch from Reddit (discursive)
         print("--- Phase 2: Discursive Layer ---")
         # In production, iterate through list of watched subreddits
-        subreddits = ["wallstreetbets", "stocks", "investing", "skincareaddiction"] 
+        reddit_config = self.config.get("scrapers", {}).get("reddit", {})
+        subreddits = reddit_config.get("subreddits", ["wallstreetbets", "stocks", "investing", "skincareaddiction"])
+        reddit_limit = reddit_config.get("limit", 10)
+        
         for sub in subreddits:
-            posts = self.reddit.fetch_subreddit_new(sub, limit=10)
+            posts = self.reddit.fetch_subreddit_new(sub, limit=reddit_limit)
             for post in posts:
                 # 0. Bot Detection Filter
                 if self.bot_detector.is_bot(post):
@@ -250,6 +262,14 @@ class SocialArbEngine:
                 return json.load(f)
         except Exception:
             return {}
+
+    def _load_config(self):
+        if os.path.exists(self.CONFIG_FILE):
+             with open(self.CONFIG_FILE, 'r') as f:
+                 self.config = json.load(f)
+        else:
+             print("Warning: config.json not found, using defaults.")
+             self.config = {}
 
     def _update_history(self, old_history: dict, current_agg: dict):
         """

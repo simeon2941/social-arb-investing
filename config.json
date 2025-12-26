@@ -1,0 +1,30 @@
+{
+    "scrapers": {
+        "instagram": {
+            "usernames": [
+                "financeinfluencer1",
+                "financeinfluencer2"
+            ],
+            "limit": 5
+        },
+        "tiktok": {
+            "tags": [
+                "finance",
+                "stockmarket"
+            ],
+            "limit": 5
+        },
+        "reddit": {
+            "subreddits": [
+                "wallstreetbets",
+                "stocks",
+                "investing",
+                "skincareaddiction"
+            ],
+            "limit": 10
+        }
+    },
+    "settings": {
+        "sentiment_threshold": 0.05
+    }
+}

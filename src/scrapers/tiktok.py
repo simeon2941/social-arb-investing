@@ -57,40 +57,6 @@ class TikTokScraper:
         # Limit results to requested number
         results = results[:limit]
         return results
-        """
-        Fetches latest videos for a hashtag.
-        Route: /tiktok/tag/:tag
-        """
-        url = f"{self.base_url}/tiktok/tag/{tag}"
-        print(f"Fetching TikTok tag: {tag} from {url}")
-        feed = feedparser.parse(url)
-        
-        results = []
-        if not feed.entries:
-            print(f"No entries found for {tag}")
-            return results
-
-        for entry in feed.entries:
-            # RSSHub maps TikTok fields to standard RSS fields
-            # Description often contains the video caption + stats if available
-            text_content = self._clean_html(entry.description)
-            
-            # Simple extraction of stats if embedded in text (depends on RSSHub implementation)
-            # Usually RSSHub provides direct video links
-            
-            data_point = {
-                "platform": "TikTok",
-                "query": f"#{tag}",
-                "guid": entry.id, # Video ID
-                "link": entry.link,
-                "author": entry.get("author", "unknown"),
-                "timestamp": entry.get("published", datetime.now().isoformat()),
-                "content": text_content,
-                "title": entry.title
-            }
-            results.append(data_point)
-            
-        return results
 
     def fetch_user(self, username: str) -> List[Dict[str, Any]]:
         """
