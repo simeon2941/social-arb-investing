@@ -1,1 +1,47 @@
-{}
+{
+  "META": {
+    "count": 1,
+    "sentiment_sum": 1.1964166666666667,
+    "sources": [
+      "Reddit/r/wallstreetbets"
+    ]
+  },
+  "NVDA": {
+    "count": 3,
+    "sentiment_sum": 2.2477,
+    "sources": [
+      "Reddit/r/stocks",
+      "Reddit/r/stocks",
+      "Reddit/r/investing"
+    ]
+  },
+  "GOOG": {
+    "count": 2,
+    "sentiment_sum": 1.9537,
+    "sources": [
+      "Reddit/r/stocks",
+      "Reddit/r/stocks"
+    ]
+  },
+  "IVZ": {
+    "count": 1,
+    "sentiment_sum": 0.7512,
+    "sources": [
+      "Reddit/r/investing"
+    ]
+  },
+  "MSCI": {
+    "count": 1,
+    "sentiment_sum": 0.7512,
+    "sources": [
+      "Reddit/r/investing"
+    ]
+  },
+  "AAPL": {
+    "count": 1,
+    "sentiment_sum": 0.9743,
+    "sources": [
+      "Reddit/r/investing"
+    ]
+  }
+}
