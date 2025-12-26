@@ -186,25 +186,28 @@ class SocialArbEngine:
         # 3b. Twitter Verification (Phase 2)
         # For high signal items, cross-check Twitter (Nitter)
         # This is expensive/slow so we only do it for active signals
-        print("--- Phase 3b: Twitter Cross-Check ---")
-        for ticker, data in aggregated.items():
-            if data['count'] >= 1: # Threshold to verify
-                 tweets = self.twitter.search_cashtag(ticker)
-                 if tweets:
-                     print(f"Found {len(tweets)} tweets for {ticker}")
-                     data["sources"].append("Twitter/Nitter")
-                     # Simple sentiment addition
-                     data["count"] += len(tweets)
-                     # Assuming tweets neutral/positive for now as we didn't score them individually in scraper
-                     # Ideally we should score them.
-                     
-                     # Quick score of tweets
-                     tweet_sentiment = 0
-                     for tw in tweets:
-                         score = self.sentiment.analyze(tw['content'])
-                         tweet_sentiment += score['compound']
-                     
-                     data["sentiment_sum"] += tweet_sentiment
+        if self.config.get("scrapers", {}).get("twitter", {}).get("enabled", True):
+            print("--- Phase 3b: Twitter Cross-Check ---")
+            for ticker, data in aggregated.items():
+                if data['count'] >= 1: # Threshold to verify
+                     tweets = self.twitter.search_cashtag(ticker)
+                     if tweets:
+                         print(f"Found {len(tweets)} tweets for {ticker}")
+                         data["sources"].append("Twitter/Nitter")
+                         # Simple sentiment addition
+                         data["count"] += len(tweets)
+                         # Assuming tweets neutral/positive for now as we didn't score them individually in scraper
+                         # Ideally we should score them.
+                         
+                         # Quick score of tweets
+                         tweet_sentiment = 0
+                         for tw in tweets:
+                             score = self.sentiment.analyze(tw['content'])
+                             tweet_sentiment += score['compound']
+                         
+                         data["sentiment_sum"] += tweet_sentiment
+        else:
+            print("--- Phase 3b: Twitter Cross-Check (SKIPPED per config) ---")
 
         # 4. Verification, Velocity & Risk
         print("--- Phase 4: Verification & Execution ---")

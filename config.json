@@ -1,5 +1,8 @@
 {
     "scrapers": {
+        "twitter": {
+            "enabled": false
+        },
         "instagram": {
             "usernames": [
                 "financeinfluencer1",
