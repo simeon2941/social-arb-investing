@@ -9,14 +9,25 @@ class TrendsScraper:
     Fetches Google Trends Daily Data via RSS.
     """
     
-    RSS_URL = "https://trends.google.com/trends/trendingsearches/daily/rss?geo=US"
+    RSS_URL = "https://trends.google.com/trending/rss?geo=US"
     
     def fetch_daily_trends(self) -> List[Dict[str, Any]]:
         """
         Fetches the daily trending searches.
         """
         print(f"Fetching Google Trends from {self.RSS_URL}")
-        feed = feedparser.parse(self.RSS_URL)
+        
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+        }
+        
+        try:
+            response = requests.get(self.RSS_URL, headers=headers)
+            response.raise_for_status()
+            feed = feedparser.parse(response.content)
+        except Exception as e:
+            print(f"Error fetching Google Trends: {e}")
+            return []
         
         results = []
         if not feed.entries:
