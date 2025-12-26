@@ -146,9 +146,9 @@
     "symbol": "GOOG",
     "name": "Alphabet Inc. (Class C)",
     "aliases": [
-      "alphabet inc. (class c)",
+      "google",
       "alphabet (class c)",
-      "google"
+      "alphabet inc. (class c)"
     ]
   },
   {
@@ -253,8 +253,8 @@
     "symbol": "AON",
     "name": "Aon plc",
     "aliases": [
-      "aon plc",
-      "aon"
+      "aon",
+      "aon plc"
     ]
   },
   {
@@ -481,8 +481,8 @@
     "symbol": "XYZ",
     "name": "Block, Inc.",
     "aliases": [
-      "block, inc.",
-      "block,"
+      "block,",
+      "block, inc."
     ]
   },
   {
@@ -883,8 +883,8 @@
     "symbol": "GLW",
     "name": "Corning Inc.",
     "aliases": [
-      "corning",
-      "corning inc."
+      "corning inc.",
+      "corning"
     ]
   },
   {
@@ -1094,8 +1094,8 @@
     "symbol": "DOW",
     "name": "Dow Inc.",
     "aliases": [
-      "dow",
-      "dow inc."
+      "dow inc.",
+      "dow"
     ]
   },
   {
@@ -1137,8 +1137,8 @@
     "symbol": "EBAY",
     "name": "eBay Inc.",
     "aliases": [
-      "ebay",
-      "ebay inc."
+      "ebay inc.",
+      "ebay"
     ]
   },
   {
@@ -1671,8 +1671,8 @@
     "symbol": "HPQ",
     "name": "HP Inc.",
     "aliases": [
-      "hp inc.",
-      "hp"
+      "hp",
+      "hp inc."
     ]
   },
   {
@@ -1931,8 +1931,8 @@
     "symbol": "KKR",
     "name": "KKR & Co.",
     "aliases": [
-      "kkr &",
-      "kkr & co."
+      "kkr & co.",
+      "kkr &"
     ]
   },
   {
@@ -2023,8 +2023,8 @@
     "symbol": "LIN",
     "name": "Linde plc",
     "aliases": [
-      "linde",
-      "linde plc"
+      "linde plc",
+      "linde"
     ]
   },
   {
@@ -2157,17 +2157,17 @@
     "symbol": "MRK",
     "name": "Merck & Co.",
     "aliases": [
-      "merck &",
-      "merck & co."
+      "merck & co.",
+      "merck &"
     ]
   },
   {
     "symbol": "META",
     "name": "Meta Platforms",
     "aliases": [
-      "meta",
+      "meta platforms",
       "facebook",
-      "meta platforms"
+      "meta"
     ]
   },
   {
@@ -2301,8 +2301,8 @@
     "symbol": "NDAQ",
     "name": "Nasdaq, Inc.",
     "aliases": [
-      "nasdaq,",
-      "nasdaq, inc."
+      "nasdaq, inc.",
+      "nasdaq,"
     ]
   },
   {
@@ -2351,8 +2351,8 @@
     "symbol": "NKE",
     "name": "Nike, Inc.",
     "aliases": [
-      "nike, inc.",
-      "nike,"
+      "nike,",
+      "nike, inc."
     ]
   },
   {
@@ -2422,8 +2422,8 @@
     "symbol": "NVR",
     "name": "NVR, Inc.",
     "aliases": [
-      "nvr,",
-      "nvr, inc."
+      "nvr, inc.",
+      "nvr,"
     ]
   },
   {
@@ -2809,8 +2809,8 @@
     "symbol": "ROL",
     "name": "Rollins, Inc.",
     "aliases": [
-      "rollins, inc.",
-      "rollins,"
+      "rollins,",
+      "rollins, inc."
     ]
   },
   {
@@ -3183,8 +3183,8 @@
     "symbol": "TRMB",
     "name": "Trimble Inc.",
     "aliases": [
-      "trimble",
-      "trimble inc."
+      "trimble inc.",
+      "trimble"
     ]
   },
   {
@@ -3346,8 +3346,8 @@
     "symbol": "V",
     "name": "Visa Inc.",
     "aliases": [
-      "visa inc.",
-      "visa"
+      "visa",
+      "visa inc."
     ]
   },
   {
@@ -3467,8 +3467,8 @@
     "symbol": "WSM",
     "name": "Williams-Sonoma, Inc.",
     "aliases": [
-      "williams-sonoma,",
-      "williams-sonoma, inc."
+      "williams-sonoma, inc.",
+      "williams-sonoma,"
     ]
   },
   {
@@ -3511,8 +3511,8 @@
     "symbol": "XYL",
     "name": "Xylem Inc.",
     "aliases": [
-      "xylem",
-      "xylem inc."
+      "xylem inc.",
+      "xylem"
     ]
   },
   {
