@@ -28,6 +28,9 @@ def debug_trends():
             feed = feedparser.parse(resp.content)
             print(f"Feed Entries: {len(feed.entries)}")
             if feed.entries:
+                first_entry = feed.entries[0]
+                print(f"First Entry Keys: {first_entry.keys()}")
+                print(f"First Entry Content: {first_entry}")
                 trends = feed.entries
                 break
     
