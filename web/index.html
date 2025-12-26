@@ -71,9 +71,25 @@
                 <button id="close-modal" class="close-btn">&times;</button>
             </div>
             <div class="modal-body">
-                <div id="modal-chart-container">
-                    <canvas id="modal-chart"></canvas>
+                <div class="chart-section">
+                    <!-- TradingView Widget Container -->
+                    <div class="tradingview-widget-container" id="tv-widget-container">
+                        <div id="tradingview_chart"></div>
+                    </div>
                 </div>
+
+                <div class="sentiment-breakdown">
+                    <h3>Sentiment Battle</h3>
+                    <div class="tug-of-war-bar">
+                        <div class="bar-bullish" id="modal-bullish-bar" style="width: 50%"></div>
+                        <div class="bar-bearish" id="modal-bearish-bar" style="width: 50%"></div>
+                    </div>
+                    <div class="tug-labels">
+                        <span class="bull-label">BULLISH VOL: <span id="modal-bull-vol">0</span></span>
+                        <span class="bear-label">BEARISH VOL: <span id="modal-bear-vol">0</span></span>
+                    </div>
+                </div>
+
                 <h3>Source Intelligence</h3>
                 <ul id="source-list" class="source-list">
                     <!-- Sources injected here -->

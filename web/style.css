@@ -355,6 +355,70 @@ header {
     cursor: pointer;
 }
 
+/* Modal Enhancements */
+.chart-section {
+    margin-bottom: 2rem;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    background: #000;
+}
+
+.tradingview-widget-container {
+    height: 400px;
+    width: 100%;
+}
+
+.sentiment-breakdown {
+    margin-bottom: 2rem;
+    padding: 1.5rem;
+    background: rgba(255, 255, 255, 0.03);
+    border-radius: 8px;
+    border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.tug-of-war-bar {
+    display: flex;
+    height: 12px;
+    width: 100%;
+    background: #333;
+    border-radius: 6px;
+    overflow: hidden;
+    margin: 1rem 0;
+}
+
+.bar-bullish {
+    background: var(--accent-success);
+    height: 100%;
+    transition: width 0.5s ease;
+    box-shadow: 0 0 10px var(--accent-success);
+}
+
+.bar-bearish {
+    background: var(--accent-danger);
+    height: 100%;
+    transition: width 0.5s ease;
+    box-shadow: 0 0 10px var(--accent-danger);
+}
+
+.tug-labels {
+    display: flex;
+    justify-content: space-between;
+    font-family: var(--font-mono);
+    font-size: 0.8rem;
+    color: var(--text-muted);
+}
+
+.bull-label {
+    color: var(--accent-success);
+    font-weight: bold;
+}
+
+.bear-label {
+    color: var(--accent-danger);
+    font-weight: bold;
+}
+
 .source-list {
     list-style: none;
     padding: 0;

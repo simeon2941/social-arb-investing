@@ -147,6 +147,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (src.includes('Reddit')) platform = 'REDDIT';
                 if (src.includes('TikTok')) platform = 'TIKTOK';
                 if (src.includes('Twitter')) platform = 'TWITTER';
+                if (src.includes('news')) platform = 'NEWS';
 
                 // If it's a URL-like string
                 if (src.startsWith('http')) link = src;
@@ -164,46 +165,61 @@ document.addEventListener('DOMContentLoaded', () => {
             list.appendChild(li);
         });
 
-        // Chart
-        const ctx = document.getElementById('modal-chart').getContext('2d');
-        if (chartInstance) chartInstance.destroy();
+        // Update Sentiment Battle
+        const bullish = signal.bullish_search_vol || 0;
+        const bearish = signal.bearish_search_vol || 0;
+        const total = bullish + bearish;
 
-        chartInstance = new Chart(ctx, {
-            type: 'bar',
-            data: {
-                labels: ['Sentiment', 'Velocity', 'Strength'],
-                datasets: [{
-                    label: 'Metrics',
-                    data: [signal.avg_sentiment, signal.velocity, signal.signal_strength],
-                    backgroundColor: [
-                        'rgba(0, 243, 255, 0.5)',
-                        'rgba(255, 0, 255, 0.5)',
-                        'rgba(0, 255, 157, 0.5)'
-                    ],
-                    borderColor: [
-                        'rgba(0, 243, 255, 1)',
-                        'rgba(255, 0, 255, 1)',
-                        'rgba(0, 255, 157, 1)'
-                    ],
-                    borderWidth: 1
-                }]
-            },
-            options: {
-                responsive: true,
-                maintainAspectRatio: false,
-                scales: {
-                    y: {
-                        beginAtZero: true,
-                        grid: { color: 'rgba(255,255,255,0.1)' }
-                    },
-                    x: {
-                        grid: { color: 'rgba(255,255,255,0.1)' }
-                    }
-                },
-                plugins: {
-                    legend: { display: false }
+        let bullPct = 50;
+        let bearPct = 50;
+
+        if (total > 0) {
+            bullPct = (bullish / total) * 100;
+            bearPct = (bearish / total) * 100;
+        }
+
+        const bullBar = document.getElementById('modal-bullish-bar');
+        const bearBar = document.getElementById('modal-bearish-bar');
+
+        if (bullBar && bearBar) {
+            bullBar.style.width = `${bullPct}%`;
+            bearBar.style.width = `${bearPct}%`;
+        }
+
+        const bullLabel = document.getElementById('modal-bull-vol');
+        const bearLabel = document.getElementById('modal-bear-vol');
+
+        if (bullLabel) bullLabel.textContent = bullish.toLocaleString();
+        if (bearLabel) bearLabel.textContent = bearish.toLocaleString();
+
+
+        // Inject TradingView Widget
+        const container = document.getElementById('tradingview_chart');
+        if (container) {
+            container.innerHTML = ''; // Clear previous
+
+            const script = document.createElement('script');
+            script.src = 'https://s3.tradingview.com/tv.js';
+            script.async = true;
+            script.onload = () => {
+                if (window.TradingView) {
+                    new TradingView.widget({
+                        "width": "100%",
+                        "height": 400,
+                        "symbol": signal.ticker,
+                        "interval": "D",
+                        "timezone": "Etc/UTC",
+                        "theme": "dark",
+                        "style": "1",
+                        "locale": "en",
+                        "toolbar_bg": "#f1f3f6",
+                        "enable_publishing": false,
+                        "allow_symbol_change": true,
+                        "container_id": "tradingview_chart"
+                    });
                 }
-            }
-        });
+            };
+            container.appendChild(script);
+        }
     }
 });
