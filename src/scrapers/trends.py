@@ -4,6 +4,7 @@ import pandas as pd
 from typing import List, Dict, Any
 from datetime import datetime
 import xml.etree.ElementTree as ET
+import time
 
 class TrendsScraper:
     """
@@ -74,8 +75,8 @@ class AdvancedTrendsScraper:
         try:
             from pytrends.request import TrendReq
             # hl='en-US', tz=360 corresponds to US CST/central time mostly, or just standard US offset
-            # Increased timeout and retries for stability
-            self.pytrends = TrendReq(hl='en-US', tz=360, timeout=(10,25), retries=2)
+            # Increased timeout for stability (retries removed due to urllib3 conflict)
+            self.pytrends = TrendReq(hl='en-US', tz=360, timeout=(10,25))
         except ImportError:
             print("Error: pytrends not installed. Please run `pip install pytrends`.")
             self.pytrends = None
@@ -140,10 +141,20 @@ class AdvancedTrendsScraper:
         # Let's take the most potent term: "buy [symbol]" vs "sell [symbol]"
         kw_list = [bullish_terms[0], bearish_terms[0]] 
         
+        time.sleep(2) # Rate limiting to avoid 429s (Too Many Requests)
         data = self.get_interest_over_time(kw_list, timeframe='today 3-m')
         
-        if data is None or (isinstance(data, pd.DataFrame) and data.empty) or (isinstance(data, dict) and not data):
+        if data is None:
             print(f"Warning: No trend data returned for {symbol}")
+            return None
+            
+        # Pytrends can return a dict on failure/empty instead of DataFrame
+        if not isinstance(data, pd.DataFrame):
+            print(f"Warning: Pytrends returned non-DataFrame (type: {type(data)}) for {symbol}")
+            return None
+            
+        if data.empty:
+            print(f"Warning: Empty DataFrame returned for {symbol}")
             return None
             
         # Calculate simple ratio

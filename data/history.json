@@ -1,1 +1,988 @@
-{}
+{
+  "INTC": {
+    "count": 3,
+    "sentiment_sum": 1.3068,
+    "sources": [
+      "Reddit: wallstreetbets",
+      "Reddit: wallstreetbets",
+      "Reddit: stockmarket"
+    ],
+    "trend_sentiment": 16.75,
+    "bullish_vol": 804,
+    "bearish_vol": 47
+  },
+  "CRM": {
+    "count": 1,
+    "sentiment_sum": 0.862,
+    "sources": [
+      "Reddit: wallstreetbets"
+    ],
+    "trend_sentiment": 13.046931407942239,
+    "bullish_vol": 3614,
+    "bearish_vol": 276
+  },
+  "META": {
+    "count": 12,
+    "sentiment_sum": 8.5915,
+    "sources": [
+      "Reddit: wallstreetbets",
+      "Reddit: wallstreetbets",
+      "Reddit: stocks",
+      "Reddit: stocks",
+      "Reddit: investing",
+      "Reddit: pennystocks",
+      "Reddit: stockmarket",
+      "Reddit: thetagang",
+      "Reddit: ValueInvesting",
+      "Reddit: SecurityAnalysis",
+      "Reddit: SecurityAnalysis",
+      "Reddit: SecurityAnalysis"
+    ],
+    "trend_sentiment": 7.619277108433735,
+    "bullish_vol": 3162,
+    "bearish_vol": 414
+  },
+  "NVDA": {
+    "count": 21,
+    "sentiment_sum": 13.779599999999999,
+    "sources": [
+      "Reddit: wallstreetbets",
+      "Reddit: stocks",
+      "Reddit: stocks",
+      "Reddit: stocks",
+      "Reddit: stocks",
+      "Reddit: stocks",
+      "Reddit: stocks",
+      "Reddit: investing",
+      "Reddit: investing",
+      "Reddit: stockmarket",
+      "Reddit: stockmarket",
+      "Reddit: stockmarket",
+      "Reddit: stockmarket",
+      "Reddit: stockmarket",
+      "Reddit: stockmarket",
+      "Reddit: SPACs",
+      "Reddit: smallstreetbets",
+      "Reddit: SwingTrading",
+      "Reddit: ValueInvesting",
+      "Reddit: ValueInvesting",
+      "Reddit: SecurityAnalysis"
+    ],
+    "trend_sentiment": 3.4402877697841725,
+    "bullish_vol": 2391,
+    "bearish_vol": 694
+  },
+  "GOOG": {
+    "count": 16,
+    "sentiment_sum": 10.0903,
+    "sources": [
+      "Reddit: wallstreetbets",
+      "Reddit: stocks",
+      "Reddit: stocks",
+      "Reddit: stocks",
+      "Reddit: stocks",
+      "Reddit: investing",
+      "Reddit: investing",
+      "Reddit: options",
+      "Reddit: options",
+      "Reddit: stockmarket",
+      "Reddit: stockmarket",
+      "Reddit: stockmarket",
+      "Reddit: SPACs",
+      "Reddit: ValueInvesting",
+      "Reddit: ValueInvesting",
+      "Reddit: ValueInvesting"
+    ],
+    "trend_sentiment": 5.775862068965517,
+    "bullish_vol": 1005,
+    "bearish_vol": 173
+  },
+  "BLK": {
+    "count": 4,
+    "sentiment_sum": 2.8915,
+    "sources": [
+      "Reddit: wallstreetbets",
+      "Reddit: stocks",
+      "Reddit: investing",
+      "Reddit: ValueInvesting"
+    ],
+    "trend_sentiment": 2.43801652892562,
+    "bullish_vol": 295,
+    "bearish_vol": 120
+  },
+  "CSCO": {
+    "count": 2,
+    "sentiment_sum": 1.0543,
+    "sources": [
+      "Reddit: wallstreetbets",
+      "Reddit: ValueInvesting"
+    ],
+    "trend_sentiment": 329.0,
+    "bullish_vol": 329,
+    "bearish_vol": 0
+  },
+  "AMZN": {
+    "count": 5,
+    "sentiment_sum": 1.9655,
+    "sources": [
+      "Reddit: stocks",
+      "Reddit: stockmarket",
+      "Reddit: stockmarket",
+      "Reddit: smallstreetbets",
+      "Reddit: SwingTrading"
+    ],
+    "trend_sentiment": 5.39622641509434,
+    "bullish_vol": 1144,
+    "bearish_vol": 211
+  },
+  "MSCI": {
+    "count": 3,
+    "sentiment_sum": 2.8268,
+    "sources": [
+      "Reddit: stocks",
+      "Reddit: investing",
+      "Reddit: SecurityAnalysis"
+    ],
+    "trend_sentiment": 113.42857142857143,
+    "bullish_vol": 1588,
+    "bearish_vol": 13
+  },
+  "VG": {
+    "count": 1,
+    "sentiment_sum": 0.2263,
+    "sources": [
+      "Reddit: stocks"
+    ],
+    "trend_sentiment": 357.0,
+    "bullish_vol": 357,
+    "bearish_vol": 0
+  },
+  "POET": {
+    "count": 1,
+    "sentiment_sum": 0.997,
+    "sources": [
+      "Reddit: stocks"
+    ],
+    "trend_sentiment": 15.868421052631579,
+    "bullish_vol": 1206,
+    "bearish_vol": 75
+  },
+  "BAC": {
+    "count": 2,
+    "sentiment_sum": 1.1364999999999998,
+    "sources": [
+      "Reddit: stocks",
+      "Reddit: ValueInvesting"
+    ],
+    "trend_sentiment": 33.84615384615385,
+    "bullish_vol": 1760,
+    "bearish_vol": 51
+  },
+  "AVGO": {
+    "count": 2,
+    "sentiment_sum": 1.2387,
+    "sources": [
+      "Reddit: stocks",
+      "Reddit: options"
+    ],
+    "trend_sentiment": 12.255813953488373,
+    "bullish_vol": 527,
+    "bearish_vol": 42
+  },
+  "MU": {
+    "count": 3,
+    "sentiment_sum": 2.8872,
+    "sources": [
+      "Reddit: stocks",
+      "Reddit: investing",
+      "Reddit: ValueInvesting"
+    ],
+    "trend_sentiment": 10.911016949152541,
+    "bullish_vol": 2575,
+    "bearish_vol": 235
+  },
+  "MMM": {
+    "count": 3,
+    "sentiment_sum": 2.9324,
+    "sources": [
+      "Reddit: stocks",
+      "Reddit: pennystocks",
+      "Reddit: pennystocks"
+    ],
+    "trend_sentiment": 2.4155844155844157,
+    "bullish_vol": 186,
+    "bearish_vol": 76
+  },
+  "AAPL": {
+    "count": 5,
+    "sentiment_sum": 3.0218000000000003,
+    "sources": [
+      "Reddit: stocks",
+      "Reddit: options",
+      "Reddit: stockmarket",
+      "Reddit: smallstreetbets",
+      "Reddit: ValueInvesting"
+    ],
+    "trend_sentiment": 13.24,
+    "bullish_vol": 1324,
+    "bearish_vol": 99
+  },
+  "V": {
+    "count": 1,
+    "sentiment_sum": -0.1668,
+    "sources": [
+      "Reddit: investing"
+    ],
+    "trend_sentiment": 4.673076923076923,
+    "bullish_vol": 4131,
+    "bearish_vol": 883
+  },
+  "MSFT": {
+    "count": 6,
+    "sentiment_sum": 1.0834000000000001,
+    "sources": [
+      "Reddit: investing",
+      "Reddit: options",
+      "Reddit: stockmarket",
+      "Reddit: ValueInvesting",
+      "Reddit: SecurityAnalysis",
+      "Reddit: shortsqueeze"
+    ],
+    "trend_sentiment": 7.0046728971962615,
+    "bullish_vol": 1499,
+    "bearish_vol": 213
+  },
+  "TSM": {
+    "count": 1,
+    "sentiment_sum": 0.8762,
+    "sources": [
+      "Reddit: investing"
+    ],
+    "trend_sentiment": 27.76923076923077,
+    "bullish_vol": 722,
+    "bearish_vol": 25
+  },
+  "SLV": {
+    "count": 2,
+    "sentiment_sum": 1.5622,
+    "sources": [
+      "Reddit: options",
+      "Reddit: options"
+    ],
+    "trend_sentiment": 3.479768786127168,
+    "bullish_vol": 602,
+    "bearish_vol": 172
+  },
+  "WEN": {
+    "count": 2,
+    "sentiment_sum": 1.3597000000000001,
+    "sources": [
+      "Reddit: options",
+      "Reddit: thetagang"
+    ],
+    "trend_sentiment": 3.324324324324324,
+    "bullish_vol": 492,
+    "bearish_vol": 147
+  },
+  "IBKR": {
+    "count": 1,
+    "sentiment_sum": 0.9906,
+    "sources": [
+      "Reddit: options"
+    ],
+    "trend_sentiment": 4.869565217391305,
+    "bullish_vol": 336,
+    "bearish_vol": 68
+  },
+  "BYND": {
+    "count": 1,
+    "sentiment_sum": 0.9676,
+    "sources": [
+      "Reddit: pennystocks"
+    ],
+    "trend_sentiment": 1.8596491228070176,
+    "bullish_vol": 212,
+    "bearish_vol": 113
+  },
+  "SQFT": {
+    "count": 2,
+    "sentiment_sum": 1.4876,
+    "sources": [
+      "Reddit: pennystocks",
+      "Reddit: smallstreetbets"
+    ],
+    "trend_sentiment": 17.27777777777778,
+    "bullish_vol": 1244,
+    "bearish_vol": 71
+  },
+  "PW": {
+    "count": 2,
+    "sentiment_sum": 1.4876,
+    "sources": [
+      "Reddit: pennystocks",
+      "Reddit: smallstreetbets"
+    ],
+    "trend_sentiment": 238.0,
+    "bullish_vol": 238,
+    "bearish_vol": 0
+  },
+  "ZENA": {
+    "count": 1,
+    "sentiment_sum": 0.9688,
+    "sources": [
+      "Reddit: pennystocks"
+    ],
+    "trend_sentiment": 1.8229166666666667,
+    "bullish_vol": 175,
+    "bearish_vol": 95
+  },
+  "ELBM": {
+    "count": 1,
+    "sentiment_sum": 0.988,
+    "sources": [
+      "Reddit: pennystocks"
+    ]
+  },
+  "MWG": {
+    "count": 1,
+    "sentiment_sum": -0.2368,
+    "sources": [
+      "Reddit: pennystocks"
+    ]
+  },
+  "MEHA": {
+    "count": 1,
+    "sentiment_sum": 0.1027,
+    "sources": [
+      "Reddit: pennystocks"
+    ]
+  },
+  "ARAY": {
+    "count": 1,
+    "sentiment_sum": 0.5423,
+    "sources": [
+      "Reddit: pennystocks"
+    ]
+  },
+  "CUPPF": {
+    "count": 1,
+    "sentiment_sum": 0.9982,
+    "sources": [
+      "Reddit: pennystocks"
+    ]
+  },
+  "ONAR": {
+    "count": 1,
+    "sentiment_sum": 0.3612,
+    "sources": [
+      "Reddit: pennystocks"
+    ],
+    "trend_sentiment": 0.0,
+    "bullish_vol": 0,
+    "bearish_vol": 100
+  },
+  "CAD": {
+    "count": 1,
+    "sentiment_sum": -0.2255,
+    "sources": [
+      "Reddit: pennystocks"
+    ],
+    "trend_sentiment": 15.673333333333334,
+    "bullish_vol": 2351,
+    "bearish_vol": 149
+  },
+  "ALGID": {
+    "count": 1,
+    "sentiment_sum": 0.6369,
+    "sources": [
+      "Reddit: pennystocks"
+    ]
+  },
+  "LEXX": {
+    "count": 1,
+    "sentiment_sum": 0.9924,
+    "sources": [
+      "Reddit: pennystocks"
+    ],
+    "trend_sentiment": 1.1904761904761905,
+    "bullish_vol": 100,
+    "bearish_vol": 83
+  },
+  "NAMI": {
+    "count": 1,
+    "sentiment_sum": -0.1898,
+    "sources": [
+      "Reddit: pennystocks"
+    ],
+    "trend_sentiment": 14.884615384615385,
+    "bullish_vol": 387,
+    "bearish_vol": 25
+  },
+  "SOPA": {
+    "count": 1,
+    "sentiment_sum": 0.2725,
+    "sources": [
+      "Reddit: pennystocks"
+    ],
+    "trend_sentiment": 1.7524752475247525,
+    "bullish_vol": 177,
+    "bearish_vol": 100
+  },
+  "PETV": {
+    "count": 1,
+    "sentiment_sum": 0.9772,
+    "sources": [
+      "Reddit: pennystocks"
+    ],
+    "trend_sentiment": 0.0,
+    "bullish_vol": 0,
+    "bearish_vol": 188
+  },
+  "SHOP": {
+    "count": 1,
+    "sentiment_sum": 0.3793,
+    "sources": [
+      "Reddit: stockmarket"
+    ],
+    "trend_sentiment": 2.847560975609756,
+    "bullish_vol": 3269,
+    "bearish_vol": 1147
+  },
+  "DJT": {
+    "count": 1,
+    "sentiment_sum": 0.9738,
+    "sources": [
+      "Reddit: stockmarket"
+    ],
+    "trend_sentiment": 4.746987951807229,
+    "bullish_vol": 394,
+    "bearish_vol": 82
+  },
+  "NFLX": {
+    "count": 3,
+    "sentiment_sum": 1.6646,
+    "sources": [
+      "Reddit: stockmarket",
+      "Reddit: SecurityAnalysis",
+      "Reddit: shortsqueeze"
+    ],
+    "trend_sentiment": 4.128571428571429,
+    "bullish_vol": 289,
+    "bearish_vol": 69
+  },
+  "COIN": {
+    "count": 1,
+    "sentiment_sum": 0.0,
+    "sources": [
+      "Reddit: stockmarket"
+    ],
+    "trend_sentiment": 2.55062630480167,
+    "bullish_vol": 4887,
+    "bearish_vol": 1915
+  },
+  "QQQ": {
+    "count": 6,
+    "sentiment_sum": 4.134,
+    "sources": [
+      "Reddit: thetagang",
+      "Reddit: shortsqueeze",
+      "Reddit: shortsqueeze",
+      "Reddit: shortsqueeze",
+      "Reddit: shortsqueeze",
+      "Reddit: shortsqueeze"
+    ],
+    "trend_sentiment": 40.63380281690141,
+    "bullish_vol": 2885,
+    "bearish_vol": 70
+  },
+  "UVXY": {
+    "count": 1,
+    "sentiment_sum": -0.8482,
+    "sources": [
+      "Reddit: thetagang"
+    ],
+    "trend_sentiment": 1.0707070707070707,
+    "bullish_vol": 106,
+    "bearish_vol": 98
+  },
+  "ACN": {
+    "count": 1,
+    "sentiment_sum": 0.8599,
+    "sources": [
+      "Reddit: thetagang"
+    ],
+    "trend_sentiment": 8.774193548387096,
+    "bullish_vol": 544,
+    "bearish_vol": 61
+  },
+  "UPS": {
+    "count": 1,
+    "sentiment_sum": -0.7087,
+    "sources": [
+      "Reddit: dividends"
+    ],
+    "trend_sentiment": 2.9675638371290547,
+    "bullish_vol": 4300,
+    "bearish_vol": 1448
+  },
+  "VUSB": {
+    "count": 1,
+    "sentiment_sum": 0.8048,
+    "sources": [
+      "Reddit: dividends"
+    ]
+  },
+  "BOLT": {
+    "count": 2,
+    "sentiment_sum": 1.8984999999999999,
+    "sources": [
+      "Reddit: SPACs",
+      "Reddit: ValueInvesting"
+    ],
+    "trend_sentiment": 9.980874316939891,
+    "bullish_vol": 3653,
+    "bearish_vol": 365
+  },
+  "CAEP": {
+    "count": 1,
+    "sentiment_sum": 0.936,
+    "sources": [
+      "Reddit: SPACs"
+    ],
+    "trend_sentiment": 198.0,
+    "bullish_vol": 198,
+    "bearish_vol": 0
+  },
+  "ILLR": {
+    "count": 1,
+    "sentiment_sum": 0.0,
+    "sources": [
+      "Reddit: smallstreetbets"
+    ]
+  },
+  "BURU": {
+    "count": 1,
+    "sentiment_sum": -0.3818,
+    "sources": [
+      "Reddit: smallstreetbets"
+    ],
+    "trend_sentiment": 1.5384615384615385,
+    "bullish_vol": 100,
+    "bearish_vol": 64
+  },
+  "SPY": {
+    "count": 1,
+    "sentiment_sum": 0.9249,
+    "sources": [
+      "Reddit: smallstreetbets"
+    ],
+    "trend_sentiment": 14.516447368421053,
+    "bullish_vol": 4413,
+    "bearish_vol": 303
+  },
+  "BBY": {
+    "count": 1,
+    "sentiment_sum": 0.9186,
+    "sources": [
+      "Reddit: Daytrading"
+    ],
+    "trend_sentiment": 1.1386138613861385,
+    "bullish_vol": 115,
+    "bearish_vol": 100
+  },
+  "HPQ": {
+    "count": 1,
+    "sentiment_sum": -0.9463,
+    "sources": [
+      "Reddit: Daytrading"
+    ]
+  },
+  "CTRA": {
+    "count": 1,
+    "sentiment_sum": 0.9919,
+    "sources": [
+      "Reddit: SwingTrading"
+    ]
+  },
+  "RZLT": {
+    "count": 1,
+    "sentiment_sum": 0.7303,
+    "sources": [
+      "Reddit: SwingTrading"
+    ]
+  },
+  "EUDA": {
+    "count": 1,
+    "sentiment_sum": 0.4588,
+    "sources": [
+      "Reddit: SwingTrading"
+    ]
+  },
+  "TRIB": {
+    "count": 1,
+    "sentiment_sum": 0.4588,
+    "sources": [
+      "Reddit: SwingTrading"
+    ],
+    "trend_sentiment": 105.0,
+    "bullish_vol": 105,
+    "bearish_vol": 0
+  },
+  "NKE": {
+    "count": 1,
+    "sentiment_sum": 0.9274,
+    "sources": [
+      "Reddit: SwingTrading"
+    ],
+    "trend_sentiment": 25.0,
+    "bullish_vol": 175,
+    "bearish_vol": 6
+  },
+  "CVNA": {
+    "count": 1,
+    "sentiment_sum": 0.6808,
+    "sources": [
+      "Reddit: SwingTrading"
+    ],
+    "trend_sentiment": 0.0891089108910891,
+    "bullish_vol": 9,
+    "bearish_vol": 100
+  },
+  "FSLR": {
+    "count": 2,
+    "sentiment_sum": 1.6766,
+    "sources": [
+      "Reddit: SwingTrading",
+      "Reddit: shortsqueeze"
+    ],
+    "trend_sentiment": 1.1931818181818181,
+    "bullish_vol": 105,
+    "bearish_vol": 87
+  },
+  "GS": {
+    "count": 2,
+    "sentiment_sum": -0.5254,
+    "sources": [
+      "Reddit: ValueInvesting",
+      "Reddit: shortsqueeze"
+    ],
+    "trend_sentiment": 16.1875,
+    "bullish_vol": 1813,
+    "bearish_vol": 111
+  },
+  "IT": {
+    "count": 1,
+    "sentiment_sum": 0.1471,
+    "sources": [
+      "Reddit: ValueInvesting"
+    ],
+    "trend_sentiment": 2.9868835257082895,
+    "bullish_vol": 5693,
+    "bearish_vol": 1905
+  },
+  "ADBE": {
+    "count": 1,
+    "sentiment_sum": 0.1471,
+    "sources": [
+      "Reddit: ValueInvesting"
+    ],
+    "trend_sentiment": 0.1782178217821782,
+    "bullish_vol": 18,
+    "bearish_vol": 100
+  },
+  "DOW": {
+    "count": 2,
+    "sentiment_sum": 0.9963,
+    "sources": [
+      "Reddit: ValueInvesting",
+      "Reddit: SecurityAnalysis"
+    ],
+    "trend_sentiment": 6.785028790786948,
+    "bullish_vol": 3535,
+    "bearish_vol": 520
+  },
+  "BRK.B": {
+    "count": 1,
+    "sentiment_sum": 0.9963,
+    "sources": [
+      "Reddit: ValueInvesting"
+    ],
+    "trend_sentiment": 195.0,
+    "bullish_vol": 195,
+    "bearish_vol": 0
+  },
+  "UBER": {
+    "count": 3,
+    "sentiment_sum": 1.2524,
+    "sources": [
+      "Reddit: ValueInvesting",
+      "Reddit: ValueInvesting",
+      "Reddit: ValueInvesting"
+    ],
+    "trend_sentiment": 6.888888888888889,
+    "bullish_vol": 2294,
+    "bearish_vol": 332
+  },
+  "IRON": {
+    "count": 1,
+    "sentiment_sum": 0.9153,
+    "sources": [
+      "Reddit: ValueInvesting"
+    ],
+    "trend_sentiment": 5.746938775510204,
+    "bullish_vol": 1408,
+    "bearish_vol": 244
+  },
+  "DUOL": {
+    "count": 1,
+    "sentiment_sum": 0.9524,
+    "sources": [
+      "Reddit: ValueInvesting"
+    ],
+    "trend_sentiment": 0.0,
+    "bullish_vol": 0,
+    "bearish_vol": 100
+  },
+  "HUBS": {
+    "count": 1,
+    "sentiment_sum": 0.9524,
+    "sources": [
+      "Reddit: ValueInvesting"
+    ],
+    "trend_sentiment": 53.333333333333336,
+    "bullish_vol": 800,
+    "bearish_vol": 14
+  },
+  "NXDR": {
+    "count": 1,
+    "sentiment_sum": 0.9524,
+    "sources": [
+      "Reddit: ValueInvesting"
+    ],
+    "trend_sentiment": 100.0,
+    "bullish_vol": 100,
+    "bearish_vol": 0
+  },
+  "WIX": {
+    "count": 1,
+    "sentiment_sum": 0.9524,
+    "sources": [
+      "Reddit: ValueInvesting"
+    ],
+    "trend_sentiment": 10.564245810055866,
+    "bullish_vol": 1891,
+    "bearish_vol": 178
+  },
+  "FVRR": {
+    "count": 1,
+    "sentiment_sum": 0.9524,
+    "sources": [
+      "Reddit: ValueInvesting"
+    ]
+  },
+  "MS": {
+    "count": 2,
+    "sentiment_sum": 0.13480000000000003,
+    "sources": [
+      "Reddit: SecurityAnalysis",
+      "Reddit: shortsqueeze"
+    ],
+    "trend_sentiment": 4.222935779816514,
+    "bullish_vol": 4603,
+    "bearish_vol": 1089
+  },
+  "RICK": {
+    "count": 1,
+    "sentiment_sum": 0.4939,
+    "sources": [
+      "Reddit: SecurityAnalysis"
+    ],
+    "trend_sentiment": 10.885906040268456,
+    "bullish_vol": 3244,
+    "bearish_vol": 297
+  },
+  "LYB": {
+    "count": 1,
+    "sentiment_sum": 0.0,
+    "sources": [
+      "Reddit: SecurityAnalysis"
+    ],
+    "trend_sentiment": 100.0,
+    "bullish_vol": 100,
+    "bearish_vol": 0
+  },
+  "PSNL": {
+    "count": 1,
+    "sentiment_sum": -0.9485,
+    "sources": [
+      "Reddit: SecurityAnalysis"
+    ]
+  },
+  "AIRI": {
+    "count": 1,
+    "sentiment_sum": 0.9536,
+    "sources": [
+      "Reddit: shortsqueeze"
+    ]
+  },
+  "CREV": {
+    "count": 4,
+    "sentiment_sum": -0.2732,
+    "sources": [
+      "Reddit: shortsqueeze",
+      "Reddit: shortsqueeze",
+      "Reddit: shortsqueeze",
+      "Reddit: shortsqueeze"
+    ]
+  },
+  "ORLA": {
+    "count": 4,
+    "sentiment_sum": 3.9864,
+    "sources": [
+      "Reddit: shortsqueeze",
+      "Reddit: shortsqueeze",
+      "Reddit: shortsqueeze",
+      "Reddit: shortsqueeze"
+    ]
+  },
+  "BKR": {
+    "count": 2,
+    "sentiment_sum": 1.9918,
+    "sources": [
+      "Reddit: shortsqueeze",
+      "Reddit: shortsqueeze"
+    ]
+  },
+  "UMAC": {
+    "count": 1,
+    "sentiment_sum": 0.9962,
+    "sources": [
+      "Reddit: shortsqueeze"
+    ],
+    "trend_sentiment": 100.0,
+    "bullish_vol": 100,
+    "bearish_vol": 0
+  },
+  "ZIM": {
+    "count": 2,
+    "sentiment_sum": 1.9943,
+    "sources": [
+      "Reddit: shortsqueeze",
+      "Reddit: shortsqueeze"
+    ],
+    "trend_sentiment": 868.0,
+    "bullish_vol": 868,
+    "bearish_vol": 0
+  },
+  "TMDE": {
+    "count": 1,
+    "sentiment_sum": 0.25,
+    "sources": [
+      "Reddit: shortsqueeze"
+    ],
+    "trend_sentiment": 0.0,
+    "bullish_vol": 0,
+    "bearish_vol": 100
+  },
+  "HXHX": {
+    "count": 1,
+    "sentiment_sum": 0.25,
+    "sources": [
+      "Reddit: shortsqueeze"
+    ]
+  },
+  "MIGI": {
+    "count": 1,
+    "sentiment_sum": 0.7184,
+    "sources": [
+      "Reddit: shortsqueeze"
+    ],
+    "trend_sentiment": 100.0,
+    "bullish_vol": 100,
+    "bearish_vol": 0
+  },
+  "ASTS": {
+    "count": 1,
+    "sentiment_sum": 0.9961,
+    "sources": [
+      "Reddit: shortsqueeze"
+    ],
+    "trend_sentiment": 8.76923076923077,
+    "bullish_vol": 342,
+    "bearish_vol": 38
+  },
+  "GLSI": {
+    "count": 1,
+    "sentiment_sum": 0.3818,
+    "sources": [
+      "Reddit: shortsqueeze"
+    ]
+  },
+  "GLE": {
+    "count": 4,
+    "sentiment_sum": -0.2751,
+    "sources": [
+      "Reddit: shortsqueeze",
+      "Reddit: shortsqueeze",
+      "Reddit: shortsqueeze",
+      "Reddit: shortsqueeze"
+    ],
+    "trend_sentiment": 8.4375,
+    "bullish_vol": 675,
+    "bearish_vol": 79
+  },
+  "XELB": {
+    "count": 1,
+    "sentiment_sum": 0.8787,
+    "sources": [
+      "Reddit: shortsqueeze"
+    ],
+    "trend_sentiment": 0.0,
+    "bullish_vol": 0,
+    "bearish_vol": 106
+  },
+  "FLWS": {
+    "count": 1,
+    "sentiment_sum": 0.6059,
+    "sources": [
+      "Reddit: shortsqueeze"
+    ],
+    "trend_sentiment": 100.0,
+    "bullish_vol": 100,
+    "bearish_vol": 0
+  },
+  "PATH": {
+    "count": 1,
+    "sentiment_sum": 0.4184,
+    "sources": [
+      "Reddit: shortsqueeze"
+    ],
+    "trend_sentiment": 9.900568181818182,
+    "bullish_vol": 3485,
+    "bearish_vol": 351
+  },
+  "SGML": {
+    "count": 1,
+    "sentiment_sum": 0.9956,
+    "sources": [
+      "Reddit: shortsqueeze"
+    ]
+  },
+  "AEHL": {
+    "count": 1,
+    "sentiment_sum": -0.5023,
+    "sources": [
+      "Reddit: shortsqueeze"
+    ]
+  },
+  "LAZR": {
+    "count": 1,
+    "sentiment_sum": 0.9925,
+    "sources": [
+      "Reddit: shortsqueeze"
+    ],
+    "trend_sentiment": 354.0,
+    "bullish_vol": 354,
+    "bearish_vol": 0
+  }
+}
