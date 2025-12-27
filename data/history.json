@@ -1,13 +1,13 @@
 {
-  "COIN": {
+  "NFLX": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "trend_sentiment": 2.579710144927536,
-    "bullish_vol": 4806,
-    "bearish_vol": 1862,
-    "current_price": 236.89999389648438
+    "trend_sentiment": 2.37007874015748,
+    "bullish_vol": 301,
+    "bearish_vol": 126,
+    "current_price": 94.47000122070312
   }
 }
