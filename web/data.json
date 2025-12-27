@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "last_scan": "15:02:55"
+    "last_scan": "2025-12-26 20:13:18"
   },
   "signals": [
     {
       "ticker": "CRM",
       "signal_strength": 1,
-      "velocity": 1,
+      "velocity": 0,
       "avg_sentiment": 0.862,
       "blind_spot": true,
       "analyst_rating": "Unknown",
@@ -28,23 +28,25 @@
     },
     {
       "ticker": "META",
-      "signal_strength": 8,
-      "velocity": 8,
-      "avg_sentiment": 0.86175,
+      "signal_strength": 12,
+      "velocity": 4,
+      "avg_sentiment": 0.7159583333333334,
       "blind_spot": false,
       "analyst_rating": "Unknown",
       "est_position_shares": 0,
       "sources": [
-        "Reddit: pennystocks",
+        "Reddit: SecurityAnalysis",
         "Reddit: stocks",
+        "Reddit: stockmarket",
+        "Reddit: pennystocks",
+        "Reddit: thetagang",
         "Reddit: wallstreetbets",
         "Reddit: investing",
-        "Reddit: thetagang",
-        "Reddit: stockmarket"
+        "Reddit: ValueInvesting"
       ],
       "details": {
-        "count": 8,
-        "sentiment_sum": 6.894,
+        "count": 12,
+        "sentiment_sum": 8.5915,
         "sources": [
           "Reddit: wallstreetbets",
           "Reddit: wallstreetbets",
@@ -53,30 +55,11 @@
           "Reddit: investing",
           "Reddit: pennystocks",
           "Reddit: stockmarket",
-          "Reddit: thetagang"
-        ]
-      },
-      "current_price": 0,
-      "trend_sentiment": 0,
-      "bullish_search_vol": 0,
-      "bearish_search_vol": 0
-    },
-    {
-      "ticker": "CSCO",
-      "signal_strength": 1,
-      "velocity": 1,
-      "avg_sentiment": 0.9072,
-      "blind_spot": false,
-      "analyst_rating": "Unknown",
-      "est_position_shares": 0,
-      "sources": [
-        "Reddit: wallstreetbets"
-      ],
-      "details": {
-        "count": 1,
-        "sentiment_sum": 0.9072,
-        "sources": [
-          "Reddit: wallstreetbets"
+          "Reddit: thetagang",
+          "Reddit: ValueInvesting",
+          "Reddit: SecurityAnalysis",
+          "Reddit: SecurityAnalysis",
+          "Reddit: SecurityAnalysis"
         ]
       },
       "current_price": 0,
@@ -86,21 +69,26 @@
     },
     {
       "ticker": "NVDA",
-      "signal_strength": 15,
-      "velocity": 15,
-      "avg_sentiment": 0.7020133333333332,
+      "signal_strength": 21,
+      "velocity": 6,
+      "avg_sentiment": 0.6561714285714285,
       "blind_spot": false,
       "analyst_rating": "Unknown",
       "est_position_shares": 0,
       "sources": [
-        "Reddit: wallstreetbets",
+        "Reddit: SPACs",
+        "Reddit: SecurityAnalysis",
+        "Reddit: stocks",
         "Reddit: stockmarket",
+        "Reddit: smallstreetbets",
+        "Reddit: SwingTrading",
+        "Reddit: wallstreetbets",
         "Reddit: investing",
-        "Reddit: stocks"
+        "Reddit: ValueInvesting"
       ],
       "details": {
-        "count": 15,
-        "sentiment_sum": 10.530199999999997,
+        "count": 21,
+        "sentiment_sum": 13.779599999999999,
         "sources": [
           "Reddit: wallstreetbets",
           "Reddit: stocks",
@@ -116,7 +104,38 @@
           "Reddit: stockmarket",
           "Reddit: stockmarket",
           "Reddit: stockmarket",
-          "Reddit: stockmarket"
+          "Reddit: stockmarket",
+          "Reddit: SPACs",
+          "Reddit: smallstreetbets",
+          "Reddit: SwingTrading",
+          "Reddit: ValueInvesting",
+          "Reddit: ValueInvesting",
+          "Reddit: SecurityAnalysis"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "CSCO",
+      "signal_strength": 2,
+      "velocity": 1,
+      "avg_sentiment": 0.52715,
+      "blind_spot": false,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 0,
+      "sources": [
+        "Reddit: wallstreetbets",
+        "Reddit: ValueInvesting"
+      ],
+      "details": {
+        "count": 2,
+        "sentiment_sum": 1.0543,
+        "sources": [
+          "Reddit: wallstreetbets",
+          "Reddit: ValueInvesting"
         ]
       },
       "current_price": 0,
@@ -127,25 +146,25 @@
     {
       "ticker": "BLK",
       "signal_strength": 4,
-      "velocity": 4,
-      "avg_sentiment": 0.86655,
+      "velocity": 0,
+      "avg_sentiment": 0.722875,
       "blind_spot": false,
       "analyst_rating": "Unknown",
       "est_position_shares": 0,
       "sources": [
         "Reddit: wallstreetbets",
-        "Reddit: dividends",
+        "Reddit: ValueInvesting",
         "Reddit: investing",
         "Reddit: stocks"
       ],
       "details": {
         "count": 4,
-        "sentiment_sum": 3.4662,
+        "sentiment_sum": 2.8915,
         "sources": [
           "Reddit: wallstreetbets",
           "Reddit: stocks",
           "Reddit: investing",
-          "Reddit: dividends"
+          "Reddit: ValueInvesting"
         ]
       },
       "current_price": 0,
@@ -155,22 +174,24 @@
     },
     {
       "ticker": "GOOG",
-      "signal_strength": 12,
-      "velocity": 12,
-      "avg_sentiment": 0.6291166666666665,
+      "signal_strength": 16,
+      "velocity": 4,
+      "avg_sentiment": 0.63064375,
       "blind_spot": false,
       "analyst_rating": "Unknown",
       "est_position_shares": 0,
       "sources": [
+        "Reddit: SPACs",
         "Reddit: stocks",
-        "Reddit: wallstreetbets",
+        "Reddit: stockmarket",
         "Reddit: options",
+        "Reddit: wallstreetbets",
         "Reddit: investing",
-        "Reddit: stockmarket"
+        "Reddit: ValueInvesting"
       ],
       "details": {
-        "count": 12,
-        "sentiment_sum": 7.549399999999999,
+        "count": 16,
+        "sentiment_sum": 10.0903,
         "sources": [
           "Reddit: wallstreetbets",
           "Reddit: stocks",
@@ -183,7 +204,11 @@
           "Reddit: options",
           "Reddit: stockmarket",
           "Reddit: stockmarket",
-          "Reddit: stockmarket"
+          "Reddit: stockmarket",
+          "Reddit: SPACs",
+          "Reddit: ValueInvesting",
+          "Reddit: ValueInvesting",
+          "Reddit: ValueInvesting"
         ]
       },
       "current_price": 0,
@@ -193,47 +218,22 @@
     },
     {
       "ticker": "INTC",
-      "signal_strength": 3,
-      "velocity": 3,
-      "avg_sentiment": 0.6002333333333333,
+      "signal_strength": 2,
+      "velocity": -1,
+      "avg_sentiment": 0.40225,
       "blind_spot": false,
       "analyst_rating": "Unknown",
       "est_position_shares": 0,
       "sources": [
         "Reddit: wallstreetbets",
-        "Reddit: options",
         "Reddit: stockmarket"
       ],
       "details": {
-        "count": 3,
-        "sentiment_sum": 1.8007,
+        "count": 2,
+        "sentiment_sum": 0.8045,
         "sources": [
           "Reddit: wallstreetbets",
-          "Reddit: options",
           "Reddit: stockmarket"
-        ]
-      },
-      "current_price": 0,
-      "trend_sentiment": 0,
-      "bullish_search_vol": 0,
-      "bearish_search_vol": 0
-    },
-    {
-      "ticker": "ONDS",
-      "signal_strength": 1,
-      "velocity": 1,
-      "avg_sentiment": 0.296,
-      "blind_spot": true,
-      "analyst_rating": "Unknown",
-      "est_position_shares": 10,
-      "sources": [
-        "Reddit: wallstreetbets"
-      ],
-      "details": {
-        "count": 1,
-        "sentiment_sum": 0.296,
-        "sources": [
-          "Reddit: wallstreetbets"
         ]
       },
       "current_price": 0,
@@ -243,23 +243,27 @@
     },
     {
       "ticker": "AMZN",
-      "signal_strength": 3,
-      "velocity": 3,
-      "avg_sentiment": 0.2333333333333333,
+      "signal_strength": 5,
+      "velocity": 2,
+      "avg_sentiment": 0.3931,
       "blind_spot": false,
       "analyst_rating": "Unknown",
       "est_position_shares": 0,
       "sources": [
+        "Reddit: stocks",
         "Reddit: stockmarket",
-        "Reddit: stocks"
+        "Reddit: smallstreetbets",
+        "Reddit: SwingTrading"
       ],
       "details": {
-        "count": 3,
-        "sentiment_sum": 0.7,
+        "count": 5,
+        "sentiment_sum": 1.9655,
         "sources": [
           "Reddit: stocks",
           "Reddit: stockmarket",
-          "Reddit: stockmarket"
+          "Reddit: stockmarket",
+          "Reddit: smallstreetbets",
+          "Reddit: SwingTrading"
         ]
       },
       "current_price": 0,
@@ -269,22 +273,24 @@
     },
     {
       "ticker": "MSCI",
-      "signal_strength": 2,
-      "velocity": 2,
-      "avg_sentiment": 0.9186,
+      "signal_strength": 3,
+      "velocity": 1,
+      "avg_sentiment": 0.9422666666666667,
       "blind_spot": true,
       "analyst_rating": "Unknown",
       "est_position_shares": 10,
       "sources": [
+        "Reddit: stocks",
         "Reddit: investing",
-        "Reddit: stocks"
+        "Reddit: SecurityAnalysis"
       ],
       "details": {
-        "count": 2,
-        "sentiment_sum": 1.8372,
+        "count": 3,
+        "sentiment_sum": 2.8268,
         "sources": [
           "Reddit: stocks",
-          "Reddit: investing"
+          "Reddit: investing",
+          "Reddit: SecurityAnalysis"
         ]
       },
       "current_price": 0,
@@ -295,7 +301,7 @@
     {
       "ticker": "VG",
       "signal_strength": 1,
-      "velocity": 1,
+      "velocity": 0,
       "avg_sentiment": 0.2263,
       "blind_spot": true,
       "analyst_rating": "Unknown",
@@ -318,7 +324,7 @@
     {
       "ticker": "POET",
       "signal_strength": 1,
-      "velocity": 1,
+      "velocity": 0,
       "avg_sentiment": 0.997,
       "blind_spot": false,
       "analyst_rating": "Unknown",
@@ -339,16 +345,41 @@
       "bearish_search_vol": 0
     },
     {
+      "ticker": "BAC",
+      "signal_strength": 2,
+      "velocity": 1,
+      "avg_sentiment": 0.5682499999999999,
+      "blind_spot": false,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 0,
+      "sources": [
+        "Reddit: stocks",
+        "Reddit: ValueInvesting"
+      ],
+      "details": {
+        "count": 2,
+        "sentiment_sum": 1.1364999999999998,
+        "sources": [
+          "Reddit: stocks",
+          "Reddit: ValueInvesting"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
       "ticker": "AVGO",
       "signal_strength": 2,
-      "velocity": 2,
+      "velocity": 0,
       "avg_sentiment": 0.61935,
       "blind_spot": false,
       "analyst_rating": "Unknown",
       "est_position_shares": 0,
       "sources": [
-        "Reddit: options",
-        "Reddit: stocks"
+        "Reddit: stocks",
+        "Reddit: options"
       ],
       "details": {
         "count": 2,
@@ -364,73 +395,25 @@
       "bearish_search_vol": 0
     },
     {
-      "ticker": "BAC",
-      "signal_strength": 1,
-      "velocity": 1,
-      "avg_sentiment": 0.9894,
-      "blind_spot": false,
-      "analyst_rating": "Unknown",
-      "est_position_shares": 0,
-      "sources": [
-        "Reddit: stocks"
-      ],
-      "details": {
-        "count": 1,
-        "sentiment_sum": 0.9894,
-        "sources": [
-          "Reddit: stocks"
-        ]
-      },
-      "current_price": 0,
-      "trend_sentiment": 0,
-      "bullish_search_vol": 0,
-      "bearish_search_vol": 0
-    },
-    {
       "ticker": "MU",
-      "signal_strength": 2,
-      "velocity": 2,
-      "avg_sentiment": 0.95845,
-      "blind_spot": false,
-      "analyst_rating": "Unknown",
-      "est_position_shares": 0,
-      "sources": [
-        "Reddit: investing",
-        "Reddit: stocks"
-      ],
-      "details": {
-        "count": 2,
-        "sentiment_sum": 1.9169,
-        "sources": [
-          "Reddit: stocks",
-          "Reddit: investing"
-        ]
-      },
-      "current_price": 0,
-      "trend_sentiment": 0,
-      "bullish_search_vol": 0,
-      "bearish_search_vol": 0
-    },
-    {
-      "ticker": "AAPL",
       "signal_strength": 3,
-      "velocity": 3,
-      "avg_sentiment": 0.3732666666666667,
+      "velocity": 1,
+      "avg_sentiment": 0.9624,
       "blind_spot": false,
       "analyst_rating": "Unknown",
       "est_position_shares": 0,
       "sources": [
-        "Reddit: options",
-        "Reddit: stockmarket",
-        "Reddit: stocks"
+        "Reddit: stocks",
+        "Reddit: investing",
+        "Reddit: ValueInvesting"
       ],
       "details": {
         "count": 3,
-        "sentiment_sum": 1.1198000000000001,
+        "sentiment_sum": 2.8872,
         "sources": [
           "Reddit: stocks",
-          "Reddit: options",
-          "Reddit: stockmarket"
+          "Reddit: investing",
+          "Reddit: ValueInvesting"
         ]
       },
       "current_price": 0,
@@ -440,23 +423,21 @@
     },
     {
       "ticker": "MMM",
-      "signal_strength": 4,
-      "velocity": 4,
-      "avg_sentiment": 0.8803,
+      "signal_strength": 3,
+      "velocity": -1,
+      "avg_sentiment": 0.9774666666666666,
       "blind_spot": true,
       "analyst_rating": "Unknown",
-      "est_position_shares": 15,
+      "est_position_shares": 10,
       "sources": [
-        "Reddit: pennystocks",
-        "Reddit: investing",
-        "Reddit: stocks"
+        "Reddit: stocks",
+        "Reddit: pennystocks"
       ],
       "details": {
-        "count": 4,
-        "sentiment_sum": 3.5212,
+        "count": 3,
+        "sentiment_sum": 2.9324,
         "sources": [
           "Reddit: stocks",
-          "Reddit: investing",
           "Reddit: pennystocks",
           "Reddit: pennystocks"
         ]
@@ -467,9 +448,40 @@
       "bearish_search_vol": 0
     },
     {
+      "ticker": "AAPL",
+      "signal_strength": 5,
+      "velocity": 2,
+      "avg_sentiment": 0.60436,
+      "blind_spot": false,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 0,
+      "sources": [
+        "Reddit: stocks",
+        "Reddit: stockmarket",
+        "Reddit: smallstreetbets",
+        "Reddit: options",
+        "Reddit: ValueInvesting"
+      ],
+      "details": {
+        "count": 5,
+        "sentiment_sum": 3.0218000000000003,
+        "sources": [
+          "Reddit: stocks",
+          "Reddit: options",
+          "Reddit: stockmarket",
+          "Reddit: smallstreetbets",
+          "Reddit: ValueInvesting"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
       "ticker": "V",
       "signal_strength": 1,
-      "velocity": 1,
+      "velocity": 0,
       "avg_sentiment": -0.1668,
       "blind_spot": false,
       "analyst_rating": "Unknown",
@@ -491,24 +503,30 @@
     },
     {
       "ticker": "MSFT",
-      "signal_strength": 3,
+      "signal_strength": 6,
       "velocity": 3,
-      "avg_sentiment": 0.34156666666666663,
+      "avg_sentiment": 0.18056666666666668,
       "blind_spot": false,
       "analyst_rating": "Unknown",
       "est_position_shares": 0,
       "sources": [
+        "Reddit: SecurityAnalysis",
+        "Reddit: stockmarket",
         "Reddit: options",
         "Reddit: investing",
-        "Reddit: stockmarket"
+        "Reddit: shortsqueeze",
+        "Reddit: ValueInvesting"
       ],
       "details": {
-        "count": 3,
-        "sentiment_sum": 1.0247,
+        "count": 6,
+        "sentiment_sum": 1.0834000000000001,
         "sources": [
           "Reddit: investing",
           "Reddit: options",
-          "Reddit: stockmarket"
+          "Reddit: stockmarket",
+          "Reddit: ValueInvesting",
+          "Reddit: SecurityAnalysis",
+          "Reddit: shortsqueeze"
         ]
       },
       "current_price": 0,
@@ -519,7 +537,7 @@
     {
       "ticker": "TSM",
       "signal_strength": 1,
-      "velocity": 1,
+      "velocity": 0,
       "avg_sentiment": 0.8762,
       "blind_spot": false,
       "analyst_rating": "Unknown",
@@ -542,7 +560,7 @@
     {
       "ticker": "SLV",
       "signal_strength": 2,
-      "velocity": 2,
+      "velocity": 0,
       "avg_sentiment": 0.7811,
       "blind_spot": true,
       "analyst_rating": "Unknown",
@@ -566,7 +584,7 @@
     {
       "ticker": "WEN",
       "signal_strength": 2,
-      "velocity": 2,
+      "velocity": 0,
       "avg_sentiment": 0.6798500000000001,
       "blind_spot": true,
       "analyst_rating": "Unknown",
@@ -591,7 +609,7 @@
     {
       "ticker": "IBKR",
       "signal_strength": 1,
-      "velocity": 1,
+      "velocity": 0,
       "avg_sentiment": 0.9906,
       "blind_spot": true,
       "analyst_rating": "Unknown",
@@ -612,32 +630,9 @@
       "bearish_search_vol": 0
     },
     {
-      "ticker": "CWAN",
-      "signal_strength": 1,
-      "velocity": 1,
-      "avg_sentiment": 0.0,
-      "blind_spot": true,
-      "analyst_rating": "Unknown",
-      "est_position_shares": 10,
-      "sources": [
-        "Reddit: options"
-      ],
-      "details": {
-        "count": 1,
-        "sentiment_sum": 0.0,
-        "sources": [
-          "Reddit: options"
-        ]
-      },
-      "current_price": 0,
-      "trend_sentiment": 0,
-      "bullish_search_vol": 0,
-      "bearish_search_vol": 0
-    },
-    {
       "ticker": "BYND",
       "signal_strength": 1,
-      "velocity": 1,
+      "velocity": 0,
       "avg_sentiment": 0.9676,
       "blind_spot": true,
       "analyst_rating": "Unknown",
@@ -659,20 +654,22 @@
     },
     {
       "ticker": "SQFT",
-      "signal_strength": 1,
+      "signal_strength": 2,
       "velocity": 1,
       "avg_sentiment": 0.7438,
       "blind_spot": true,
       "analyst_rating": "Unknown",
       "est_position_shares": 10,
       "sources": [
-        "Reddit: pennystocks"
+        "Reddit: pennystocks",
+        "Reddit: smallstreetbets"
       ],
       "details": {
-        "count": 1,
-        "sentiment_sum": 0.7438,
+        "count": 2,
+        "sentiment_sum": 1.4876,
         "sources": [
-          "Reddit: pennystocks"
+          "Reddit: pennystocks",
+          "Reddit: smallstreetbets"
         ]
       },
       "current_price": 0,
@@ -682,20 +679,22 @@
     },
     {
       "ticker": "PW",
-      "signal_strength": 1,
+      "signal_strength": 2,
       "velocity": 1,
       "avg_sentiment": 0.7438,
       "blind_spot": true,
       "analyst_rating": "Unknown",
       "est_position_shares": 10,
       "sources": [
-        "Reddit: pennystocks"
+        "Reddit: pennystocks",
+        "Reddit: smallstreetbets"
       ],
       "details": {
-        "count": 1,
-        "sentiment_sum": 0.7438,
+        "count": 2,
+        "sentiment_sum": 1.4876,
         "sources": [
-          "Reddit: pennystocks"
+          "Reddit: pennystocks",
+          "Reddit: smallstreetbets"
         ]
       },
       "current_price": 0,
@@ -706,7 +705,7 @@
     {
       "ticker": "ZENA",
       "signal_strength": 1,
-      "velocity": 1,
+      "velocity": 0,
       "avg_sentiment": 0.9688,
       "blind_spot": true,
       "analyst_rating": "Unknown",
@@ -729,7 +728,7 @@
     {
       "ticker": "ELBM",
       "signal_strength": 1,
-      "velocity": 1,
+      "velocity": 0,
       "avg_sentiment": 0.988,
       "blind_spot": true,
       "analyst_rating": "Unknown",
@@ -752,7 +751,7 @@
     {
       "ticker": "MWG",
       "signal_strength": 1,
-      "velocity": 1,
+      "velocity": 0,
       "avg_sentiment": -0.2368,
       "blind_spot": true,
       "analyst_rating": "Unknown",
@@ -775,7 +774,7 @@
     {
       "ticker": "MEHA",
       "signal_strength": 1,
-      "velocity": 1,
+      "velocity": 0,
       "avg_sentiment": 0.1027,
       "blind_spot": true,
       "analyst_rating": "Unknown",
@@ -798,7 +797,7 @@
     {
       "ticker": "ARAY",
       "signal_strength": 1,
-      "velocity": 1,
+      "velocity": 0,
       "avg_sentiment": 0.5423,
       "blind_spot": true,
       "analyst_rating": "Unknown",
@@ -811,20 +810,17 @@
         "sentiment_sum": 0.5423,
         "sources": [
           "Reddit: pennystocks"
-        ],
-        "trend_sentiment": 100.0,
-        "bullish_vol": 100,
-        "bearish_vol": 0
+        ]
       },
       "current_price": 0,
-      "trend_sentiment": 100.0,
-      "bullish_search_vol": 100,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
       "bearish_search_vol": 0
     },
     {
       "ticker": "CUPPF",
       "signal_strength": 1,
-      "velocity": 1,
+      "velocity": 0,
       "avg_sentiment": 0.9982,
       "blind_spot": true,
       "analyst_rating": "Unknown",
@@ -847,7 +843,7 @@
     {
       "ticker": "ONAR",
       "signal_strength": 1,
-      "velocity": 1,
+      "velocity": 0,
       "avg_sentiment": 0.3612,
       "blind_spot": true,
       "analyst_rating": "Unknown",
@@ -870,7 +866,7 @@
     {
       "ticker": "CAD",
       "signal_strength": 1,
-      "velocity": 1,
+      "velocity": 0,
       "avg_sentiment": -0.2255,
       "blind_spot": true,
       "analyst_rating": "Unknown",
@@ -883,20 +879,17 @@
         "sentiment_sum": -0.2255,
         "sources": [
           "Reddit: pennystocks"
-        ],
-        "trend_sentiment": 16.055900621118013,
-        "bullish_vol": 2585,
-        "bearish_vol": 160
+        ]
       },
       "current_price": 0,
-      "trend_sentiment": 16.055900621118013,
-      "bullish_search_vol": 2585,
-      "bearish_search_vol": 160
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
     },
     {
       "ticker": "ALGID",
       "signal_strength": 1,
-      "velocity": 1,
+      "velocity": 0,
       "avg_sentiment": 0.6369,
       "blind_spot": true,
       "analyst_rating": "Unknown",
@@ -909,20 +902,17 @@
         "sentiment_sum": 0.6369,
         "sources": [
           "Reddit: pennystocks"
-        ],
-        "trend_sentiment": 100.0,
-        "bullish_vol": 100,
-        "bearish_vol": 0
+        ]
       },
       "current_price": 0,
-      "trend_sentiment": 100.0,
-      "bullish_search_vol": 100,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
       "bearish_search_vol": 0
     },
     {
       "ticker": "LEXX",
       "signal_strength": 1,
-      "velocity": 1,
+      "velocity": 0,
       "avg_sentiment": 0.9924,
       "blind_spot": true,
       "analyst_rating": "Unknown",
@@ -945,7 +935,7 @@
     {
       "ticker": "NAMI",
       "signal_strength": 1,
-      "velocity": 1,
+      "velocity": 0,
       "avg_sentiment": -0.1898,
       "blind_spot": true,
       "analyst_rating": "Unknown",
@@ -958,20 +948,17 @@
         "sentiment_sum": -0.1898,
         "sources": [
           "Reddit: pennystocks"
-        ],
-        "trend_sentiment": 921.0,
-        "bullish_vol": 921,
-        "bearish_vol": 0
+        ]
       },
       "current_price": 0,
-      "trend_sentiment": 921.0,
-      "bullish_search_vol": 921,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
       "bearish_search_vol": 0
     },
     {
       "ticker": "SOPA",
       "signal_strength": 1,
-      "velocity": 1,
+      "velocity": 0,
       "avg_sentiment": 0.2725,
       "blind_spot": true,
       "analyst_rating": "Unknown",
@@ -984,20 +971,17 @@
         "sentiment_sum": 0.2725,
         "sources": [
           "Reddit: pennystocks"
-        ],
-        "trend_sentiment": 880.0,
-        "bullish_vol": 880,
-        "bearish_vol": 0
+        ]
       },
       "current_price": 0,
-      "trend_sentiment": 880.0,
-      "bullish_search_vol": 880,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
       "bearish_search_vol": 0
     },
     {
       "ticker": "PETV",
       "signal_strength": 1,
-      "velocity": 1,
+      "velocity": 0,
       "avg_sentiment": 0.9772,
       "blind_spot": true,
       "analyst_rating": "Unknown",
@@ -1020,7 +1004,7 @@
     {
       "ticker": "SHOP",
       "signal_strength": 1,
-      "velocity": 1,
+      "velocity": 0,
       "avg_sentiment": 0.3793,
       "blind_spot": false,
       "analyst_rating": "Unknown",
@@ -1033,20 +1017,17 @@
         "sentiment_sum": 0.3793,
         "sources": [
           "Reddit: stockmarket"
-        ],
-        "trend_sentiment": 2.827526132404181,
-        "bullish_vol": 3246,
-        "bearish_vol": 1147
+        ]
       },
       "current_price": 0,
-      "trend_sentiment": 2.827526132404181,
-      "bullish_search_vol": 3246,
-      "bearish_search_vol": 1147
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
     },
     {
       "ticker": "DJT",
       "signal_strength": 1,
-      "velocity": 1,
+      "velocity": 0,
       "avg_sentiment": 0.9738,
       "blind_spot": true,
       "analyst_rating": "Unknown",
@@ -1059,46 +1040,44 @@
         "sentiment_sum": 0.9738,
         "sources": [
           "Reddit: stockmarket"
-        ],
-        "trend_sentiment": 1.8951048951048952,
-        "bullish_vol": 271,
-        "bearish_vol": 142
+        ]
       },
       "current_price": 0,
-      "trend_sentiment": 1.8951048951048952,
-      "bullish_search_vol": 271,
-      "bearish_search_vol": 142
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
     },
     {
       "ticker": "NFLX",
-      "signal_strength": 1,
-      "velocity": 1,
-      "avg_sentiment": 0.9153,
+      "signal_strength": 3,
+      "velocity": 2,
+      "avg_sentiment": 0.5548666666666667,
       "blind_spot": false,
       "analyst_rating": "Unknown",
       "est_position_shares": 0,
       "sources": [
-        "Reddit: stockmarket"
+        "Reddit: stockmarket",
+        "Reddit: shortsqueeze",
+        "Reddit: SecurityAnalysis"
       ],
       "details": {
-        "count": 1,
-        "sentiment_sum": 0.9153,
+        "count": 3,
+        "sentiment_sum": 1.6646,
         "sources": [
-          "Reddit: stockmarket"
-        ],
-        "trend_sentiment": 4.1688311688311686,
-        "bullish_vol": 321,
-        "bearish_vol": 76
+          "Reddit: stockmarket",
+          "Reddit: SecurityAnalysis",
+          "Reddit: shortsqueeze"
+        ]
       },
       "current_price": 0,
-      "trend_sentiment": 4.1688311688311686,
-      "bullish_search_vol": 321,
-      "bearish_search_vol": 76
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
     },
     {
       "ticker": "COIN",
       "signal_strength": 1,
-      "velocity": 1,
+      "velocity": 0,
       "avg_sentiment": 0.0,
       "blind_spot": false,
       "analyst_rating": "Unknown",
@@ -1111,20 +1090,17 @@
         "sentiment_sum": 0.0,
         "sources": [
           "Reddit: stockmarket"
-        ],
-        "trend_sentiment": 2.600612870275792,
-        "bullish_vol": 5092,
-        "bearish_vol": 1957
+        ]
       },
       "current_price": 0,
-      "trend_sentiment": 2.600612870275792,
-      "bullish_search_vol": 5092,
-      "bearish_search_vol": 1957
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
     },
     {
       "ticker": "UVXY",
       "signal_strength": 1,
-      "velocity": 1,
+      "velocity": 0,
       "avg_sentiment": -0.8482,
       "blind_spot": true,
       "analyst_rating": "Unknown",
@@ -1146,34 +1122,37 @@
     },
     {
       "ticker": "QQQ",
-      "signal_strength": 1,
-      "velocity": 1,
-      "avg_sentiment": -0.8482,
+      "signal_strength": 6,
+      "velocity": 5,
+      "avg_sentiment": 0.6890000000000001,
       "blind_spot": false,
       "analyst_rating": "Unknown",
       "est_position_shares": 0,
       "sources": [
+        "Reddit: shortsqueeze",
         "Reddit: thetagang"
       ],
       "details": {
-        "count": 1,
-        "sentiment_sum": -0.8482,
+        "count": 6,
+        "sentiment_sum": 4.134,
         "sources": [
-          "Reddit: thetagang"
-        ],
-        "trend_sentiment": 15.08421052631579,
-        "bullish_vol": 2866,
-        "bearish_vol": 189
+          "Reddit: thetagang",
+          "Reddit: shortsqueeze",
+          "Reddit: shortsqueeze",
+          "Reddit: shortsqueeze",
+          "Reddit: shortsqueeze",
+          "Reddit: shortsqueeze"
+        ]
       },
       "current_price": 0,
-      "trend_sentiment": 15.08421052631579,
-      "bullish_search_vol": 2866,
-      "bearish_search_vol": 189
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
     },
     {
       "ticker": "ACN",
       "signal_strength": 1,
-      "velocity": 1,
+      "velocity": 0,
       "avg_sentiment": 0.8599,
       "blind_spot": false,
       "analyst_rating": "Unknown",
@@ -1186,20 +1165,17 @@
         "sentiment_sum": 0.8599,
         "sources": [
           "Reddit: thetagang"
-        ],
-        "trend_sentiment": 1.5247524752475248,
-        "bullish_vol": 154,
-        "bearish_vol": 100
+        ]
       },
       "current_price": 0,
-      "trend_sentiment": 1.5247524752475248,
-      "bullish_search_vol": 154,
-      "bearish_search_vol": 100
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
     },
     {
       "ticker": "UPS",
       "signal_strength": 1,
-      "velocity": 1,
+      "velocity": 0,
       "avg_sentiment": -0.7087,
       "blind_spot": false,
       "analyst_rating": "Unknown",
@@ -1212,20 +1188,17 @@
         "sentiment_sum": -0.7087,
         "sources": [
           "Reddit: dividends"
-        ],
-        "trend_sentiment": 2.9851250845165653,
-        "bullish_vol": 4415,
-        "bearish_vol": 1478
+        ]
       },
       "current_price": 0,
-      "trend_sentiment": 2.9851250845165653,
-      "bullish_search_vol": 4415,
-      "bearish_search_vol": 1478
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
     },
     {
       "ticker": "VUSB",
       "signal_strength": 1,
-      "velocity": 1,
+      "velocity": 0,
       "avg_sentiment": 0.8048,
       "blind_spot": true,
       "analyst_rating": "Unknown",
@@ -1238,6 +1211,1156 @@
         "sentiment_sum": 0.8048,
         "sources": [
           "Reddit: dividends"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "BOLT",
+      "signal_strength": 2,
+      "velocity": 2,
+      "avg_sentiment": 0.9492499999999999,
+      "blind_spot": false,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 0,
+      "sources": [
+        "Reddit: SPACs",
+        "Reddit: ValueInvesting"
+      ],
+      "details": {
+        "count": 2,
+        "sentiment_sum": 1.8984999999999999,
+        "sources": [
+          "Reddit: SPACs",
+          "Reddit: ValueInvesting"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "CAEP",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": 0.936,
+      "blind_spot": true,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 10,
+      "sources": [
+        "Reddit: SPACs"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": 0.936,
+        "sources": [
+          "Reddit: SPACs"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "ILLR",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": 0.0,
+      "blind_spot": true,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 10,
+      "sources": [
+        "Reddit: smallstreetbets"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": 0.0,
+        "sources": [
+          "Reddit: smallstreetbets"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "BURU",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": -0.3818,
+      "blind_spot": true,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 10,
+      "sources": [
+        "Reddit: smallstreetbets"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": -0.3818,
+        "sources": [
+          "Reddit: smallstreetbets"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "SPY",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": 0.9249,
+      "blind_spot": false,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 0,
+      "sources": [
+        "Reddit: smallstreetbets"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": 0.9249,
+        "sources": [
+          "Reddit: smallstreetbets"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "BBY",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": 0.9186,
+      "blind_spot": true,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 10,
+      "sources": [
+        "Reddit: Daytrading"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": 0.9186,
+        "sources": [
+          "Reddit: Daytrading"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "HPQ",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": -0.9463,
+      "blind_spot": true,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 10,
+      "sources": [
+        "Reddit: Daytrading"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": -0.9463,
+        "sources": [
+          "Reddit: Daytrading"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "CTRA",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": 0.9919,
+      "blind_spot": true,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 10,
+      "sources": [
+        "Reddit: SwingTrading"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": 0.9919,
+        "sources": [
+          "Reddit: SwingTrading"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "RZLT",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": 0.7303,
+      "blind_spot": true,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 10,
+      "sources": [
+        "Reddit: SwingTrading"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": 0.7303,
+        "sources": [
+          "Reddit: SwingTrading"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "EUDA",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": 0.4588,
+      "blind_spot": true,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 10,
+      "sources": [
+        "Reddit: SwingTrading"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": 0.4588,
+        "sources": [
+          "Reddit: SwingTrading"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "TRIB",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": 0.4588,
+      "blind_spot": false,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 0,
+      "sources": [
+        "Reddit: SwingTrading"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": 0.4588,
+        "sources": [
+          "Reddit: SwingTrading"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "NKE",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": 0.9274,
+      "blind_spot": false,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 0,
+      "sources": [
+        "Reddit: SwingTrading"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": 0.9274,
+        "sources": [
+          "Reddit: SwingTrading"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "FSLR",
+      "signal_strength": 2,
+      "velocity": 2,
+      "avg_sentiment": 0.8383,
+      "blind_spot": true,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 10,
+      "sources": [
+        "Reddit: shortsqueeze",
+        "Reddit: SwingTrading"
+      ],
+      "details": {
+        "count": 2,
+        "sentiment_sum": 1.6766,
+        "sources": [
+          "Reddit: SwingTrading",
+          "Reddit: shortsqueeze"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "CVNA",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": 0.6808,
+      "blind_spot": true,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 10,
+      "sources": [
+        "Reddit: SwingTrading"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": 0.6808,
+        "sources": [
+          "Reddit: SwingTrading"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "IT",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": 0.1471,
+      "blind_spot": false,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 0,
+      "sources": [
+        "Reddit: ValueInvesting"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": 0.1471,
+        "sources": [
+          "Reddit: ValueInvesting"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "ADBE",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": 0.1471,
+      "blind_spot": false,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 0,
+      "sources": [
+        "Reddit: ValueInvesting"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": 0.1471,
+        "sources": [
+          "Reddit: ValueInvesting"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "GS",
+      "signal_strength": 2,
+      "velocity": 2,
+      "avg_sentiment": -0.2627,
+      "blind_spot": false,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 0,
+      "sources": [
+        "Reddit: shortsqueeze",
+        "Reddit: ValueInvesting"
+      ],
+      "details": {
+        "count": 2,
+        "sentiment_sum": -0.5254,
+        "sources": [
+          "Reddit: ValueInvesting",
+          "Reddit: shortsqueeze"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "BRK.B",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": 0.9963,
+      "blind_spot": true,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 10,
+      "sources": [
+        "Reddit: ValueInvesting"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": 0.9963,
+        "sources": [
+          "Reddit: ValueInvesting"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "DOW",
+      "signal_strength": 2,
+      "velocity": 2,
+      "avg_sentiment": 0.49815,
+      "blind_spot": false,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 0,
+      "sources": [
+        "Reddit: SecurityAnalysis",
+        "Reddit: ValueInvesting"
+      ],
+      "details": {
+        "count": 2,
+        "sentiment_sum": 0.9963,
+        "sources": [
+          "Reddit: ValueInvesting",
+          "Reddit: SecurityAnalysis"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "UBER",
+      "signal_strength": 3,
+      "velocity": 3,
+      "avg_sentiment": 0.41746666666666665,
+      "blind_spot": false,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 0,
+      "sources": [
+        "Reddit: ValueInvesting"
+      ],
+      "details": {
+        "count": 3,
+        "sentiment_sum": 1.2524,
+        "sources": [
+          "Reddit: ValueInvesting",
+          "Reddit: ValueInvesting",
+          "Reddit: ValueInvesting"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "IRON",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": 0.9153,
+      "blind_spot": false,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 0,
+      "sources": [
+        "Reddit: ValueInvesting"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": 0.9153,
+        "sources": [
+          "Reddit: ValueInvesting"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "FVRR",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": 0.9524,
+      "blind_spot": true,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 10,
+      "sources": [
+        "Reddit: ValueInvesting"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": 0.9524,
+        "sources": [
+          "Reddit: ValueInvesting"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "WIX",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": 0.9524,
+      "blind_spot": true,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 10,
+      "sources": [
+        "Reddit: ValueInvesting"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": 0.9524,
+        "sources": [
+          "Reddit: ValueInvesting"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "HUBS",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": 0.9524,
+      "blind_spot": false,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 0,
+      "sources": [
+        "Reddit: ValueInvesting"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": 0.9524,
+        "sources": [
+          "Reddit: ValueInvesting"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "NXDR",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": 0.9524,
+      "blind_spot": true,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 10,
+      "sources": [
+        "Reddit: ValueInvesting"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": 0.9524,
+        "sources": [
+          "Reddit: ValueInvesting"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "DUOL",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": 0.9524,
+      "blind_spot": true,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 10,
+      "sources": [
+        "Reddit: ValueInvesting"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": 0.9524,
+        "sources": [
+          "Reddit: ValueInvesting"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "PTC",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": -0.9637,
+      "blind_spot": false,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 0,
+      "sources": [
+        "Reddit: ValueInvesting"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": -0.9637,
+        "sources": [
+          "Reddit: ValueInvesting"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "MS",
+      "signal_strength": 2,
+      "velocity": 2,
+      "avg_sentiment": 0.06740000000000002,
+      "blind_spot": false,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 0,
+      "sources": [
+        "Reddit: shortsqueeze",
+        "Reddit: SecurityAnalysis"
+      ],
+      "details": {
+        "count": 2,
+        "sentiment_sum": 0.13480000000000003,
+        "sources": [
+          "Reddit: SecurityAnalysis",
+          "Reddit: shortsqueeze"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "RICK",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": 0.4939,
+      "blind_spot": false,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 0,
+      "sources": [
+        "Reddit: SecurityAnalysis"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": 0.4939,
+        "sources": [
+          "Reddit: SecurityAnalysis"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "LYB",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": 0.0,
+      "blind_spot": true,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 10,
+      "sources": [
+        "Reddit: SecurityAnalysis"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": 0.0,
+        "sources": [
+          "Reddit: SecurityAnalysis"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "PSNL",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": -0.9485,
+      "blind_spot": true,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 10,
+      "sources": [
+        "Reddit: SecurityAnalysis"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": -0.9485,
+        "sources": [
+          "Reddit: SecurityAnalysis"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "AIRI",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": 0.9536,
+      "blind_spot": true,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 10,
+      "sources": [
+        "Reddit: shortsqueeze"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": 0.9536,
+        "sources": [
+          "Reddit: shortsqueeze"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "CREV",
+      "signal_strength": 4,
+      "velocity": 4,
+      "avg_sentiment": -0.0683,
+      "blind_spot": true,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 15,
+      "sources": [
+        "Reddit: shortsqueeze"
+      ],
+      "details": {
+        "count": 4,
+        "sentiment_sum": -0.2732,
+        "sources": [
+          "Reddit: shortsqueeze",
+          "Reddit: shortsqueeze",
+          "Reddit: shortsqueeze",
+          "Reddit: shortsqueeze"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "UMAC",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": 0.9962,
+      "blind_spot": true,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 10,
+      "sources": [
+        "Reddit: shortsqueeze"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": 0.9962,
+        "sources": [
+          "Reddit: shortsqueeze"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "ORLA",
+      "signal_strength": 4,
+      "velocity": 4,
+      "avg_sentiment": 0.9966,
+      "blind_spot": true,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 15,
+      "sources": [
+        "Reddit: shortsqueeze"
+      ],
+      "details": {
+        "count": 4,
+        "sentiment_sum": 3.9864,
+        "sources": [
+          "Reddit: shortsqueeze",
+          "Reddit: shortsqueeze",
+          "Reddit: shortsqueeze",
+          "Reddit: shortsqueeze"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "BKR",
+      "signal_strength": 2,
+      "velocity": 2,
+      "avg_sentiment": 0.9959,
+      "blind_spot": true,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 10,
+      "sources": [
+        "Reddit: shortsqueeze"
+      ],
+      "details": {
+        "count": 2,
+        "sentiment_sum": 1.9918,
+        "sources": [
+          "Reddit: shortsqueeze",
+          "Reddit: shortsqueeze"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "ZIM",
+      "signal_strength": 2,
+      "velocity": 2,
+      "avg_sentiment": 0.99715,
+      "blind_spot": true,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 10,
+      "sources": [
+        "Reddit: shortsqueeze"
+      ],
+      "details": {
+        "count": 2,
+        "sentiment_sum": 1.9943,
+        "sources": [
+          "Reddit: shortsqueeze",
+          "Reddit: shortsqueeze"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "TMDE",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": 0.25,
+      "blind_spot": true,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 10,
+      "sources": [
+        "Reddit: shortsqueeze"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": 0.25,
+        "sources": [
+          "Reddit: shortsqueeze"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "HXHX",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": 0.25,
+      "blind_spot": true,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 10,
+      "sources": [
+        "Reddit: shortsqueeze"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": 0.25,
+        "sources": [
+          "Reddit: shortsqueeze"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "MIGI",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": 0.7184,
+      "blind_spot": true,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 10,
+      "sources": [
+        "Reddit: shortsqueeze"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": 0.7184,
+        "sources": [
+          "Reddit: shortsqueeze"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "ASTS",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": 0.9961,
+      "blind_spot": false,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 0,
+      "sources": [
+        "Reddit: shortsqueeze"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": 0.9961,
+        "sources": [
+          "Reddit: shortsqueeze"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "GLSI",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": 0.3818,
+      "blind_spot": true,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 10,
+      "sources": [
+        "Reddit: shortsqueeze"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": 0.3818,
+        "sources": [
+          "Reddit: shortsqueeze"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "GLE",
+      "signal_strength": 4,
+      "velocity": 4,
+      "avg_sentiment": -0.068775,
+      "blind_spot": true,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 15,
+      "sources": [
+        "Reddit: shortsqueeze"
+      ],
+      "details": {
+        "count": 4,
+        "sentiment_sum": -0.2751,
+        "sources": [
+          "Reddit: shortsqueeze",
+          "Reddit: shortsqueeze",
+          "Reddit: shortsqueeze",
+          "Reddit: shortsqueeze"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "XELB",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": 0.8787,
+      "blind_spot": true,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 10,
+      "sources": [
+        "Reddit: shortsqueeze"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": 0.8787,
+        "sources": [
+          "Reddit: shortsqueeze"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "FLWS",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": 0.6059,
+      "blind_spot": true,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 10,
+      "sources": [
+        "Reddit: shortsqueeze"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": 0.6059,
+        "sources": [
+          "Reddit: shortsqueeze"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "PATH",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": 0.4184,
+      "blind_spot": false,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 0,
+      "sources": [
+        "Reddit: shortsqueeze"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": 0.4184,
+        "sources": [
+          "Reddit: shortsqueeze"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "SGML",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": 0.9956,
+      "blind_spot": true,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 10,
+      "sources": [
+        "Reddit: shortsqueeze"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": 0.9956,
+        "sources": [
+          "Reddit: shortsqueeze"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "AEHL",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": -0.5023,
+      "blind_spot": true,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 10,
+      "sources": [
+        "Reddit: shortsqueeze"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": -0.5023,
+        "sources": [
+          "Reddit: shortsqueeze"
+        ]
+      },
+      "current_price": 0,
+      "trend_sentiment": 0,
+      "bullish_search_vol": 0,
+      "bearish_search_vol": 0
+    },
+    {
+      "ticker": "LAZR",
+      "signal_strength": 1,
+      "velocity": 1,
+      "avg_sentiment": 0.9925,
+      "blind_spot": true,
+      "analyst_rating": "Unknown",
+      "est_position_shares": 10,
+      "sources": [
+        "Reddit: shortsqueeze"
+      ],
+      "details": {
+        "count": 1,
+        "sentiment_sum": 0.9925,
+        "sources": [
+          "Reddit: shortsqueeze"
         ]
       },
       "current_price": 0,

@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const elSent = document.getElementById('global-sentiment');
 
     // Fetch Data
-    fetch('data.json')
+    fetch(`data.json?t=${new Date().getTime()}`)
         .then(res => res.json())
         .then(data => {
             // Check if data has metadata wrapper

@@ -74,7 +74,8 @@ class AdvancedTrendsScraper:
         try:
             from pytrends.request import TrendReq
             # hl='en-US', tz=360 corresponds to US CST/central time mostly, or just standard US offset
-            self.pytrends = TrendReq(hl='en-US', tz=360, timeout=(10,25))
+            # Increased timeout and retries for stability
+            self.pytrends = TrendReq(hl='en-US', tz=360, timeout=(10,25), retries=2)
         except ImportError:
             print("Error: pytrends not installed. Please run `pip install pytrends`.")
             self.pytrends = None
@@ -95,8 +96,10 @@ class AdvancedTrendsScraper:
                 return {}
             # Return as dict or raw dataframe wrapper
             return data
+            # Return as dict or raw dataframe wrapper
+            return data
         except Exception as e:
-            print(f"Error fetching interest over time: {e}")
+            print(f"Error fetching interest over time for {keywords}: {e}")
             return {}
 
     def get_related_queries(self, keyword: str) -> Dict[str, Any]:
@@ -140,6 +143,7 @@ class AdvancedTrendsScraper:
         data = self.get_interest_over_time(kw_list, timeframe='today 3-m')
         
         if data is None or (isinstance(data, pd.DataFrame) and data.empty) or (isinstance(data, dict) and not data):
+            print(f"Warning: No trend data returned for {symbol}")
             return None
             
         # Calculate simple ratio

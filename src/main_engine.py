@@ -332,7 +332,7 @@ class SocialArbEngine:
         web_path = os.path.join("web", "data.json")
         web_data = {
             "metadata": {
-                "last_scan": datetime.now().strftime("%H:%M:%S")
+                "last_scan": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
             },
             "signals": data
         }
