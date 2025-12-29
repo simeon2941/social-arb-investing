@@ -1,11 +1,11 @@
 [
   {
-    "ticker": "WMT",
+    "ticker": "INTU",
     "signal_strength": 1,
-    "velocity": 0,
+    "velocity": 1,
     "avg_sentiment": 0.1,
     "blind_spot": true,
-    "analyst_rating": "Neutral",
+    "analyst_rating": "Unknown",
     "est_position_shares": 10,
     "sources": [
       "GoogleTrends"
@@ -16,41 +16,14 @@
       "sources": [
         "GoogleTrends"
       ],
-      "trend_sentiment": 1.5702479338842976,
-      "bullish_vol": 190,
-      "bearish_vol": 120,
-      "current_price": 112.16999816894531
+      "trend_sentiment": 0.7722772277227723,
+      "bullish_vol": 78,
+      "bearish_vol": 100,
+      "current_price": 671.7000122070312
     },
-    "current_price": 112.16999816894531,
-    "trend_sentiment": 1.5702479338842976,
-    "bullish_search_vol": 190,
-    "bearish_search_vol": 120
-  },
-  {
-    "ticker": "INTC",
-    "signal_strength": 1,
-    "velocity": 0,
-    "avg_sentiment": 0.1,
-    "blind_spot": false,
-    "analyst_rating": "Neutral",
-    "est_position_shares": 0,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "details": {
-      "count": 1,
-      "sentiment_sum": 0.1,
-      "sources": [
-        "GoogleTrends"
-      ],
-      "trend_sentiment": 3.017543859649123,
-      "bullish_vol": 344,
-      "bearish_vol": 113,
-      "current_price": 36.415000915527344
-    },
-    "current_price": 36.415000915527344,
-    "trend_sentiment": 3.017543859649123,
-    "bullish_search_vol": 344,
-    "bearish_search_vol": 113
+    "current_price": 671.7000122070312,
+    "trend_sentiment": 0.7722772277227723,
+    "bullish_search_vol": 78,
+    "bearish_search_vol": 100
   }
 ]
