@@ -1,6 +1,33 @@
 [
   {
-    "ticker": "DOW",
+    "ticker": "WMT",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": true,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 10,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 1.5454545454545454,
+      "bullish_vol": 187,
+      "bearish_vol": 120,
+      "current_price": 112.43499755859375
+    },
+    "current_price": 112.43499755859375,
+    "trend_sentiment": 1.5454545454545454,
+    "bullish_search_vol": 187,
+    "bearish_search_vol": 120
+  },
+  {
+    "ticker": "INTC",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
@@ -16,11 +43,14 @@
       "sources": [
         "GoogleTrends"
       ],
-      "current_price": 23.174999237060547
+      "trend_sentiment": 2.956140350877193,
+      "bullish_vol": 337,
+      "bearish_vol": 113,
+      "current_price": 36.380001068115234
     },
-    "current_price": 23.174999237060547,
-    "trend_sentiment": 0,
-    "bullish_search_vol": 0,
-    "bearish_search_vol": 0
+    "current_price": 36.380001068115234,
+    "trend_sentiment": 2.956140350877193,
+    "bullish_search_vol": 337,
+    "bearish_search_vol": 113
   }
 ]
