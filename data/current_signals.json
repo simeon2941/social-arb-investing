@@ -2,7 +2,7 @@
   {
     "ticker": "WMT",
     "signal_strength": 1,
-    "velocity": 1,
+    "velocity": 0,
     "avg_sentiment": 0.1,
     "blind_spot": true,
     "analyst_rating": "Neutral",
@@ -16,20 +16,20 @@
       "sources": [
         "GoogleTrends"
       ],
-      "trend_sentiment": 1.5454545454545454,
-      "bullish_vol": 187,
+      "trend_sentiment": 1.5702479338842976,
+      "bullish_vol": 190,
       "bearish_vol": 120,
-      "current_price": 112.43499755859375
+      "current_price": 112.16999816894531
     },
-    "current_price": 112.43499755859375,
-    "trend_sentiment": 1.5454545454545454,
-    "bullish_search_vol": 187,
+    "current_price": 112.16999816894531,
+    "trend_sentiment": 1.5702479338842976,
+    "bullish_search_vol": 190,
     "bearish_search_vol": 120
   },
   {
     "ticker": "INTC",
     "signal_strength": 1,
-    "velocity": 1,
+    "velocity": 0,
     "avg_sentiment": 0.1,
     "blind_spot": false,
     "analyst_rating": "Neutral",
@@ -43,14 +43,14 @@
       "sources": [
         "GoogleTrends"
       ],
-      "trend_sentiment": 2.956140350877193,
-      "bullish_vol": 337,
+      "trend_sentiment": 3.017543859649123,
+      "bullish_vol": 344,
       "bearish_vol": 113,
-      "current_price": 36.380001068115234
+      "current_price": 36.415000915527344
     },
-    "current_price": 36.380001068115234,
-    "trend_sentiment": 2.956140350877193,
-    "bullish_search_vol": 337,
+    "current_price": 36.415000915527344,
+    "trend_sentiment": 3.017543859649123,
+    "bullish_search_vol": 344,
     "bearish_search_vol": 113
   }
 ]

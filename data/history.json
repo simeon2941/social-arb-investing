@@ -5,10 +5,10 @@
     "sources": [
       "GoogleTrends"
     ],
-    "trend_sentiment": 1.5454545454545454,
-    "bullish_vol": 187,
+    "trend_sentiment": 1.5702479338842976,
+    "bullish_vol": 190,
     "bearish_vol": 120,
-    "current_price": 112.43499755859375
+    "current_price": 112.16999816894531
   },
   "INTC": {
     "count": 1,
@@ -16,9 +16,9 @@
     "sources": [
       "GoogleTrends"
     ],
-    "trend_sentiment": 2.956140350877193,
-    "bullish_vol": 337,
+    "trend_sentiment": 3.017543859649123,
+    "bullish_vol": 344,
     "bearish_vol": 113,
-    "current_price": 36.380001068115234
+    "current_price": 36.415000915527344
   }
 }
