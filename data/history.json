@@ -1,13 +1,13 @@
 {
-  "ETR": {
+  "NFLX": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "trend_sentiment": 107.0,
-    "bullish_vol": 107,
-    "bearish_vol": 0,
-    "current_price": 92.8499984741211
+    "trend_sentiment": 4.920634920634921,
+    "bullish_vol": 310,
+    "bearish_vol": 62,
+    "current_price": 94.47000122070312
   }
 }
