@@ -1,1 +1,13 @@
-{}
+{
+  "CAT": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 4.3671875,
+    "bullish_vol": 3913,
+    "bearish_vol": 895,
+    "current_price": 578.6099853515625
+  }
+}
