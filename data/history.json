@@ -1,13 +1,1 @@
-{
-  "ACN": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "trend_sentiment": 838.0,
-    "bullish_vol": 838,
-    "bearish_vol": 0,
-    "current_price": 270.0199890136719
-  }
-}
+{}
