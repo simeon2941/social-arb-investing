@@ -137,18 +137,18 @@
     "symbol": "GOOGL",
     "name": "Alphabet Inc. (Class A)",
     "aliases": [
-      "google",
       "alphabet (class a)",
-      "alphabet inc. (class a)"
+      "alphabet inc. (class a)",
+      "google"
     ]
   },
   {
     "symbol": "GOOG",
     "name": "Alphabet Inc. (Class C)",
     "aliases": [
-      "google",
       "alphabet inc. (class c)",
-      "alphabet (class c)"
+      "alphabet (class c)",
+      "google"
     ]
   },
   {
@@ -253,8 +253,8 @@
     "symbol": "AON",
     "name": "Aon plc",
     "aliases": [
-      "aon plc",
-      "aon"
+      "aon",
+      "aon plc"
     ]
   },
   {
@@ -275,8 +275,8 @@
     "symbol": "AAPL",
     "name": "Apple Inc.",
     "aliases": [
-      "apple",
-      "apple inc."
+      "apple inc.",
+      "apple"
     ]
   },
   {
@@ -332,8 +332,8 @@
     "symbol": "AJG",
     "name": "Arthur J. Gallagher & Co.",
     "aliases": [
-      "arthur j. gallagher &",
-      "arthur j. gallagher & co."
+      "arthur j. gallagher & co.",
+      "arthur j. gallagher &"
     ]
   },
   {
@@ -473,16 +473,16 @@
     "symbol": "BX",
     "name": "Blackstone Inc.",
     "aliases": [
-      "blackstone",
-      "blackstone inc."
+      "blackstone inc.",
+      "blackstone"
     ]
   },
   {
     "symbol": "XYZ",
     "name": "Block, Inc.",
     "aliases": [
-      "block, inc.",
-      "block,"
+      "block,",
+      "block, inc."
     ]
   },
   {
@@ -566,8 +566,8 @@
     "symbol": "BXP",
     "name": "BXP, Inc.",
     "aliases": [
-      "bxp,",
-      "bxp, inc."
+      "bxp, inc.",
+      "bxp,"
     ]
   },
   {
@@ -1101,8 +1101,8 @@
     "symbol": "DOW",
     "name": "Dow Inc.",
     "aliases": [
-      "dow",
-      "dow inc."
+      "dow inc.",
+      "dow"
     ]
   },
   {
@@ -1144,8 +1144,8 @@
     "symbol": "EBAY",
     "name": "eBay Inc.",
     "aliases": [
-      "ebay inc.",
-      "ebay"
+      "ebay",
+      "ebay inc."
     ]
   },
   {
@@ -1334,8 +1334,8 @@
     "symbol": "FFIV",
     "name": "F5, Inc.",
     "aliases": [
-      "f5,",
-      "f5, inc."
+      "f5, inc.",
+      "f5,"
     ]
   },
   {
@@ -2173,8 +2173,8 @@
     "name": "Meta Platforms",
     "aliases": [
       "meta",
-      "meta platforms",
-      "facebook"
+      "facebook",
+      "meta platforms"
     ]
   },
   {
@@ -2308,8 +2308,8 @@
     "symbol": "NDAQ",
     "name": "Nasdaq, Inc.",
     "aliases": [
-      "nasdaq, inc.",
-      "nasdaq,"
+      "nasdaq,",
+      "nasdaq, inc."
     ]
   },
   {
@@ -2358,8 +2358,8 @@
     "symbol": "NKE",
     "name": "Nike, Inc.",
     "aliases": [
-      "nike,",
-      "nike, inc."
+      "nike, inc.",
+      "nike,"
     ]
   },
   {
@@ -2682,8 +2682,8 @@
     "symbol": "PTC",
     "name": "PTC Inc.",
     "aliases": [
-      "ptc",
-      "ptc inc."
+      "ptc inc.",
+      "ptc"
     ]
   },
   {
@@ -3361,8 +3361,8 @@
     "symbol": "VST",
     "name": "Vistra Corp.",
     "aliases": [
-      "vistra",
-      "vistra corp."
+      "vistra corp.",
+      "vistra"
     ]
   },
   {
@@ -3474,8 +3474,8 @@
     "symbol": "WSM",
     "name": "Williams-Sonoma, Inc.",
     "aliases": [
-      "williams-sonoma, inc.",
-      "williams-sonoma,"
+      "williams-sonoma,",
+      "williams-sonoma, inc."
     ]
   },
   {
