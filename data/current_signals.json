@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "ticker": "COST",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": false,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 0,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 4.123383084577115,
+      "bullish_vol": 4144,
+      "bearish_vol": 1004,
+      "current_price": 862.3400268554688
+    },
+    "current_price": 862.3400268554688,
+    "trend_sentiment": 4.123383084577115,
+    "bullish_search_vol": 4144,
+    "bearish_search_vol": 1004
+  }
+]
