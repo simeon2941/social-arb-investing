@@ -1,35 +1,24 @@
 {
+  "INTU": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 100.0,
+    "bullish_vol": 100,
+    "bearish_vol": 0,
+    "current_price": 630.3499755859375
+  },
   "ADBE": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "trend_sentiment": 0.5148514851485149,
-    "bullish_vol": 52,
-    "bearish_vol": 100,
-    "current_price": 334.4599914550781
-  },
-  "WMT": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "trend_sentiment": 20.851063829787233,
-    "bullish_vol": 980,
-    "bearish_vol": 46,
-    "current_price": 111.5999984741211
-  },
-  "IBM": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "trend_sentiment": 19.85,
-    "bullish_vol": 1588,
-    "bearish_vol": 79,
-    "current_price": 291.7650146484375
+    "trend_sentiment": 142.0,
+    "bullish_vol": 142,
+    "bearish_vol": 0,
+    "current_price": 335.32501220703125
   }
 }
