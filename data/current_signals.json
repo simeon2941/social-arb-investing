@@ -1,11 +1,11 @@
 [
   {
-    "ticker": "CI",
+    "ticker": "CNP",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
     "blind_spot": true,
-    "analyst_rating": "Neutral",
+    "analyst_rating": "Unknown",
     "est_position_shares": 10,
     "sources": [
       "GoogleTrends"
@@ -16,41 +16,14 @@
       "sources": [
         "GoogleTrends"
       ],
-      "trend_sentiment": 16.92,
-      "bullish_vol": 1269,
-      "bearish_vol": 74,
-      "current_price": 275.2300109863281
+      "trend_sentiment": 0.04950495049504951,
+      "bullish_vol": 5,
+      "bearish_vol": 100,
+      "current_price": 38.244998931884766
     },
-    "current_price": 275.2300109863281,
-    "trend_sentiment": 16.92,
-    "bullish_search_vol": 1269,
-    "bearish_search_vol": 74
-  },
-  {
-    "ticker": "HUM",
-    "signal_strength": 1,
-    "velocity": 1,
-    "avg_sentiment": 0.1,
-    "blind_spot": false,
-    "analyst_rating": "Neutral",
-    "est_position_shares": 0,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "details": {
-      "count": 1,
-      "sentiment_sum": 0.1,
-      "sources": [
-        "GoogleTrends"
-      ],
-      "trend_sentiment": 13.542372881355933,
-      "bullish_vol": 799,
-      "bearish_vol": 58,
-      "current_price": 256.1300048828125
-    },
-    "current_price": 256.1300048828125,
-    "trend_sentiment": 13.542372881355933,
-    "bullish_search_vol": 799,
-    "bearish_search_vol": 58
+    "current_price": 38.244998931884766,
+    "trend_sentiment": 0.04950495049504951,
+    "bullish_search_vol": 5,
+    "bearish_search_vol": 100
   }
 ]
