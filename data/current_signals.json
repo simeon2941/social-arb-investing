@@ -1,12 +1,12 @@
 [
   {
-    "ticker": "CNP",
+    "ticker": "ADBE",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
-    "blind_spot": true,
+    "blind_spot": false,
     "analyst_rating": "Unknown",
-    "est_position_shares": 10,
+    "est_position_shares": 0,
     "sources": [
       "GoogleTrends"
     ],
@@ -16,14 +16,68 @@
       "sources": [
         "GoogleTrends"
       ],
-      "trend_sentiment": 0.04950495049504951,
-      "bullish_vol": 5,
+      "trend_sentiment": 0.5148514851485149,
+      "bullish_vol": 52,
       "bearish_vol": 100,
-      "current_price": 38.244998931884766
+      "current_price": 334.4599914550781
     },
-    "current_price": 38.244998931884766,
-    "trend_sentiment": 0.04950495049504951,
-    "bullish_search_vol": 5,
+    "current_price": 334.4599914550781,
+    "trend_sentiment": 0.5148514851485149,
+    "bullish_search_vol": 52,
     "bearish_search_vol": 100
+  },
+  {
+    "ticker": "WMT",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": false,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 0,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 20.851063829787233,
+      "bullish_vol": 980,
+      "bearish_vol": 46,
+      "current_price": 111.5999984741211
+    },
+    "current_price": 111.5999984741211,
+    "trend_sentiment": 20.851063829787233,
+    "bullish_search_vol": 980,
+    "bearish_search_vol": 46
+  },
+  {
+    "ticker": "IBM",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": false,
+    "analyst_rating": "Unknown",
+    "est_position_shares": 0,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 19.85,
+      "bullish_vol": 1588,
+      "bearish_vol": 79,
+      "current_price": 291.7650146484375
+    },
+    "current_price": 291.7650146484375,
+    "trend_sentiment": 19.85,
+    "bullish_search_vol": 1588,
+    "bearish_search_vol": 79
   }
 ]
