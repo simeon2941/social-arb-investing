@@ -1,1 +1,13 @@
-{}
+{
+  "LMT": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 20.77777777777778,
+    "bullish_vol": 187,
+    "bearish_vol": 8,
+    "current_price": 492.8900146484375
+  }
+}
