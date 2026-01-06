@@ -1,1 +1,13 @@
-{}
+{
+  "MSCI": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 27.296875,
+    "bullish_vol": 1747,
+    "bearish_vol": 63,
+    "current_price": 586.9600219726562
+  }
+}
