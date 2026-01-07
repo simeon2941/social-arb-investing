@@ -1,1 +1,14 @@
-{}
+{
+  "INTC": {
+    "count": 2,
+    "sentiment_sum": 0.2,
+    "sources": [
+      "GoogleTrends",
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 0.8811881188118812,
+    "bullish_vol": 89,
+    "bearish_vol": 100,
+    "current_price": 43.83000183105469
+  }
+}
