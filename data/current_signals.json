@@ -1,12 +1,12 @@
 [
   {
-    "ticker": "GOOG",
+    "ticker": "AAPL",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
-    "blind_spot": true,
+    "blind_spot": false,
     "analyst_rating": "Neutral",
-    "est_position_shares": 10,
+    "est_position_shares": 0,
     "sources": [
       "GoogleTrends"
     ],
@@ -16,9 +16,9 @@
       "sources": [
         "GoogleTrends"
       ],
-      "current_price": 326.0199890136719
+      "current_price": 259.6650085449219
     },
-    "current_price": 326.0199890136719,
+    "current_price": 259.6650085449219,
     "trend_sentiment": 0,
     "bullish_search_vol": 0,
     "bearish_search_vol": 0
