@@ -38,8 +38,8 @@
     "symbol": "ADBE",
     "name": "Adobe Inc.",
     "aliases": [
-      "adobe inc.",
-      "adobe"
+      "adobe",
+      "adobe inc."
     ]
   },
   {
@@ -137,18 +137,18 @@
     "symbol": "GOOGL",
     "name": "Alphabet Inc. (Class A)",
     "aliases": [
-      "alphabet inc. (class a)",
+      "alphabet (class a)",
       "google",
-      "alphabet (class a)"
+      "alphabet inc. (class a)"
     ]
   },
   {
     "symbol": "GOOG",
     "name": "Alphabet Inc. (Class C)",
     "aliases": [
-      "alphabet (class c)",
+      "google",
       "alphabet inc. (class c)",
-      "google"
+      "alphabet (class c)"
     ]
   },
   {
@@ -253,8 +253,8 @@
     "symbol": "AON",
     "name": "Aon plc",
     "aliases": [
-      "aon",
-      "aon plc"
+      "aon plc",
+      "aon"
     ]
   },
   {
@@ -332,8 +332,8 @@
     "symbol": "AJG",
     "name": "Arthur J. Gallagher & Co.",
     "aliases": [
-      "arthur j. gallagher &",
-      "arthur j. gallagher & co."
+      "arthur j. gallagher & co.",
+      "arthur j. gallagher &"
     ]
   },
   {
@@ -637,8 +637,8 @@
     "symbol": "CAT",
     "name": "Caterpillar Inc.",
     "aliases": [
-      "caterpillar",
-      "caterpillar inc."
+      "caterpillar inc.",
+      "caterpillar"
     ]
   },
   {
@@ -897,8 +897,8 @@
     "symbol": "GLW",
     "name": "Corning Inc.",
     "aliases": [
-      "corning inc.",
-      "corning"
+      "corning",
+      "corning inc."
     ]
   },
   {
@@ -940,8 +940,8 @@
     "symbol": "CRH",
     "name": "CRH plc",
     "aliases": [
-      "crh",
-      "crh plc"
+      "crh plc",
+      "crh"
     ]
   },
   {
@@ -1349,8 +1349,8 @@
     "symbol": "FFIV",
     "name": "F5, Inc.",
     "aliases": [
-      "f5, inc.",
-      "f5,"
+      "f5,",
+      "f5, inc."
     ]
   },
   {
@@ -2187,9 +2187,9 @@
     "symbol": "META",
     "name": "Meta Platforms",
     "aliases": [
-      "meta platforms",
+      "meta",
       "facebook",
-      "meta"
+      "meta platforms"
     ]
   },
   {
@@ -2315,16 +2315,16 @@
     "symbol": "MSCI",
     "name": "MSCI Inc.",
     "aliases": [
-      "msci",
-      "msci inc."
+      "msci inc.",
+      "msci"
     ]
   },
   {
     "symbol": "NDAQ",
     "name": "Nasdaq, Inc.",
     "aliases": [
-      "nasdaq, inc.",
-      "nasdaq,"
+      "nasdaq,",
+      "nasdaq, inc."
     ]
   },
   {
@@ -2831,8 +2831,8 @@
     "symbol": "ROL",
     "name": "Rollins, Inc.",
     "aliases": [
-      "rollins, inc.",
-      "rollins,"
+      "rollins,",
+      "rollins, inc."
     ]
   },
   {
@@ -3070,8 +3070,8 @@
     "symbol": "TPR",
     "name": "Tapestry, Inc.",
     "aliases": [
-      "tapestry,",
-      "tapestry, inc."
+      "tapestry, inc.",
+      "tapestry,"
     ]
   },
   {
@@ -3113,8 +3113,8 @@
     "symbol": "TSLA",
     "name": "Tesla, Inc.",
     "aliases": [
-      "tesla,",
-      "tesla, inc."
+      "tesla, inc.",
+      "tesla,"
     ]
   },
   {
@@ -3361,16 +3361,16 @@
     "symbol": "V",
     "name": "Visa Inc.",
     "aliases": [
-      "visa inc.",
-      "visa"
+      "visa",
+      "visa inc."
     ]
   },
   {
     "symbol": "VST",
     "name": "Vistra Corp.",
     "aliases": [
-      "vistra corp.",
-      "vistra"
+      "vistra",
+      "vistra corp."
     ]
   },
   {
