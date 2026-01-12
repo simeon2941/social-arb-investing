@@ -1,1 +1,10 @@
-{}
+{
+  "GOOG": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "current_price": 326.0199890136719
+  }
+}
