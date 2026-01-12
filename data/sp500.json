@@ -137,18 +137,18 @@
     "symbol": "GOOGL",
     "name": "Alphabet Inc. (Class A)",
     "aliases": [
-      "alphabet (class a)",
       "alphabet inc. (class a)",
-      "google"
+      "google",
+      "alphabet (class a)"
     ]
   },
   {
     "symbol": "GOOG",
     "name": "Alphabet Inc. (Class C)",
     "aliases": [
-      "google",
+      "alphabet inc. (class c)",
       "alphabet (class c)",
-      "alphabet inc. (class c)"
+      "google"
     ]
   },
   {
@@ -332,8 +332,8 @@
     "symbol": "AJG",
     "name": "Arthur J. Gallagher & Co.",
     "aliases": [
-      "arthur j. gallagher &",
-      "arthur j. gallagher & co."
+      "arthur j. gallagher & co.",
+      "arthur j. gallagher &"
     ]
   },
   {
@@ -473,8 +473,8 @@
     "symbol": "BX",
     "name": "Blackstone Inc.",
     "aliases": [
-      "blackstone inc.",
-      "blackstone"
+      "blackstone",
+      "blackstone inc."
     ]
   },
   {
@@ -566,8 +566,8 @@
     "symbol": "BXP",
     "name": "BXP, Inc.",
     "aliases": [
-      "bxp, inc.",
-      "bxp,"
+      "bxp,",
+      "bxp, inc."
     ]
   },
   {
@@ -637,8 +637,8 @@
     "symbol": "CAT",
     "name": "Caterpillar Inc.",
     "aliases": [
-      "caterpillar",
-      "caterpillar inc."
+      "caterpillar inc.",
+      "caterpillar"
     ]
   },
   {
@@ -940,8 +940,8 @@
     "symbol": "CRH",
     "name": "CRH plc",
     "aliases": [
-      "crh plc",
-      "crh"
+      "crh",
+      "crh plc"
     ]
   },
   {
@@ -1693,8 +1693,8 @@
     "symbol": "HPQ",
     "name": "HP Inc.",
     "aliases": [
-      "hp inc.",
-      "hp"
+      "hp",
+      "hp inc."
     ]
   },
   {
@@ -2179,17 +2179,17 @@
     "symbol": "MRK",
     "name": "Merck & Co.",
     "aliases": [
-      "merck &",
-      "merck & co."
+      "merck & co.",
+      "merck &"
     ]
   },
   {
     "symbol": "META",
     "name": "Meta Platforms",
     "aliases": [
-      "facebook",
       "meta",
-      "meta platforms"
+      "meta platforms",
+      "facebook"
     ]
   },
   {
@@ -2444,8 +2444,8 @@
     "symbol": "NVR",
     "name": "NVR, Inc.",
     "aliases": [
-      "nvr,",
-      "nvr, inc."
+      "nvr, inc.",
+      "nvr,"
     ]
   },
   {
@@ -2697,8 +2697,8 @@
     "symbol": "PTC",
     "name": "PTC Inc.",
     "aliases": [
-      "ptc",
-      "ptc inc."
+      "ptc inc.",
+      "ptc"
     ]
   },
   {
@@ -3526,8 +3526,8 @@
     "symbol": "XYL",
     "name": "Xylem Inc.",
     "aliases": [
-      "xylem",
-      "xylem inc."
+      "xylem inc.",
+      "xylem"
     ]
   },
   {

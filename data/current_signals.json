@@ -1,6 +1,6 @@
 [
   {
-    "ticker": "GOOG",
+    "ticker": "AAPL",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
@@ -16,9 +16,9 @@
       "sources": [
         "GoogleTrends"
       ],
-      "current_price": 330.25
+      "current_price": 260.95001220703125
     },
-    "current_price": 330.25,
+    "current_price": 260.95001220703125,
     "trend_sentiment": 0,
     "bullish_search_vol": 0,
     "bearish_search_vol": 0
