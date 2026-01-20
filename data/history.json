@@ -1,10 +1,10 @@
 {
-  "META": {
+  "DOW": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "current_price": 620.25
+    "current_price": 27.56999969482422
   }
 }
