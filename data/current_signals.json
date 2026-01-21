@@ -1,6 +1,6 @@
 [
   {
-    "ticker": "MSFT",
+    "ticker": "DOW",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
@@ -16,14 +16,38 @@
       "sources": [
         "GoogleTrends"
       ],
-      "trend_sentiment": 15.677777777777777,
-      "bullish_vol": 1411,
-      "bearish_vol": 89,
-      "current_price": 441.3999938964844
+      "trend_sentiment": 8.19381443298969,
+      "bullish_vol": 3974,
+      "bearish_vol": 484,
+      "current_price": 27.864999771118164
     },
-    "current_price": 441.3999938964844,
-    "trend_sentiment": 15.677777777777777,
-    "bullish_search_vol": 1411,
-    "bearish_search_vol": 89
+    "current_price": 27.864999771118164,
+    "trend_sentiment": 8.19381443298969,
+    "bullish_search_vol": 3974,
+    "bearish_search_vol": 484
+  },
+  {
+    "ticker": "MSFT",
+    "signal_strength": 1,
+    "velocity": 0,
+    "avg_sentiment": 0.1,
+    "blind_spot": false,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 0,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "current_price": 439.3500061035156
+    },
+    "current_price": 439.3500061035156,
+    "trend_sentiment": 0,
+    "bullish_search_vol": 0,
+    "bearish_search_vol": 0
   }
 ]

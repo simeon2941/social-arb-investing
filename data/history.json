@@ -1,13 +1,21 @@
 {
+  "DOW": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 8.19381443298969,
+    "bullish_vol": 3974,
+    "bearish_vol": 484,
+    "current_price": 27.864999771118164
+  },
   "MSFT": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "trend_sentiment": 15.677777777777777,
-    "bullish_vol": 1411,
-    "bearish_vol": 89,
-    "current_price": 441.3999938964844
+    "current_price": 439.3500061035156
   }
 }
