@@ -1,6 +1,6 @@
 [
   {
-    "ticker": "MTB",
+    "ticker": "MSFT",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
@@ -16,9 +16,9 @@
       "sources": [
         "GoogleTrends"
       ],
-      "current_price": 220.3699951171875
+      "current_price": 450.3999938964844
     },
-    "current_price": 220.3699951171875,
+    "current_price": 450.3999938964844,
     "trend_sentiment": 0,
     "bullish_search_vol": 0,
     "bearish_search_vol": 0
