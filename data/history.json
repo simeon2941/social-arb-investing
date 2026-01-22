@@ -1,1 +1,10 @@
-{}
+{
+  "ADSK": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "current_price": 269.7699890136719
+  }
+}
