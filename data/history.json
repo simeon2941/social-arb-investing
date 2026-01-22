@@ -1,10 +1,13 @@
 {
-  "ADSK": {
+  "NFLX": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "current_price": 269.7699890136719
+    "trend_sentiment": 5.631578947368421,
+    "bullish_vol": 642,
+    "bearish_vol": 113,
+    "current_price": 83.54000091552734
   }
 }
