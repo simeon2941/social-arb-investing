@@ -1,13 +1,1 @@
-{
-  "WMT": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "trend_sentiment": 10.88888888888889,
-    "bullish_vol": 196,
-    "bearish_vol": 17,
-    "current_price": 117.7300033569336
-  }
-}
+{}
