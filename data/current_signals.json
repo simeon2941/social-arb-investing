@@ -1,30 +1,6 @@
 [
   {
-    "ticker": "WMT",
-    "signal_strength": 1,
-    "velocity": 1,
-    "avg_sentiment": 0.1,
-    "blind_spot": true,
-    "analyst_rating": "Neutral",
-    "est_position_shares": 10,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "details": {
-      "count": 1,
-      "sentiment_sum": 0.1,
-      "sources": [
-        "GoogleTrends"
-      ],
-      "current_price": 118.66000366210938
-    },
-    "current_price": 118.66000366210938,
-    "trend_sentiment": 0,
-    "bullish_search_vol": 0,
-    "bearish_search_vol": 0
-  },
-  {
-    "ticker": "AVGO",
+    "ticker": "DOW",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
@@ -40,9 +16,9 @@
       "sources": [
         "GoogleTrends"
       ],
-      "current_price": 325.13720703125
+      "current_price": 28.37540054321289
     },
-    "current_price": 325.13720703125,
+    "current_price": 28.37540054321289,
     "trend_sentiment": 0,
     "bullish_search_vol": 0,
     "bearish_search_vol": 0

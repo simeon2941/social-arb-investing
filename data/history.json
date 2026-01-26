@@ -1,18 +1,10 @@
 {
-  "WMT": {
+  "DOW": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "current_price": 118.66000366210938
-  },
-  "AVGO": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "current_price": 325.13720703125
+    "current_price": 28.37540054321289
   }
 }
