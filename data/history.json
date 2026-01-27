@@ -1,19 +1,13 @@
 {
   "AMZN": {
-    "count": 2,
-    "sentiment_sum": 0.2,
-    "sources": [
-      "GoogleTrends",
-      "GoogleTrends"
-    ],
-    "current_price": 241.35000610351562
-  },
-  "NFLX": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "current_price": 84.4000015258789
+    "trend_sentiment": 3.61993769470405,
+    "bullish_vol": 1162,
+    "bearish_vol": 320,
+    "current_price": 241.99009704589844
   }
 }
