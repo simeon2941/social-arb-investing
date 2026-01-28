@@ -1,10 +1,10 @@
 {
-  "AMZN": {
+  "AAPL": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "current_price": 242.9499969482422
+    "current_price": 255.19000244140625
   }
 }
