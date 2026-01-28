@@ -1,13 +1,1 @@
-{
-  "MCD": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "trend_sentiment": 518.0,
-    "bullish_vol": 518,
-    "bearish_vol": 0,
-    "current_price": 312.9049987792969
-  }
-}
+{}
