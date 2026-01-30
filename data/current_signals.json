@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "ticker": "BAC",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": false,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 0,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 10.40928270042194,
+      "bullish_vol": 2467,
+      "bearish_vol": 236,
+      "current_price": 53.08000183105469
+    },
+    "current_price": 53.08000183105469,
+    "trend_sentiment": 10.40928270042194,
+    "bullish_search_vol": 2467,
+    "bearish_search_vol": 236
+  }
+]
