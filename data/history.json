@@ -1,1 +1,18 @@
-{}
+{
+  "WMT": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "current_price": 121.88999938964844
+  },
+  "GOOG": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "current_price": 341.0
+  }
+}
