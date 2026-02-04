@@ -2,7 +2,7 @@
   {
     "ticker": "AMZN",
     "signal_strength": 1,
-    "velocity": 1,
+    "velocity": 0,
     "avg_sentiment": 0.1,
     "blind_spot": false,
     "analyst_rating": "Neutral",
@@ -16,14 +16,14 @@
       "sources": [
         "GoogleTrends"
       ],
-      "trend_sentiment": 16.633663366336634,
-      "bullish_vol": 1680,
-      "bearish_vol": 100,
+      "trend_sentiment": 16.125,
+      "bullish_vol": 1677,
+      "bearish_vol": 103,
       "current_price": 238.6199951171875
     },
     "current_price": 238.6199951171875,
-    "trend_sentiment": 16.633663366336634,
-    "bullish_search_vol": 1680,
-    "bearish_search_vol": 100
+    "trend_sentiment": 16.125,
+    "bullish_search_vol": 1677,
+    "bearish_search_vol": 103
   }
 ]
