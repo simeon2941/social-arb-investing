@@ -1,11 +1,1 @@
-{
-  "DOW": {
-    "count": 2,
-    "sentiment_sum": 0.2,
-    "sources": [
-      "GoogleTrends",
-      "GoogleTrends"
-    ],
-    "current_price": 31.80500030517578
-  }
-}
+{}
