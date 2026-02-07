@@ -38,8 +38,8 @@
     "symbol": "ADBE",
     "name": "Adobe Inc.",
     "aliases": [
-      "adobe inc.",
-      "adobe"
+      "adobe",
+      "adobe inc."
     ]
   },
   {
@@ -138,17 +138,17 @@
     "name": "Alphabet Inc. (Class A)",
     "aliases": [
       "google",
-      "alphabet (class a)",
-      "alphabet inc. (class a)"
+      "alphabet inc. (class a)",
+      "alphabet (class a)"
     ]
   },
   {
     "symbol": "GOOG",
     "name": "Alphabet Inc. (Class C)",
     "aliases": [
+      "alphabet inc. (class c)",
       "google",
-      "alphabet (class c)",
-      "alphabet inc. (class c)"
+      "alphabet (class c)"
     ]
   },
   {
@@ -253,8 +253,8 @@
     "symbol": "AON",
     "name": "Aon plc",
     "aliases": [
-      "aon plc",
-      "aon"
+      "aon",
+      "aon plc"
     ]
   },
   {
@@ -897,8 +897,8 @@
     "symbol": "GLW",
     "name": "Corning Inc.",
     "aliases": [
-      "corning inc.",
-      "corning"
+      "corning",
+      "corning inc."
     ]
   },
   {
@@ -1152,8 +1152,8 @@
     "symbol": "EBAY",
     "name": "eBay Inc.",
     "aliases": [
-      "ebay",
-      "ebay inc."
+      "ebay inc.",
+      "ebay"
     ]
   },
   {
@@ -1342,8 +1342,8 @@
     "symbol": "FFIV",
     "name": "F5, Inc.",
     "aliases": [
-      "f5,",
-      "f5, inc."
+      "f5, inc.",
+      "f5,"
     ]
   },
   {
@@ -1686,8 +1686,8 @@
     "symbol": "HPQ",
     "name": "HP Inc.",
     "aliases": [
-      "hp",
-      "hp inc."
+      "hp inc.",
+      "hp"
     ]
   },
   {
@@ -2180,9 +2180,9 @@
     "symbol": "META",
     "name": "Meta Platforms",
     "aliases": [
+      "meta platforms",
       "meta",
-      "facebook",
-      "meta platforms"
+      "facebook"
     ]
   },
   {
@@ -2824,8 +2824,8 @@
     "symbol": "ROL",
     "name": "Rollins, Inc.",
     "aliases": [
-      "rollins, inc.",
-      "rollins,"
+      "rollins,",
+      "rollins, inc."
     ]
   },
   {
@@ -3354,8 +3354,8 @@
     "symbol": "V",
     "name": "Visa Inc.",
     "aliases": [
-      "visa inc.",
-      "visa"
+      "visa",
+      "visa inc."
     ]
   },
   {
@@ -3475,8 +3475,8 @@
     "symbol": "WSM",
     "name": "Williams-Sonoma, Inc.",
     "aliases": [
-      "williams-sonoma,",
-      "williams-sonoma, inc."
+      "williams-sonoma, inc.",
+      "williams-sonoma,"
     ]
   },
   {
