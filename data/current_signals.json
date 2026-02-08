@@ -1,8 +1,8 @@
 [
   {
-    "ticker": "NVDA",
+    "ticker": "NFLX",
     "signal_strength": 1,
-    "velocity": 0,
+    "velocity": 1,
     "avg_sentiment": 0.1,
     "blind_spot": false,
     "analyst_rating": "Neutral",
@@ -16,14 +16,14 @@
       "sources": [
         "GoogleTrends"
       ],
-      "trend_sentiment": 5.729910714285714,
-      "bullish_vol": 2567,
-      "bearish_vol": 447,
-      "current_price": 185.41000366210938
+      "trend_sentiment": 21.032258064516128,
+      "bullish_vol": 652,
+      "bearish_vol": 30,
+      "current_price": 82.19999694824219
     },
-    "current_price": 185.41000366210938,
-    "trend_sentiment": 5.729910714285714,
-    "bullish_search_vol": 2567,
-    "bearish_search_vol": 447
+    "current_price": 82.19999694824219,
+    "trend_sentiment": 21.032258064516128,
+    "bullish_search_vol": 652,
+    "bearish_search_vol": 30
   }
 ]
