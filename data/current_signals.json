@@ -1,8 +1,8 @@
 [
   {
-    "ticker": "META",
+    "ticker": "NVDA",
     "signal_strength": 1,
-    "velocity": 0,
+    "velocity": 1,
     "avg_sentiment": 0.1,
     "blind_spot": false,
     "analyst_rating": "Neutral",
@@ -16,14 +16,14 @@
       "sources": [
         "GoogleTrends"
       ],
-      "trend_sentiment": 7.366492146596858,
-      "bullish_vol": 4221,
-      "bearish_vol": 572,
-      "current_price": 661.4600219726562
+      "trend_sentiment": 5.704444444444444,
+      "bullish_vol": 2567,
+      "bearish_vol": 449,
+      "current_price": 185.41000366210938
     },
-    "current_price": 661.4600219726562,
-    "trend_sentiment": 7.366492146596858,
-    "bullish_search_vol": 4221,
-    "bearish_search_vol": 572
+    "current_price": 185.41000366210938,
+    "trend_sentiment": 5.704444444444444,
+    "bullish_search_vol": 2567,
+    "bearish_search_vol": 449
   }
 ]
