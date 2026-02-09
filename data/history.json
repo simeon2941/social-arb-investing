@@ -5,6 +5,9 @@
     "sources": [
       "GoogleTrends"
     ],
+    "trend_sentiment": 19.129411764705882,
+    "bullish_vol": 1626,
+    "bearish_vol": 84,
     "current_price": 278.1199951171875
   }
 }
