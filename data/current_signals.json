@@ -1,6 +1,6 @@
 [
   {
-    "ticker": "KR",
+    "ticker": "DOW",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
@@ -16,9 +16,9 @@
       "sources": [
         "GoogleTrends"
       ],
-      "current_price": 71.7300033569336
+      "current_price": 32.064998626708984
     },
-    "current_price": 71.7300033569336,
+    "current_price": 32.064998626708984,
     "trend_sentiment": 0,
     "bullish_search_vol": 0,
     "bearish_search_vol": 0
