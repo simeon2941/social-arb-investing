@@ -1,13 +1,10 @@
 {
-  "NVDA": {
+  "AAPL": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "trend_sentiment": 4.636182902584493,
-    "bullish_vol": 2332,
-    "bearish_vol": 502,
-    "current_price": 185.41000366210938
+    "current_price": 278.1199951171875
   }
 }
