@@ -1,1 +1,10 @@
-{}
+{
+  "IBM": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "current_price": 298.92999267578125
+  }
+}
