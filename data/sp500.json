@@ -38,8 +38,8 @@
     "symbol": "ADBE",
     "name": "Adobe Inc.",
     "aliases": [
-      "adobe inc.",
-      "adobe"
+      "adobe",
+      "adobe inc."
     ]
   },
   {
@@ -137,8 +137,8 @@
     "symbol": "GOOGL",
     "name": "Alphabet Inc. (Class A)",
     "aliases": [
-      "google",
       "alphabet (class a)",
+      "google",
       "alphabet inc. (class a)"
     ]
   },
@@ -146,9 +146,9 @@
     "symbol": "GOOG",
     "name": "Alphabet Inc. (Class C)",
     "aliases": [
-      "alphabet inc. (class c)",
+      "alphabet (class c)",
       "google",
-      "alphabet (class c)"
+      "alphabet inc. (class c)"
     ]
   },
   {
@@ -481,8 +481,8 @@
     "symbol": "XYZ",
     "name": "Block, Inc.",
     "aliases": [
-      "block, inc.",
-      "block,"
+      "block,",
+      "block, inc."
     ]
   },
   {
@@ -1116,8 +1116,8 @@
     "symbol": "DOW",
     "name": "Dow Inc.",
     "aliases": [
-      "dow inc.",
-      "dow"
+      "dow",
+      "dow inc."
     ]
   },
   {
@@ -1953,8 +1953,8 @@
     "symbol": "KKR",
     "name": "KKR & Co.",
     "aliases": [
-      "kkr & co.",
-      "kkr &"
+      "kkr &",
+      "kkr & co."
     ]
   },
   {
@@ -2045,8 +2045,8 @@
     "symbol": "LIN",
     "name": "Linde plc",
     "aliases": [
-      "linde",
-      "linde plc"
+      "linde plc",
+      "linde"
     ]
   },
   {
@@ -2179,17 +2179,17 @@
     "symbol": "MRK",
     "name": "Merck & Co.",
     "aliases": [
-      "merck & co.",
-      "merck &"
+      "merck &",
+      "merck & co."
     ]
   },
   {
     "symbol": "META",
     "name": "Meta Platforms",
     "aliases": [
-      "facebook",
       "meta",
-      "meta platforms"
+      "meta platforms",
+      "facebook"
     ]
   },
   {
@@ -2315,8 +2315,8 @@
     "symbol": "MSCI",
     "name": "MSCI Inc.",
     "aliases": [
-      "msci inc.",
-      "msci"
+      "msci",
+      "msci inc."
     ]
   },
   {
@@ -3369,8 +3369,8 @@
     "symbol": "VST",
     "name": "Vistra Corp.",
     "aliases": [
-      "vistra",
-      "vistra corp."
+      "vistra corp.",
+      "vistra"
     ]
   },
   {
@@ -3482,8 +3482,8 @@
     "symbol": "WSM",
     "name": "Williams-Sonoma, Inc.",
     "aliases": [
-      "williams-sonoma,",
-      "williams-sonoma, inc."
+      "williams-sonoma, inc.",
+      "williams-sonoma,"
     ]
   },
   {
@@ -3504,8 +3504,8 @@
     "symbol": "WDAY",
     "name": "Workday, Inc.",
     "aliases": [
-      "workday, inc.",
-      "workday,"
+      "workday,",
+      "workday, inc."
     ]
   },
   {
