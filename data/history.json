@@ -1,13 +1,24 @@
 {
-  "NFLX": {
+  "LUV": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "trend_sentiment": 5.385321100917431,
-    "bullish_vol": 587,
-    "bearish_vol": 108,
-    "current_price": 82.20999908447266
+    "trend_sentiment": 12.75,
+    "bullish_vol": 306,
+    "bearish_vol": 23,
+    "current_price": 54.06999969482422
+  },
+  "GOOG": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 10.870967741935484,
+    "bullish_vol": 1011,
+    "bearish_vol": 92,
+    "current_price": 318.6300048828125
   }
 }
