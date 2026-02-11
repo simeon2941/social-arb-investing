@@ -1,13 +1,1 @@
-{
-  "DASH": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "trend_sentiment": 14.023529411764706,
-    "bullish_vol": 4768,
-    "bearish_vol": 339,
-    "current_price": 177.00999450683594
-  }
-}
+{}
