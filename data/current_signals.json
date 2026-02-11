@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "ticker": "APP",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": false,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 0,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 4.931818181818182,
+      "bullish_vol": 5859,
+      "bearish_vol": 1187,
+      "current_price": 456.80999755859375
+    },
+    "current_price": 456.80999755859375,
+    "trend_sentiment": 4.931818181818182,
+    "bullish_search_vol": 5859,
+    "bearish_search_vol": 1187
+  }
+]
