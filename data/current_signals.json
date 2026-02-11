@@ -2,7 +2,7 @@
   {
     "ticker": "NFLX",
     "signal_strength": 1,
-    "velocity": 1,
+    "velocity": 0,
     "avg_sentiment": 0.1,
     "blind_spot": false,
     "analyst_rating": "Neutral",
@@ -16,14 +16,14 @@
       "sources": [
         "GoogleTrends"
       ],
-      "trend_sentiment": 6.248,
-      "bullish_vol": 781,
-      "bearish_vol": 124,
+      "trend_sentiment": 5.385321100917431,
+      "bullish_vol": 587,
+      "bearish_vol": 108,
       "current_price": 82.20999908447266
     },
     "current_price": 82.20999908447266,
-    "trend_sentiment": 6.248,
-    "bullish_search_vol": 781,
-    "bearish_search_vol": 124
+    "trend_sentiment": 5.385321100917431,
+    "bullish_search_vol": 587,
+    "bearish_search_vol": 108
   }
 ]
