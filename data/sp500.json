@@ -38,8 +38,8 @@
     "symbol": "ADBE",
     "name": "Adobe Inc.",
     "aliases": [
-      "adobe",
-      "adobe inc."
+      "adobe inc.",
+      "adobe"
     ]
   },
   {
@@ -137,9 +137,9 @@
     "symbol": "GOOGL",
     "name": "Alphabet Inc. (Class A)",
     "aliases": [
+      "alphabet (class a)",
       "alphabet inc. (class a)",
-      "google",
-      "alphabet (class a)"
+      "google"
     ]
   },
   {
@@ -253,8 +253,8 @@
     "symbol": "AON",
     "name": "Aon plc",
     "aliases": [
-      "aon plc",
-      "aon"
+      "aon",
+      "aon plc"
     ]
   },
   {
@@ -566,8 +566,8 @@
     "symbol": "BXP",
     "name": "BXP, Inc.",
     "aliases": [
-      "bxp, inc.",
-      "bxp,"
+      "bxp,",
+      "bxp, inc."
     ]
   },
   {
@@ -1693,8 +1693,8 @@
     "symbol": "HPQ",
     "name": "HP Inc.",
     "aliases": [
-      "hp inc.",
-      "hp"
+      "hp",
+      "hp inc."
     ]
   },
   {
@@ -1953,8 +1953,8 @@
     "symbol": "KKR",
     "name": "KKR & Co.",
     "aliases": [
-      "kkr & co.",
-      "kkr &"
+      "kkr &",
+      "kkr & co."
     ]
   },
   {
@@ -2187,9 +2187,9 @@
     "symbol": "META",
     "name": "Meta Platforms",
     "aliases": [
-      "meta platforms",
+      "facebook",
       "meta",
-      "facebook"
+      "meta platforms"
     ]
   },
   {
@@ -2315,8 +2315,8 @@
     "symbol": "MSCI",
     "name": "MSCI Inc.",
     "aliases": [
-      "msci inc.",
-      "msci"
+      "msci",
+      "msci inc."
     ]
   },
   {
@@ -2697,8 +2697,8 @@
     "symbol": "PTC",
     "name": "PTC Inc.",
     "aliases": [
-      "ptc inc.",
-      "ptc"
+      "ptc",
+      "ptc inc."
     ]
   },
   {
@@ -3070,8 +3070,8 @@
     "symbol": "TPR",
     "name": "Tapestry, Inc.",
     "aliases": [
-      "tapestry,",
-      "tapestry, inc."
+      "tapestry, inc.",
+      "tapestry,"
     ]
   },
   {
@@ -3113,8 +3113,8 @@
     "symbol": "TSLA",
     "name": "Tesla, Inc.",
     "aliases": [
-      "tesla,",
-      "tesla, inc."
+      "tesla, inc.",
+      "tesla,"
     ]
   },
   {
@@ -3361,8 +3361,8 @@
     "symbol": "V",
     "name": "Visa Inc.",
     "aliases": [
-      "visa inc.",
-      "visa"
+      "visa",
+      "visa inc."
     ]
   },
   {
@@ -3482,8 +3482,8 @@
     "symbol": "WSM",
     "name": "Williams-Sonoma, Inc.",
     "aliases": [
-      "williams-sonoma, inc.",
-      "williams-sonoma,"
+      "williams-sonoma,",
+      "williams-sonoma, inc."
     ]
   },
   {
@@ -3504,8 +3504,8 @@
     "symbol": "WDAY",
     "name": "Workday, Inc.",
     "aliases": [
-      "workday,",
-      "workday, inc."
+      "workday, inc.",
+      "workday,"
     ]
   },
   {
