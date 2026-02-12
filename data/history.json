@@ -1,1 +1,13 @@
-{}
+{
+  "DOW": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 9.724789915966387,
+    "bullish_vol": 4629,
+    "bearish_vol": 475,
+    "current_price": 32.948001861572266
+  }
+}
