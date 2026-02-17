@@ -138,8 +138,8 @@
     "name": "Alphabet Inc. (Class A)",
     "aliases": [
       "alphabet (class a)",
-      "alphabet inc. (class a)",
-      "google"
+      "google",
+      "alphabet inc. (class a)"
     ]
   },
   {
@@ -253,8 +253,8 @@
     "symbol": "AON",
     "name": "Aon plc",
     "aliases": [
-      "aon",
-      "aon plc"
+      "aon plc",
+      "aon"
     ]
   },
   {
@@ -332,8 +332,8 @@
     "symbol": "AJG",
     "name": "Arthur J. Gallagher & Co.",
     "aliases": [
-      "arthur j. gallagher &",
-      "arthur j. gallagher & co."
+      "arthur j. gallagher & co.",
+      "arthur j. gallagher &"
     ]
   },
   {
@@ -473,16 +473,16 @@
     "symbol": "BX",
     "name": "Blackstone Inc.",
     "aliases": [
-      "blackstone inc.",
-      "blackstone"
+      "blackstone",
+      "blackstone inc."
     ]
   },
   {
     "symbol": "XYZ",
     "name": "Block, Inc.",
     "aliases": [
-      "block,",
-      "block, inc."
+      "block, inc.",
+      "block,"
     ]
   },
   {
@@ -566,8 +566,8 @@
     "symbol": "BXP",
     "name": "BXP, Inc.",
     "aliases": [
-      "bxp, inc.",
-      "bxp,"
+      "bxp,",
+      "bxp, inc."
     ]
   },
   {
@@ -904,8 +904,8 @@
     "symbol": "GLW",
     "name": "Corning Inc.",
     "aliases": [
-      "corning",
-      "corning inc."
+      "corning inc.",
+      "corning"
     ]
   },
   {
@@ -1159,8 +1159,8 @@
     "symbol": "EBAY",
     "name": "eBay Inc.",
     "aliases": [
-      "ebay inc.",
-      "ebay"
+      "ebay",
+      "ebay inc."
     ]
   },
   {
@@ -1349,8 +1349,8 @@
     "symbol": "FFIV",
     "name": "F5, Inc.",
     "aliases": [
-      "f5, inc.",
-      "f5,"
+      "f5,",
+      "f5, inc."
     ]
   },
   {
@@ -1953,8 +1953,8 @@
     "symbol": "KKR",
     "name": "KKR & Co.",
     "aliases": [
-      "kkr &",
-      "kkr & co."
+      "kkr & co.",
+      "kkr &"
     ]
   },
   {
@@ -2045,8 +2045,8 @@
     "symbol": "LIN",
     "name": "Linde plc",
     "aliases": [
-      "linde",
-      "linde plc"
+      "linde plc",
+      "linde"
     ]
   },
   {
@@ -2179,17 +2179,17 @@
     "symbol": "MRK",
     "name": "Merck & Co.",
     "aliases": [
-      "merck &",
-      "merck & co."
+      "merck & co.",
+      "merck &"
     ]
   },
   {
     "symbol": "META",
     "name": "Meta Platforms",
     "aliases": [
-      "meta platforms",
       "facebook",
-      "meta"
+      "meta",
+      "meta platforms"
     ]
   },
   {
@@ -2323,8 +2323,8 @@
     "symbol": "NDAQ",
     "name": "Nasdaq, Inc.",
     "aliases": [
-      "nasdaq,",
-      "nasdaq, inc."
+      "nasdaq, inc.",
+      "nasdaq,"
     ]
   },
   {
@@ -3241,8 +3241,8 @@
     "symbol": "UDR",
     "name": "UDR, Inc.",
     "aliases": [
-      "udr, inc.",
-      "udr,"
+      "udr,",
+      "udr, inc."
     ]
   },
   {
@@ -3361,8 +3361,8 @@
     "symbol": "V",
     "name": "Visa Inc.",
     "aliases": [
-      "visa",
-      "visa inc."
+      "visa inc.",
+      "visa"
     ]
   },
   {
@@ -3482,8 +3482,8 @@
     "symbol": "WSM",
     "name": "Williams-Sonoma, Inc.",
     "aliases": [
-      "williams-sonoma, inc.",
-      "williams-sonoma,"
+      "williams-sonoma,",
+      "williams-sonoma, inc."
     ]
   },
   {
