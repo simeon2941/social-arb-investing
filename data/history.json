@@ -1,1 +1,13 @@
-{}
+{
+  "IBM": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 16.38993710691824,
+    "bullish_vol": 2606,
+    "bearish_vol": 158,
+    "current_price": 226.47000122070312
+  }
+}
