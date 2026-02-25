@@ -1,1 +1,24 @@
-{}
+{
+  "AAPL": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 39.885245901639344,
+    "bullish_vol": 2433,
+    "bearish_vol": 60,
+    "current_price": 272.1400146484375
+  },
+  "IBM": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 41.784615384615385,
+    "bullish_vol": 2716,
+    "bearish_vol": 64,
+    "current_price": 229.32000732421875
+  }
+}

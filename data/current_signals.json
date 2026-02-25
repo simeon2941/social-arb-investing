@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "ticker": "AAPL",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": false,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 0,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 39.885245901639344,
+      "bullish_vol": 2433,
+      "bearish_vol": 60,
+      "current_price": 272.1400146484375
+    },
+    "current_price": 272.1400146484375,
+    "trend_sentiment": 39.885245901639344,
+    "bullish_search_vol": 2433,
+    "bearish_search_vol": 60
+  },
+  {
+    "ticker": "IBM",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": false,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 0,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 41.784615384615385,
+      "bullish_vol": 2716,
+      "bearish_vol": 64,
+      "current_price": 229.32000732421875
+    },
+    "current_price": 229.32000732421875,
+    "trend_sentiment": 41.784615384615385,
+    "bullish_search_vol": 2716,
+    "bearish_search_vol": 64
+  }
+]
