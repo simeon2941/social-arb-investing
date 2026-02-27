@@ -1,12 +1,12 @@
 [
   {
-    "ticker": "GOOG",
+    "ticker": "CNP",
     "signal_strength": 1,
-    "velocity": 0,
+    "velocity": 1,
     "avg_sentiment": 0.1,
-    "blind_spot": false,
+    "blind_spot": true,
     "analyst_rating": "Neutral",
-    "est_position_shares": 0,
+    "est_position_shares": 10,
     "sources": [
       "GoogleTrends"
     ],
@@ -16,14 +16,14 @@
       "sources": [
         "GoogleTrends"
       ],
-      "trend_sentiment": 16.372549019607842,
-      "bullish_vol": 1670,
-      "bearish_vol": 101,
-      "current_price": 307.1499938964844
+      "trend_sentiment": 294.0,
+      "bullish_vol": 294,
+      "bearish_vol": 0,
+      "current_price": 43.0099983215332
     },
-    "current_price": 307.1499938964844,
-    "trend_sentiment": 16.372549019607842,
-    "bullish_search_vol": 1670,
-    "bearish_search_vol": 101
+    "current_price": 43.0099983215332,
+    "trend_sentiment": 294.0,
+    "bullish_search_vol": 294,
+    "bearish_search_vol": 0
   }
 ]
