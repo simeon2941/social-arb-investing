@@ -1,13 +1,1 @@
-{
-  "CTSH": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "trend_sentiment": 0.0,
-    "bullish_vol": 0,
-    "bearish_vol": 100,
-    "current_price": 64.43000030517578
-  }
-}
+{}
