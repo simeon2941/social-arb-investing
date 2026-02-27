@@ -1,6 +1,6 @@
 [
   {
-    "ticker": "CNP",
+    "ticker": "AEE",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
@@ -16,14 +16,41 @@
       "sources": [
         "GoogleTrends"
       ],
-      "trend_sentiment": 294.0,
-      "bullish_vol": 294,
+      "trend_sentiment": 154.0,
+      "bullish_vol": 154,
+      "bearish_vol": 0,
+      "current_price": 112.02999877929688
+    },
+    "current_price": 112.02999877929688,
+    "trend_sentiment": 154.0,
+    "bullish_search_vol": 154,
+    "bearish_search_vol": 0
+  },
+  {
+    "ticker": "CNP",
+    "signal_strength": 1,
+    "velocity": 0,
+    "avg_sentiment": 0.1,
+    "blind_spot": true,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 10,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 302.0,
+      "bullish_vol": 302,
       "bearish_vol": 0,
       "current_price": 43.0099983215332
     },
     "current_price": 43.0099983215332,
-    "trend_sentiment": 294.0,
-    "bullish_search_vol": 294,
+    "trend_sentiment": 302.0,
+    "bullish_search_vol": 302,
     "bearish_search_vol": 0
   }
 ]
