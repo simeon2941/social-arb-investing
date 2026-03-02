@@ -1,24 +1,29 @@
 {
+  "AAPL": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 11.376288659793815,
+    "bullish_vol": 2207,
+    "bearish_vol": 193,
+    "current_price": 264.80999755859375
+  },
+  "BA": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "current_price": 229.3699951171875
+  },
   "COST": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "trend_sentiment": 4.706953642384106,
-    "bullish_vol": 5686,
-    "bearish_vol": 1207,
-    "current_price": 1011.780029296875
-  },
-  "DOW": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "trend_sentiment": 7.663732394366197,
-    "bullish_vol": 4353,
-    "bearish_vol": 567,
-    "current_price": 31.450000762939453
+    "current_price": 1008.4600219726562
   }
 }
