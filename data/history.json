@@ -1,13 +1,24 @@
 {
+  "MCD": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 13.018867924528301,
+    "bullish_vol": 690,
+    "bearish_vol": 52,
+    "current_price": 334.82000732421875
+  },
   "DOW": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "trend_sentiment": 11.469849246231156,
+    "trend_sentiment": 11.4125,
     "bullish_vol": 4565,
-    "bearish_vol": 397,
+    "bearish_vol": 399,
     "current_price": 30.600000381469727
   }
 }
