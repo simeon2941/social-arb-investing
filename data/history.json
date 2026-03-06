@@ -1,13 +1,1 @@
-{
-  "BLK": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "trend_sentiment": 52.666666666666664,
-    "bullish_vol": 632,
-    "bearish_vol": 11,
-    "current_price": 959.1099853515625
-  }
-}
+{}
