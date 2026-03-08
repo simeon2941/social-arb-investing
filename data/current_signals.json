@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "ticker": "MCD",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": false,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 0,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 5.052941176470588,
+      "bullish_vol": 859,
+      "bearish_vol": 169,
+      "current_price": 328.05999755859375
+    },
+    "current_price": 328.05999755859375,
+    "trend_sentiment": 5.052941176470588,
+    "bullish_search_vol": 859,
+    "bearish_search_vol": 169
+  }
+]
