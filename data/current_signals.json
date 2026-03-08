@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "ticker": "GS",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": false,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 0,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 26.443037974683545,
+      "bullish_vol": 4178,
+      "bearish_vol": 157,
+      "current_price": 821.4199829101562
+    },
+    "current_price": 821.4199829101562,
+    "trend_sentiment": 26.443037974683545,
+    "bullish_search_vol": 4178,
+    "bearish_search_vol": 157
+  }
+]
