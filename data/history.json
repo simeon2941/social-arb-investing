@@ -1,10 +1,13 @@
 {
-  "LNT": {
+  "DOW": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "current_price": 71.56999969482422
+    "trend_sentiment": 9.266519823788546,
+    "bullish_vol": 4207,
+    "bearish_vol": 453,
+    "current_price": 37.58000183105469
   }
 }
