@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "ticker": "URI",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": false,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 0,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 177.6,
+      "bullish_vol": 888,
+      "bearish_vol": 4,
+      "current_price": 737.219970703125
+    },
+    "current_price": 737.219970703125,
+    "trend_sentiment": 177.6,
+    "bullish_search_vol": 888,
+    "bearish_search_vol": 4
+  }
+]
