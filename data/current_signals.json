@@ -1,6 +1,6 @@
 [
   {
-    "ticker": "MSFT",
+    "ticker": "NVDA",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
@@ -16,11 +16,14 @@
       "sources": [
         "GoogleTrends"
       ],
-      "current_price": 397.82000732421875
+      "trend_sentiment": 8.762820512820513,
+      "bullish_vol": 2734,
+      "bearish_vol": 311,
+      "current_price": 183.89999389648438
     },
-    "current_price": 397.82000732421875,
-    "trend_sentiment": 0,
-    "bullish_search_vol": 0,
-    "bearish_search_vol": 0
+    "current_price": 183.89999389648438,
+    "trend_sentiment": 8.762820512820513,
+    "bullish_search_vol": 2734,
+    "bearish_search_vol": 311
   }
 ]

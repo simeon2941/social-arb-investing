@@ -1,10 +1,13 @@
 {
-  "MSFT": {
+  "NVDA": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "current_price": 397.82000732421875
+    "trend_sentiment": 8.762820512820513,
+    "bullish_vol": 2734,
+    "bearish_vol": 311,
+    "current_price": 183.89999389648438
   }
 }
