@@ -1,10 +1,10 @@
 {
-  "AMZN": {
+  "CMCSA": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "current_price": 215.1999969482422
+    "current_price": 30.079999923706055
   }
 }

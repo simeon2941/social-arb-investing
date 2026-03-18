@@ -1,8 +1,8 @@
 [
   {
-    "ticker": "AMZN",
+    "ticker": "CMCSA",
     "signal_strength": 1,
-    "velocity": 0,
+    "velocity": 1,
     "avg_sentiment": 0.1,
     "blind_spot": false,
     "analyst_rating": "Neutral",
@@ -16,9 +16,9 @@
       "sources": [
         "GoogleTrends"
       ],
-      "current_price": 215.1999969482422
+      "current_price": 30.079999923706055
     },
-    "current_price": 215.1999969482422,
+    "current_price": 30.079999923706055,
     "trend_sentiment": 0,
     "bullish_search_vol": 0,
     "bearish_search_vol": 0
