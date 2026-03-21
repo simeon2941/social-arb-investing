@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "ticker": "AAPL",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": false,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 0,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 7.467576791808874,
+      "bullish_vol": 2188,
+      "bearish_vol": 292,
+      "current_price": 247.99000549316406
+    },
+    "current_price": 247.99000549316406,
+    "trend_sentiment": 7.467576791808874,
+    "bullish_search_vol": 2188,
+    "bearish_search_vol": 292
+  }
+]
