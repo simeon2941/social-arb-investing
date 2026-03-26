@@ -1,24 +1,10 @@
 {
-  "GOOG": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "trend_sentiment": 9.748251748251748,
-    "bullish_vol": 1394,
-    "bearish_vol": 142,
-    "current_price": 285.2049865722656
-  },
   "META": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "trend_sentiment": 6.441947565543071,
-    "bullish_vol": 5160,
-    "bearish_vol": 800,
-    "current_price": 569.3900146484375
+    "current_price": 561.2000122070312
   }
 }
