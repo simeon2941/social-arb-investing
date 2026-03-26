@@ -1,13 +1,1 @@
-{
-  "ABNB": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "trend_sentiment": 1.120879120879121,
-    "bullish_vol": 102,
-    "bearish_vol": 90,
-    "current_price": 131.80999755859375
-  }
-}
+{}
