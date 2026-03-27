@@ -38,8 +38,8 @@
     "symbol": "ADBE",
     "name": "Adobe Inc.",
     "aliases": [
-      "adobe",
-      "adobe inc."
+      "adobe inc.",
+      "adobe"
     ]
   },
   {
@@ -138,8 +138,8 @@
     "name": "Alphabet Inc. (Class A)",
     "aliases": [
       "alphabet inc. (class a)",
-      "google",
-      "alphabet (class a)"
+      "alphabet (class a)",
+      "google"
     ]
   },
   {
@@ -593,9 +593,9 @@
   },
   {
     "symbol": "CPB",
-    "name": "Campbell's Company (The)",
+    "name": "The Campbell's Company",
     "aliases": [
-      "campbell's company (the)"
+      "the campbell's company"
     ]
   },
   {
@@ -637,8 +637,8 @@
     "symbol": "CAT",
     "name": "Caterpillar Inc.",
     "aliases": [
-      "caterpillar",
-      "caterpillar inc."
+      "caterpillar inc.",
+      "caterpillar"
     ]
   },
   {
@@ -811,9 +811,9 @@
   },
   {
     "symbol": "KO",
-    "name": "Coca-Cola Company (The)",
+    "name": "The Coca-Cola Company",
     "aliases": [
-      "coca-cola company (the)"
+      "the coca-cola company"
     ]
   },
   {
@@ -896,9 +896,9 @@
   },
   {
     "symbol": "COO",
-    "name": "Cooper Companies (The)",
+    "name": "The Cooper Companies",
     "aliases": [
-      "cooper companies (the)"
+      "the cooper companies"
     ]
   },
   {
@@ -955,8 +955,8 @@
     "symbol": "CRH",
     "name": "CRH plc",
     "aliases": [
-      "crh",
-      "crh plc"
+      "crh plc",
+      "crh"
     ]
   },
   {
@@ -1167,8 +1167,8 @@
     "symbol": "EBAY",
     "name": "eBay Inc.",
     "aliases": [
-      "ebay inc.",
-      "ebay"
+      "ebay",
+      "ebay inc."
     ]
   },
   {
@@ -1292,9 +1292,9 @@
   },
   {
     "symbol": "EL",
-    "name": "Est\u00e9e Lauder Companies (The)",
+    "name": "The Est\u00e9e Lauder Companies",
     "aliases": [
-      "est\u00e9e lauder companies (the)"
+      "the est\u00e9e lauder companies"
     ]
   },
   {
@@ -1608,9 +1608,9 @@
   },
   {
     "symbol": "HIG",
-    "name": "Hartford (The)",
+    "name": "The Hartford",
     "aliases": [
-      "hartford (the)"
+      "the hartford"
     ]
   },
   {
@@ -1643,9 +1643,9 @@
   },
   {
     "symbol": "HSY",
-    "name": "Hershey Company (The)",
+    "name": "The Hershey Company",
     "aliases": [
-      "hershey company (the)"
+      "the hershey company"
     ]
   },
   {
@@ -1671,9 +1671,9 @@
   },
   {
     "symbol": "HD",
-    "name": "Home Depot (The)",
+    "name": "Home Depot",
     "aliases": [
-      "home depot (the)"
+      "home depot"
     ]
   },
   {
@@ -1968,8 +1968,8 @@
     "symbol": "KKR",
     "name": "KKR & Co.",
     "aliases": [
-      "kkr & co.",
-      "kkr &"
+      "kkr &",
+      "kkr & co."
     ]
   },
   {
@@ -2195,9 +2195,9 @@
     "symbol": "META",
     "name": "Meta Platforms",
     "aliases": [
+      "meta",
       "facebook",
-      "meta platforms",
-      "meta"
+      "meta platforms"
     ]
   },
   {
@@ -2300,9 +2300,9 @@
   },
   {
     "symbol": "MOS",
-    "name": "Mosaic Company (The)",
+    "name": "The Mosaic Company",
     "aliases": [
-      "mosaic company (the)"
+      "the mosaic company"
     ]
   },
   {
@@ -2316,16 +2316,16 @@
     "symbol": "MSCI",
     "name": "MSCI Inc.",
     "aliases": [
-      "msci",
-      "msci inc."
+      "msci inc.",
+      "msci"
     ]
   },
   {
     "symbol": "NDAQ",
     "name": "Nasdaq, Inc.",
     "aliases": [
-      "nasdaq, inc.",
-      "nasdaq,"
+      "nasdaq,",
+      "nasdaq, inc."
     ]
   },
   {
@@ -2374,8 +2374,8 @@
     "symbol": "NKE",
     "name": "Nike, Inc.",
     "aliases": [
-      "nike,",
-      "nike, inc."
+      "nike, inc.",
+      "nike,"
     ]
   },
   {
@@ -2825,8 +2825,8 @@
     "symbol": "ROL",
     "name": "Rollins, Inc.",
     "aliases": [
-      "rollins,",
-      "rollins, inc."
+      "rollins, inc.",
+      "rollins,"
     ]
   },
   {
@@ -2929,9 +2929,9 @@
   },
   {
     "symbol": "SJM",
-    "name": "J.M. Smucker Company (The)",
+    "name": "The J.M. Smucker Company",
     "aliases": [
-      "j.m. smucker company (the)"
+      "the j.m. smucker company"
     ]
   },
   {
@@ -3064,8 +3064,8 @@
     "symbol": "TPR",
     "name": "Tapestry, Inc.",
     "aliases": [
-      "tapestry, inc.",
-      "tapestry,"
+      "tapestry,",
+      "tapestry, inc."
     ]
   },
   {
@@ -3107,8 +3107,8 @@
     "symbol": "TSLA",
     "name": "Tesla, Inc.",
     "aliases": [
-      "tesla, inc.",
-      "tesla,"
+      "tesla,",
+      "tesla, inc."
     ]
   },
   {
@@ -3155,9 +3155,9 @@
   },
   {
     "symbol": "TTD",
-    "name": "Trade Desk (The)",
+    "name": "The Trade Desk",
     "aliases": [
-      "trade desk (the)"
+      "the trade desk"
     ]
   },
   {
@@ -3183,17 +3183,17 @@
   },
   {
     "symbol": "TRV",
-    "name": "Travelers Companies (The)",
+    "name": "The Travelers Companies",
     "aliases": [
-      "travelers companies (the)"
+      "the travelers companies"
     ]
   },
   {
     "symbol": "TRMB",
     "name": "Trimble Inc.",
     "aliases": [
-      "trimble",
-      "trimble inc."
+      "trimble inc.",
+      "trimble"
     ]
   },
   {
@@ -3362,8 +3362,8 @@
     "symbol": "V",
     "name": "Visa Inc.",
     "aliases": [
-      "visa",
-      "visa inc."
+      "visa inc.",
+      "visa"
     ]
   },
   {
@@ -3411,9 +3411,9 @@
   },
   {
     "symbol": "DIS",
-    "name": "Walt Disney Company (The)",
+    "name": "The Walt Disney Company",
     "aliases": [
-      "walt disney company (the)"
+      "the walt disney company"
     ]
   },
   {
@@ -3527,8 +3527,8 @@
     "symbol": "XYL",
     "name": "Xylem Inc.",
     "aliases": [
-      "xylem inc.",
-      "xylem"
+      "xylem",
+      "xylem inc."
     ]
   },
   {
