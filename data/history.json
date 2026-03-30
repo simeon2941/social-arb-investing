@@ -1,13 +1,1 @@
-{
-  "WFC": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "trend_sentiment": 1.09375,
-    "bullish_vol": 105,
-    "bearish_vol": 95,
-    "current_price": 77.51000213623047
-  }
-}
+{}
