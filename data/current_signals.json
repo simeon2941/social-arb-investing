@@ -2,7 +2,7 @@
   {
     "ticker": "WFC",
     "signal_strength": 1,
-    "velocity": 1,
+    "velocity": 0,
     "avg_sentiment": 0.1,
     "blind_spot": true,
     "analyst_rating": "Neutral",
@@ -19,9 +19,9 @@
       "trend_sentiment": 1.09375,
       "bullish_vol": 105,
       "bearish_vol": 95,
-      "current_price": 77.73999786376953
+      "current_price": 77.51000213623047
     },
-    "current_price": 77.73999786376953,
+    "current_price": 77.51000213623047,
     "trend_sentiment": 1.09375,
     "bullish_search_vol": 105,
     "bearish_search_vol": 95
