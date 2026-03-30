@@ -1,12 +1,12 @@
 [
   {
-    "ticker": "AVGO",
+    "ticker": "WFC",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
-    "blind_spot": false,
+    "blind_spot": true,
     "analyst_rating": "Neutral",
-    "est_position_shares": 0,
+    "est_position_shares": 10,
     "sources": [
       "GoogleTrends"
     ],
@@ -16,35 +16,14 @@
       "sources": [
         "GoogleTrends"
       ],
-      "current_price": 295.6400146484375
+      "trend_sentiment": 1.09375,
+      "bullish_vol": 105,
+      "bearish_vol": 95,
+      "current_price": 77.73999786376953
     },
-    "current_price": 295.6400146484375,
-    "trend_sentiment": 0,
-    "bullish_search_vol": 0,
-    "bearish_search_vol": 0
-  },
-  {
-    "ticker": "UBER",
-    "signal_strength": 1,
-    "velocity": 1,
-    "avg_sentiment": 0.1,
-    "blind_spot": false,
-    "analyst_rating": "Neutral",
-    "est_position_shares": 0,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "details": {
-      "count": 1,
-      "sentiment_sum": 0.1,
-      "sources": [
-        "GoogleTrends"
-      ],
-      "current_price": 69.19999694824219
-    },
-    "current_price": 69.19999694824219,
-    "trend_sentiment": 0,
-    "bullish_search_vol": 0,
-    "bearish_search_vol": 0
+    "current_price": 77.73999786376953,
+    "trend_sentiment": 1.09375,
+    "bullish_search_vol": 105,
+    "bearish_search_vol": 95
   }
 ]

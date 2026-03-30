@@ -1,18 +1,13 @@
 {
-  "AVGO": {
+  "WFC": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "current_price": 295.6400146484375
-  },
-  "UBER": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "current_price": 69.19999694824219
+    "trend_sentiment": 1.09375,
+    "bullish_vol": 105,
+    "bearish_vol": 95,
+    "current_price": 77.73999786376953
   }
 }
