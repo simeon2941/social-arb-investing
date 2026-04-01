@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "ticker": "DOW",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": false,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 0,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 6.254593175853018,
+      "bullish_vol": 4766,
+      "bearish_vol": 761,
+      "current_price": 41.02510070800781
+    },
+    "current_price": 41.02510070800781,
+    "trend_sentiment": 6.254593175853018,
+    "bullish_search_vol": 4766,
+    "bearish_search_vol": 761
+  }
+]
