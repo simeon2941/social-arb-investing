@@ -1,1 +1,32 @@
-{}
+{
+  "CMCSA": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "current_price": 27.882299423217773
+  },
+  "AAPL": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 7.174242424242424,
+    "bullish_vol": 947,
+    "bearish_vol": 131,
+    "current_price": 255.02000427246094
+  },
+  "ATO": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 18.695652173913043,
+    "bullish_vol": 1290,
+    "bearish_vol": 68,
+    "current_price": 185.77999877929688
+  }
+}
