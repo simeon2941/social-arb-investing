@@ -1,1 +1,13 @@
-{}
+{
+  "DRI": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 2.0319634703196345,
+    "bullish_vol": 445,
+    "bearish_vol": 218,
+    "current_price": 195.67010498046875
+  }
+}
