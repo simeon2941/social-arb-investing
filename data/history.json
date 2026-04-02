@@ -1,1 +1,24 @@
-{}
+{
+  "DOW": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 7.827759197324415,
+    "bullish_vol": 4681,
+    "bearish_vol": 597,
+    "current_price": 40.689998626708984
+  },
+  "CMCSA": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 100.0,
+    "bullish_vol": 100,
+    "bearish_vol": 0,
+    "current_price": 28.049999237060547
+  }
+}
