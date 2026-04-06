@@ -137,8 +137,8 @@
     "symbol": "GOOGL",
     "name": "Alphabet Inc. (Class A)",
     "aliases": [
-      "alphabet (class a)",
       "alphabet inc. (class a)",
+      "alphabet (class a)",
       "google"
     ]
   },
@@ -146,9 +146,9 @@
     "symbol": "GOOG",
     "name": "Alphabet Inc. (Class C)",
     "aliases": [
-      "alphabet (class c)",
+      "google",
       "alphabet inc. (class c)",
-      "google"
+      "alphabet (class c)"
     ]
   },
   {
@@ -473,8 +473,8 @@
     "symbol": "BX",
     "name": "Blackstone Inc.",
     "aliases": [
-      "blackstone inc.",
-      "blackstone"
+      "blackstone",
+      "blackstone inc."
     ]
   },
   {
@@ -912,8 +912,8 @@
     "symbol": "GLW",
     "name": "Corning Inc.",
     "aliases": [
-      "corning",
-      "corning inc."
+      "corning inc.",
+      "corning"
     ]
   },
   {
@@ -1364,8 +1364,8 @@
     "symbol": "FFIV",
     "name": "F5, Inc.",
     "aliases": [
-      "f5, inc.",
-      "f5,"
+      "f5,",
+      "f5, inc."
     ]
   },
   {
@@ -1708,8 +1708,8 @@
     "symbol": "HPQ",
     "name": "HP Inc.",
     "aliases": [
-      "hp inc.",
-      "hp"
+      "hp",
+      "hp inc."
     ]
   },
   {
@@ -2187,17 +2187,17 @@
     "symbol": "MRK",
     "name": "Merck & Co.",
     "aliases": [
-      "merck &",
-      "merck & co."
+      "merck & co.",
+      "merck &"
     ]
   },
   {
     "symbol": "META",
     "name": "Meta Platforms",
     "aliases": [
-      "meta platforms",
       "meta",
-      "facebook"
+      "facebook",
+      "meta platforms"
     ]
   },
   {
@@ -2316,8 +2316,8 @@
     "symbol": "MSCI",
     "name": "MSCI Inc.",
     "aliases": [
-      "msci",
-      "msci inc."
+      "msci inc.",
+      "msci"
     ]
   },
   {
@@ -2445,8 +2445,8 @@
     "symbol": "NVR",
     "name": "NVR, Inc.",
     "aliases": [
-      "nvr, inc.",
-      "nvr,"
+      "nvr,",
+      "nvr, inc."
     ]
   },
   {
@@ -2691,8 +2691,8 @@
     "symbol": "PTC",
     "name": "PTC Inc.",
     "aliases": [
-      "ptc",
-      "ptc inc."
+      "ptc inc.",
+      "ptc"
     ]
   },
   {
@@ -3064,8 +3064,8 @@
     "symbol": "TPR",
     "name": "Tapestry, Inc.",
     "aliases": [
-      "tapestry,",
-      "tapestry, inc."
+      "tapestry, inc.",
+      "tapestry,"
     ]
   },
   {
@@ -3107,8 +3107,8 @@
     "symbol": "TSLA",
     "name": "Tesla, Inc.",
     "aliases": [
-      "tesla,",
-      "tesla, inc."
+      "tesla, inc.",
+      "tesla,"
     ]
   },
   {
@@ -3362,8 +3362,8 @@
     "symbol": "V",
     "name": "Visa Inc.",
     "aliases": [
-      "visa",
-      "visa inc."
+      "visa inc.",
+      "visa"
     ]
   },
   {
