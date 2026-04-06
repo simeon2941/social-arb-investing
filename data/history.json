@@ -1,13 +1,21 @@
 {
-  "AMZN": {
+  "MSFT": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "trend_sentiment": 5.681818181818182,
-    "bullish_vol": 1000,
-    "bearish_vol": 175,
-    "current_price": 209.77000427246094
+    "trend_sentiment": 7.646788990825688,
+    "bullish_vol": 1667,
+    "bearish_vol": 217,
+    "current_price": 372.6600036621094
+  },
+  "SNDK": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "current_price": 724.8989868164062
   }
 }
