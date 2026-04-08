@@ -2,7 +2,7 @@
   {
     "ticker": "NFLX",
     "signal_strength": 1,
-    "velocity": 1,
+    "velocity": 0,
     "avg_sentiment": 0.1,
     "blind_spot": false,
     "analyst_rating": "Neutral",
@@ -16,41 +16,14 @@
       "sources": [
         "GoogleTrends"
       ],
-      "trend_sentiment": 453.0,
-      "bullish_vol": 453,
-      "bearish_vol": 0,
+      "trend_sentiment": 79.71428571428571,
+      "bullish_vol": 558,
+      "bearish_vol": 6,
       "current_price": 98.81999969482422
     },
     "current_price": 98.81999969482422,
-    "trend_sentiment": 453.0,
-    "bullish_search_vol": 453,
-    "bearish_search_vol": 0
-  },
-  {
-    "ticker": "DOW",
-    "signal_strength": 1,
-    "velocity": 1,
-    "avg_sentiment": 0.1,
-    "blind_spot": false,
-    "analyst_rating": "Neutral",
-    "est_position_shares": 0,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "details": {
-      "count": 1,
-      "sentiment_sum": 0.1,
-      "sources": [
-        "GoogleTrends"
-      ],
-      "trend_sentiment": 6.816380449141348,
-      "bullish_vol": 5160,
-      "bearish_vol": 756,
-      "current_price": 41.40999984741211
-    },
-    "current_price": 41.40999984741211,
-    "trend_sentiment": 6.816380449141348,
-    "bullish_search_vol": 5160,
-    "bearish_search_vol": 756
+    "trend_sentiment": 79.71428571428571,
+    "bullish_search_vol": 558,
+    "bearish_search_vol": 6
   }
 ]
