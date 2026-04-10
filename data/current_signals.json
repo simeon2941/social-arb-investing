@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "ticker": "BX",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": false,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 0,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 1.364864864864865,
+      "bullish_vol": 303,
+      "bearish_vol": 221,
+      "current_price": 114.83000183105469
+    },
+    "current_price": 114.83000183105469,
+    "trend_sentiment": 1.364864864864865,
+    "bullish_search_vol": 303,
+    "bearish_search_vol": 221
+  }
+]
