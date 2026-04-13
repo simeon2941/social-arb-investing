@@ -1,1 +1,18 @@
-{}
+{
+  "GOOG": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "current_price": 316.30999755859375
+  },
+  "MSFT": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "current_price": 377.30999755859375
+  }
+}
