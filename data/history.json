@@ -1,1 +1,18 @@
-{}
+{
+  "NVDA": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "current_price": 188.09500122070312
+  },
+  "SBUX": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "current_price": 97.13999938964844
+  }
+}
