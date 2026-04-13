@@ -1,6 +1,6 @@
 [
   {
-    "ticker": "NVDA",
+    "ticker": "DASH",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
@@ -16,35 +16,14 @@
       "sources": [
         "GoogleTrends"
       ],
-      "current_price": 188.09500122070312
+      "trend_sentiment": 13.234604105571847,
+      "bullish_vol": 4513,
+      "bearish_vol": 340,
+      "current_price": 157.35000610351562
     },
-    "current_price": 188.09500122070312,
-    "trend_sentiment": 0,
-    "bullish_search_vol": 0,
-    "bearish_search_vol": 0
-  },
-  {
-    "ticker": "SBUX",
-    "signal_strength": 1,
-    "velocity": 1,
-    "avg_sentiment": 0.1,
-    "blind_spot": false,
-    "analyst_rating": "Neutral",
-    "est_position_shares": 0,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "details": {
-      "count": 1,
-      "sentiment_sum": 0.1,
-      "sources": [
-        "GoogleTrends"
-      ],
-      "current_price": 97.13999938964844
-    },
-    "current_price": 97.13999938964844,
-    "trend_sentiment": 0,
-    "bullish_search_vol": 0,
-    "bearish_search_vol": 0
+    "current_price": 157.35000610351562,
+    "trend_sentiment": 13.234604105571847,
+    "bullish_search_vol": 4513,
+    "bearish_search_vol": 340
   }
 ]
