@@ -1,10 +1,10 @@
 {
-  "MET": {
+  "GOOG": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "current_price": 76.0999984741211
+    "current_price": 329.45001220703125
   }
 }
