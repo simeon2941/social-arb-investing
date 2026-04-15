@@ -1,8 +1,8 @@
 [
   {
-    "ticker": "CCL",
+    "ticker": "UBER",
     "signal_strength": 1,
-    "velocity": 0,
+    "velocity": 1,
     "avg_sentiment": 0.1,
     "blind_spot": false,
     "analyst_rating": "Neutral",
@@ -16,9 +16,9 @@
       "sources": [
         "GoogleTrends"
       ],
-      "current_price": 28.690000534057617
+      "current_price": 72.91000366210938
     },
-    "current_price": 28.690000534057617,
+    "current_price": 72.91000366210938,
     "trend_sentiment": 0,
     "bullish_search_vol": 0,
     "bearish_search_vol": 0

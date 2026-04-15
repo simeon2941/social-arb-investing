@@ -1,10 +1,10 @@
 {
-  "CCL": {
+  "UBER": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "current_price": 28.690000534057617
+    "current_price": 72.91000366210938
   }
 }
