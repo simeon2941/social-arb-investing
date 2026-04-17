@@ -1,6 +1,6 @@
 [
   {
-    "ticker": "CCL",
+    "ticker": "NFLX",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
@@ -16,14 +16,14 @@
       "sources": [
         "GoogleTrends"
       ],
-      "trend_sentiment": 2.8055555555555554,
-      "bullish_vol": 303,
-      "bearish_vol": 107,
-      "current_price": 27.309999465942383
+      "trend_sentiment": 4.709302325581396,
+      "bullish_vol": 405,
+      "bearish_vol": 85,
+      "current_price": 107.79000091552734
     },
-    "current_price": 27.309999465942383,
-    "trend_sentiment": 2.8055555555555554,
-    "bullish_search_vol": 303,
-    "bearish_search_vol": 107
+    "current_price": 107.79000091552734,
+    "trend_sentiment": 4.709302325581396,
+    "bullish_search_vol": 405,
+    "bearish_search_vol": 85
   }
 ]
