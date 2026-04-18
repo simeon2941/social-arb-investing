@@ -1,6 +1,6 @@
 [
   {
-    "ticker": "AAPL",
+    "ticker": "NFLX",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
@@ -16,14 +16,41 @@
       "sources": [
         "GoogleTrends"
       ],
-      "trend_sentiment": 12.032608695652174,
-      "bullish_vol": 1107,
-      "bearish_vol": 91,
-      "current_price": 270.2300109863281
+      "trend_sentiment": 3.330827067669173,
+      "bullish_vol": 443,
+      "bearish_vol": 132,
+      "current_price": 97.30999755859375
     },
-    "current_price": 270.2300109863281,
-    "trend_sentiment": 12.032608695652174,
-    "bullish_search_vol": 1107,
-    "bearish_search_vol": 91
+    "current_price": 97.30999755859375,
+    "trend_sentiment": 3.330827067669173,
+    "bullish_search_vol": 443,
+    "bearish_search_vol": 132
+  },
+  {
+    "ticker": "LNT",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": true,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 10,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 100.0,
+      "bullish_vol": 100,
+      "bearish_vol": 0,
+      "current_price": 72.83000183105469
+    },
+    "current_price": 72.83000183105469,
+    "trend_sentiment": 100.0,
+    "bullish_search_vol": 100,
+    "bearish_search_vol": 0
   }
 ]
