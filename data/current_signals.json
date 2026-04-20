@@ -1,6 +1,6 @@
 [
   {
-    "ticker": "TRMB",
+    "ticker": "CCL",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
@@ -16,14 +16,14 @@
       "sources": [
         "GoogleTrends"
       ],
-      "trend_sentiment": 0.0,
-      "bullish_vol": 0,
-      "bearish_vol": 100,
-      "current_price": 69.3949966430664
+      "trend_sentiment": 30.375,
+      "bullish_vol": 243,
+      "bearish_vol": 7,
+      "current_price": 29.024999618530273
     },
-    "current_price": 69.3949966430664,
-    "trend_sentiment": 0.0,
-    "bullish_search_vol": 0,
-    "bearish_search_vol": 100
+    "current_price": 29.024999618530273,
+    "trend_sentiment": 30.375,
+    "bullish_search_vol": 243,
+    "bearish_search_vol": 7
   }
 ]
