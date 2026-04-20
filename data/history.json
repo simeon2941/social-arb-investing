@@ -1,13 +1,1 @@
-{
-  "CCL": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "trend_sentiment": 30.375,
-    "bullish_vol": 243,
-    "bearish_vol": 7,
-    "current_price": 29.024999618530273
-  }
-}
+{}
