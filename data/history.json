@@ -1,10 +1,10 @@
 {
-  "DOW": {
+  "CMCSA": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "current_price": 35.599998474121094
+    "current_price": 29.68000030517578
   }
 }
