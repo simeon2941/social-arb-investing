@@ -1,12 +1,12 @@
 [
   {
-    "ticker": "CMCSA",
+    "ticker": "MSFT",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
-    "blind_spot": true,
+    "blind_spot": false,
     "analyst_rating": "Neutral",
-    "est_position_shares": 10,
+    "est_position_shares": 0,
     "sources": [
       "GoogleTrends"
     ],
@@ -16,9 +16,9 @@
       "sources": [
         "GoogleTrends"
       ],
-      "current_price": 29.68000030517578
+      "current_price": 419.2099914550781
     },
-    "current_price": 29.68000030517578,
+    "current_price": 419.2099914550781,
     "trend_sentiment": 0,
     "bullish_search_vol": 0,
     "bearish_search_vol": 0
