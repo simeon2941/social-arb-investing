@@ -1,6 +1,6 @@
 [
   {
-    "ticker": "MSFT",
+    "ticker": "AAPL",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
@@ -16,9 +16,9 @@
       "sources": [
         "GoogleTrends"
       ],
-      "current_price": 419.2099914550781
+      "current_price": 272.75
     },
-    "current_price": 419.2099914550781,
+    "current_price": 272.75,
     "trend_sentiment": 0,
     "bullish_search_vol": 0,
     "bearish_search_vol": 0

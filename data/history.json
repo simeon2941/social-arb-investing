@@ -1,10 +1,10 @@
 {
-  "MSFT": {
+  "AAPL": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "current_price": 419.2099914550781
+    "current_price": 272.75
   }
 }
