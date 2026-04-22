@@ -1,1 +1,13 @@
-{}
+{
+  "AMZN": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 6.220338983050848,
+    "bullish_vol": 1101,
+    "bearish_vol": 176,
+    "current_price": 249.91000366210938
+  }
+}
