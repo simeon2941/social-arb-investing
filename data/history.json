@@ -1,1 +1,13 @@
-{}
+{
+  "CMCSA": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 14.285714285714286,
+    "bullish_vol": 100,
+    "bearish_vol": 6,
+    "current_price": 29.3700008392334
+  }
+}
