@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "ticker": "LMT",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": false,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 0,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 22.944444444444443,
+      "bullish_vol": 413,
+      "bearish_vol": 17,
+      "current_price": 513.4500122070312
+    },
+    "current_price": 513.4500122070312,
+    "trend_sentiment": 22.944444444444443,
+    "bullish_search_vol": 413,
+    "bearish_search_vol": 17
+  }
+]
