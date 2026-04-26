@@ -1,13 +1,13 @@
 {
-  "LMT": {
+  "NFLX": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "trend_sentiment": 22.944444444444443,
-    "bullish_vol": 413,
-    "bearish_vol": 17,
-    "current_price": 513.4500122070312
+    "trend_sentiment": 7.017241379310345,
+    "bullish_vol": 407,
+    "bearish_vol": 57,
+    "current_price": 92.44000244140625
   }
 }
