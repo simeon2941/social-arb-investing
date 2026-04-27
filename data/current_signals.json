@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "ticker": "MSFT",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": false,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 0,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 6.934865900383142,
+      "bullish_vol": 1810,
+      "bearish_vol": 260,
+      "current_price": 424.82000732421875
+    },
+    "current_price": 424.82000732421875,
+    "trend_sentiment": 6.934865900383142,
+    "bullish_search_vol": 1810,
+    "bearish_search_vol": 260
+  }
+]
