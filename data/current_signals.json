@@ -1,6 +1,6 @@
 [
   {
-    "ticker": "MSFT",
+    "ticker": "MET",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
@@ -16,9 +16,9 @@
       "sources": [
         "GoogleTrends"
       ],
-      "current_price": 423.7589111328125
+      "current_price": 77.83000183105469
     },
-    "current_price": 423.7589111328125,
+    "current_price": 77.83000183105469,
     "trend_sentiment": 0,
     "bullish_search_vol": 0,
     "bearish_search_vol": 0

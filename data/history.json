@@ -1,10 +1,10 @@
 {
-  "MSFT": {
+  "MET": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "current_price": 423.7589111328125
+    "current_price": 77.83000183105469
   }
 }
