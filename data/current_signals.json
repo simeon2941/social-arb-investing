@@ -1,1 +1,128 @@
-[]
+[
+  {
+    "ticker": "WMT",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": true,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 10,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 2.9310344827586206,
+      "bullish_vol": 340,
+      "bearish_vol": 115,
+      "current_price": 128.55999755859375
+    },
+    "current_price": 128.55999755859375,
+    "trend_sentiment": 2.9310344827586206,
+    "bullish_search_vol": 340,
+    "bearish_search_vol": 115
+  },
+  {
+    "ticker": "INTC",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": false,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 0,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 2.321969696969697,
+      "bullish_vol": 613,
+      "bearish_vol": 263,
+      "current_price": 84.493896484375
+    },
+    "current_price": 84.493896484375,
+    "trend_sentiment": 2.321969696969697,
+    "bullish_search_vol": 613,
+    "bearish_search_vol": 263
+  },
+  {
+    "ticker": "BA",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": false,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 0,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "current_price": 231.25
+    },
+    "current_price": 231.25,
+    "trend_sentiment": 0,
+    "bullish_search_vol": 0,
+    "bearish_search_vol": 0
+  },
+  {
+    "ticker": "MSFT",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": false,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 0,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "current_price": 423.1700134277344
+    },
+    "current_price": 423.1700134277344,
+    "trend_sentiment": 0,
+    "bullish_search_vol": 0,
+    "bearish_search_vol": 0
+  },
+  {
+    "ticker": "UBER",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": false,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 0,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "current_price": 76.1500015258789
+    },
+    "current_price": 76.1500015258789,
+    "trend_sentiment": 0,
+    "bullish_search_vol": 0,
+    "bearish_search_vol": 0
+  }
+]
