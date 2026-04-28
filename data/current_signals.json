@@ -1,12 +1,12 @@
 [
   {
-    "ticker": "AVGO",
+    "ticker": "CCL",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
-    "blind_spot": false,
+    "blind_spot": true,
     "analyst_rating": "Neutral",
-    "est_position_shares": 0,
+    "est_position_shares": 10,
     "sources": [
       "GoogleTrends"
     ],
@@ -16,9 +16,9 @@
       "sources": [
         "GoogleTrends"
       ],
-      "current_price": 418.20001220703125
+      "current_price": 26.420000076293945
     },
-    "current_price": 418.20001220703125,
+    "current_price": 26.420000076293945,
     "trend_sentiment": 0,
     "bullish_search_vol": 0,
     "bearish_search_vol": 0

@@ -1,10 +1,10 @@
 {
-  "AVGO": {
+  "CCL": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "current_price": 418.20001220703125
+    "current_price": 26.420000076293945
   }
 }
