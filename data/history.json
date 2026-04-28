@@ -1,13 +1,10 @@
 {
-  "VZ": {
+  "AVGO": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "trend_sentiment": 13.08,
-    "bullish_vol": 327,
-    "bearish_vol": 24,
-    "current_price": 47.099998474121094
+    "current_price": 418.20001220703125
   }
 }

@@ -1,6 +1,6 @@
 [
   {
-    "ticker": "VZ",
+    "ticker": "AVGO",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
@@ -16,14 +16,11 @@
       "sources": [
         "GoogleTrends"
       ],
-      "trend_sentiment": 13.08,
-      "bullish_vol": 327,
-      "bearish_vol": 24,
-      "current_price": 47.099998474121094
+      "current_price": 418.20001220703125
     },
-    "current_price": 47.099998474121094,
-    "trend_sentiment": 13.08,
-    "bullish_search_vol": 327,
-    "bearish_search_vol": 24
+    "current_price": 418.20001220703125,
+    "trend_sentiment": 0,
+    "bullish_search_vol": 0,
+    "bearish_search_vol": 0
   }
 ]
