@@ -1,1 +1,13 @@
-{}
+{
+  "ATO": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 10.913793103448276,
+    "bullish_vol": 1266,
+    "bearish_vol": 115,
+    "current_price": 189.97999572753906
+  }
+}
