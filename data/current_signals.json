@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "ticker": "UBER",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": false,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 0,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 4.821681864235056,
+      "bullish_vol": 4759,
+      "bearish_vol": 986,
+      "current_price": 74.61000061035156
+    },
+    "current_price": 74.61000061035156,
+    "trend_sentiment": 4.821681864235056,
+    "bullish_search_vol": 4759,
+    "bearish_search_vol": 986
+  }
+]

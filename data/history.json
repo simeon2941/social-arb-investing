@@ -1,1 +1,13 @@
-{}
+{
+  "UBER": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 4.821681864235056,
+    "bullish_vol": 4759,
+    "bearish_vol": 986,
+    "current_price": 74.61000061035156
+  }
+}
