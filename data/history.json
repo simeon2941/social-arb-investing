@@ -1,1 +1,13 @@
-{}
+{
+  "EBAY": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 1.2426894768251442,
+    "bullish_vol": 6247,
+    "bearish_vol": 5026,
+    "current_price": 104.06999969482422
+  }
+}
