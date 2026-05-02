@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "ticker": "BRK.B",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": false,
+    "analyst_rating": "Unknown",
+    "est_position_shares": 0,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 596.0,
+      "bullish_vol": 596,
+      "bearish_vol": 0
+    },
+    "current_price": 0,
+    "trend_sentiment": 596.0,
+    "bullish_search_vol": 596,
+    "bearish_search_vol": 0
+  }
+]

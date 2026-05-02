@@ -1,1 +1,12 @@
-{}
+{
+  "BRK.B": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 596.0,
+    "bullish_vol": 596,
+    "bearish_vol": 0
+  }
+}
