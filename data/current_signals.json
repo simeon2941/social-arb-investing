@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "ticker": "AAPL",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": false,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 0,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 7.244094488188976,
+      "bullish_vol": 920,
+      "bearish_vol": 126,
+      "current_price": 280.1400146484375
+    },
+    "current_price": 280.1400146484375,
+    "trend_sentiment": 7.244094488188976,
+    "bullish_search_vol": 920,
+    "bearish_search_vol": 126
+  },
+  {
+    "ticker": "GRMN",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": true,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 10,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "current_price": 242.4199981689453
+    },
+    "current_price": 242.4199981689453,
+    "trend_sentiment": 0,
+    "bullish_search_vol": 0,
+    "bearish_search_vol": 0
+  }
+]
