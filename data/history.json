@@ -1,1 +1,21 @@
-{}
+{
+  "KR": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 49.758620689655174,
+    "bullish_vol": 2886,
+    "bearish_vol": 57,
+    "current_price": 66.9749984741211
+  },
+  "DASH": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "current_price": 174.17999267578125
+  }
+}
