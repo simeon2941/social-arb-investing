@@ -1,18 +1,1 @@
-{
-  "WMT": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "current_price": 131.3800048828125
-  },
-  "UBER": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "current_price": 74.93000030517578
-  }
-}
+{}
