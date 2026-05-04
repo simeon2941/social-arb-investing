@@ -1,12 +1,12 @@
 [
   {
-    "ticker": "KR",
+    "ticker": "NSC",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
-    "blind_spot": false,
+    "blind_spot": true,
     "analyst_rating": "Neutral",
-    "est_position_shares": 0,
+    "est_position_shares": 10,
     "sources": [
       "GoogleTrends"
     ],
@@ -16,38 +16,14 @@
       "sources": [
         "GoogleTrends"
       ],
-      "trend_sentiment": 49.758620689655174,
-      "bullish_vol": 2886,
-      "bearish_vol": 57,
-      "current_price": 66.9749984741211
+      "trend_sentiment": 1.801980198019802,
+      "bullish_vol": 182,
+      "bearish_vol": 100,
+      "current_price": 311.30999755859375
     },
-    "current_price": 66.9749984741211,
-    "trend_sentiment": 49.758620689655174,
-    "bullish_search_vol": 2886,
-    "bearish_search_vol": 57
-  },
-  {
-    "ticker": "DASH",
-    "signal_strength": 1,
-    "velocity": 1,
-    "avg_sentiment": 0.1,
-    "blind_spot": false,
-    "analyst_rating": "Neutral",
-    "est_position_shares": 0,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "details": {
-      "count": 1,
-      "sentiment_sum": 0.1,
-      "sources": [
-        "GoogleTrends"
-      ],
-      "current_price": 174.17999267578125
-    },
-    "current_price": 174.17999267578125,
-    "trend_sentiment": 0,
-    "bullish_search_vol": 0,
-    "bearish_search_vol": 0
+    "current_price": 311.30999755859375,
+    "trend_sentiment": 1.801980198019802,
+    "bullish_search_vol": 182,
+    "bearish_search_vol": 100
   }
 ]
