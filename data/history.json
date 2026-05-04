@@ -1,13 +1,1 @@
-{
-  "NSC": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "trend_sentiment": 1.801980198019802,
-    "bullish_vol": 182,
-    "bearish_vol": 100,
-    "current_price": 311.30999755859375
-  }
-}
+{}
