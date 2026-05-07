@@ -1,1 +1,18 @@
-{}
+{
+  "LITE": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "current_price": 944.280029296875
+  },
+  "GM": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "current_price": 78.69999694824219
+  }
+}
