@@ -1,10 +1,10 @@
 {
-  "INTC": {
+  "MRNA": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "current_price": 126.98999786376953
+    "current_price": 54.64500045776367
   }
 }
