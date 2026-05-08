@@ -1,18 +1,10 @@
 {
-  "MET": {
+  "INTC": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "current_price": 77.87000274658203
-  },
-  "DOW": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "current_price": 37.22019958496094
+    "current_price": 126.98999786376953
   }
 }
