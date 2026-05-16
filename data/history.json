@@ -1,1 +1,13 @@
-{}
+{
+  "LUV": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 29.11111111111111,
+    "bullish_vol": 262,
+    "bearish_vol": 8,
+    "current_price": 38.5
+  }
+}
