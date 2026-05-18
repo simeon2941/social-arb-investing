@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "ticker": "UNH",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": true,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 10,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 2.648854961832061,
+      "bullish_vol": 347,
+      "bearish_vol": 130,
+      "current_price": 393.8500061035156
+    },
+    "current_price": 393.8500061035156,
+    "trend_sentiment": 2.648854961832061,
+    "bullish_search_vol": 347,
+    "bearish_search_vol": 130
+  }
+]
