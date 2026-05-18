@@ -1,18 +1,10 @@
 {
-  "GOOG": {
+  "COST": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "current_price": 399.1099853515625
-  },
-  "WMT": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "current_price": 132.30999755859375
+    "current_price": 1064.925048828125
   }
 }
