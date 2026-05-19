@@ -1,1 +1,21 @@
-{}
+{
+  "AEE": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 9.485294117647058,
+    "bullish_vol": 645,
+    "bearish_vol": 67,
+    "current_price": 107.37999725341797
+  },
+  "BA": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "current_price": 220.61000061035156
+  }
+}
