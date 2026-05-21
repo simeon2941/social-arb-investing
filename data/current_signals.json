@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "ticker": "IBM",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": false,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 0,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 19.553956834532375,
+      "bullish_vol": 2718,
+      "bearish_vol": 138,
+      "current_price": 237.86000061035156
+    },
+    "current_price": 237.86000061035156,
+    "trend_sentiment": 19.553956834532375,
+    "bullish_search_vol": 2718,
+    "bearish_search_vol": 138
+  }
+]
