@@ -1,1 +1,24 @@
-{}
+{
+  "DOW": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 5.531645569620253,
+    "bullish_vol": 4370,
+    "bearish_vol": 789,
+    "current_price": 36.0099983215332
+  },
+  "WMT": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 2.3191489361702127,
+    "bullish_vol": 327,
+    "bearish_vol": 140,
+    "current_price": 120.2699966430664
+  }
+}
