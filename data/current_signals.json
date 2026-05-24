@@ -1,6 +1,6 @@
 [
   {
-    "ticker": "AAPL",
+    "ticker": "WM",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
@@ -16,14 +16,41 @@
       "sources": [
         "GoogleTrends"
       ],
-      "trend_sentiment": 7.130081300813008,
-      "bullish_vol": 877,
-      "bearish_vol": 122,
-      "current_price": 308.82000732421875
+      "trend_sentiment": 38.38461538461539,
+      "bullish_vol": 499,
+      "bearish_vol": 12,
+      "current_price": 217.89999389648438
     },
-    "current_price": 308.82000732421875,
-    "trend_sentiment": 7.130081300813008,
-    "bullish_search_vol": 877,
-    "bearish_search_vol": 122
+    "current_price": 217.89999389648438,
+    "trend_sentiment": 38.38461538461539,
+    "bullish_search_vol": 499,
+    "bearish_search_vol": 12
+  },
+  {
+    "ticker": "RSG",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": true,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 10,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 100.0,
+      "bullish_vol": 100,
+      "bearish_vol": 0,
+      "current_price": 208.92999267578125
+    },
+    "current_price": 208.92999267578125,
+    "trend_sentiment": 100.0,
+    "bullish_search_vol": 100,
+    "bearish_search_vol": 0
   }
 ]
