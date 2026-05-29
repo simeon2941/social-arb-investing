@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "ticker": "GOOG",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": true,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 10,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 6.336134453781512,
+      "bullish_vol": 754,
+      "bearish_vol": 118,
+      "current_price": 386.1199951171875
+    },
+    "current_price": 386.1199951171875,
+    "trend_sentiment": 6.336134453781512,
+    "bullish_search_vol": 754,
+    "bearish_search_vol": 118
+  }
+]
