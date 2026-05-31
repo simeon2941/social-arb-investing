@@ -2,7 +2,7 @@
   {
     "ticker": "VZ",
     "signal_strength": 1,
-    "velocity": 1,
+    "velocity": 0,
     "avg_sentiment": 0.1,
     "blind_spot": false,
     "analyst_rating": "Neutral",
@@ -16,41 +16,14 @@
       "sources": [
         "GoogleTrends"
       ],
-      "trend_sentiment": 19.829268292682926,
-      "bullish_vol": 813,
-      "bearish_vol": 40,
+      "trend_sentiment": 1.1869918699186992,
+      "bullish_vol": 146,
+      "bearish_vol": 122,
       "current_price": 47.810001373291016
     },
     "current_price": 47.810001373291016,
-    "trend_sentiment": 19.829268292682926,
-    "bullish_search_vol": 813,
-    "bearish_search_vol": 40
-  },
-  {
-    "ticker": "AAPL",
-    "signal_strength": 1,
-    "velocity": 1,
-    "avg_sentiment": 0.1,
-    "blind_spot": false,
-    "analyst_rating": "Neutral",
-    "est_position_shares": 0,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "details": {
-      "count": 1,
-      "sentiment_sum": 0.1,
-      "sources": [
-        "GoogleTrends"
-      ],
-      "trend_sentiment": 5.229050279329609,
-      "bullish_vol": 936,
-      "bearish_vol": 178,
-      "current_price": 312.05999755859375
-    },
-    "current_price": 312.05999755859375,
-    "trend_sentiment": 5.229050279329609,
-    "bullish_search_vol": 936,
-    "bearish_search_vol": 178
+    "trend_sentiment": 1.1869918699186992,
+    "bullish_search_vol": 146,
+    "bearish_search_vol": 122
   }
 ]

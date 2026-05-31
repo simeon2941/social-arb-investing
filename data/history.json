@@ -5,20 +5,9 @@
     "sources": [
       "GoogleTrends"
     ],
-    "trend_sentiment": 19.829268292682926,
-    "bullish_vol": 813,
-    "bearish_vol": 40,
+    "trend_sentiment": 1.1869918699186992,
+    "bullish_vol": 146,
+    "bearish_vol": 122,
     "current_price": 47.810001373291016
-  },
-  "AAPL": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "trend_sentiment": 5.229050279329609,
-    "bullish_vol": 936,
-    "bearish_vol": 178,
-    "current_price": 312.05999755859375
   }
 }
