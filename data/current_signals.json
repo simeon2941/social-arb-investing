@@ -1,11 +1,11 @@
 [
   {
-    "ticker": "VZ",
+    "ticker": "URI",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
     "blind_spot": true,
-    "analyst_rating": "Neutral",
+    "analyst_rating": "Unknown",
     "est_position_shares": 10,
     "sources": [
       "GoogleTrends"
@@ -16,11 +16,14 @@
       "sources": [
         "GoogleTrends"
       ],
-      "current_price": 47.810001373291016
+      "trend_sentiment": 7.105882352941176,
+      "bullish_vol": 604,
+      "bearish_vol": 84,
+      "current_price": 995.6699829101562
     },
-    "current_price": 47.810001373291016,
-    "trend_sentiment": 0,
-    "bullish_search_vol": 0,
-    "bearish_search_vol": 0
+    "current_price": 995.6699829101562,
+    "trend_sentiment": 7.105882352941176,
+    "bullish_search_vol": 604,
+    "bearish_search_vol": 84
   }
 ]

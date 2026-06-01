@@ -1,10 +1,13 @@
 {
-  "VZ": {
+  "URI": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "current_price": 47.810001373291016
+    "trend_sentiment": 7.105882352941176,
+    "bullish_vol": 604,
+    "bearish_vol": 84,
+    "current_price": 995.6699829101562
   }
 }
