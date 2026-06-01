@@ -1,13 +1,13 @@
 {
-  "URI": {
+  "FDX": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "trend_sentiment": 7.105882352941176,
-    "bullish_vol": 604,
-    "bearish_vol": 84,
-    "current_price": 995.6699829101562
+    "trend_sentiment": 100.0,
+    "bullish_vol": 100,
+    "bearish_vol": 0,
+    "current_price": 331.5400085449219
   }
 }
