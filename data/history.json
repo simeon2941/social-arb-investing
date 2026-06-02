@@ -5,20 +5,9 @@
     "sources": [
       "GoogleTrends"
     ],
-    "trend_sentiment": 51.1,
-    "bullish_vol": 511,
-    "bearish_vol": 9,
+    "trend_sentiment": 31.625,
+    "bullish_vol": 506,
+    "bearish_vol": 15,
     "current_price": 85.8499984741211
-  },
-  "CVNA": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "trend_sentiment": 23.6,
-    "bullish_vol": 118,
-    "bearish_vol": 4,
-    "current_price": 71.0
   }
 }
