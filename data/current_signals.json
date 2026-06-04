@@ -1,6 +1,6 @@
 [
   {
-    "ticker": "VZ",
+    "ticker": "DG",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
@@ -16,14 +16,11 @@
       "sources": [
         "GoogleTrends"
       ],
-      "trend_sentiment": 31.833333333333332,
-      "bullish_vol": 191,
-      "bearish_vol": 5,
-      "current_price": 46.650001525878906
+      "current_price": 105.08999633789062
     },
-    "current_price": 46.650001525878906,
-    "trend_sentiment": 31.833333333333332,
-    "bullish_search_vol": 191,
-    "bearish_search_vol": 5
+    "current_price": 105.08999633789062,
+    "trend_sentiment": 0,
+    "bullish_search_vol": 0,
+    "bearish_search_vol": 0
   }
 ]
