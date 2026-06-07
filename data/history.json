@@ -1,24 +1,13 @@
 {
-  "T": {
+  "GS": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "trend_sentiment": 3.7732497387669803,
-    "bullish_vol": 7222,
-    "bearish_vol": 1913,
-    "current_price": 22.75
-  },
-  "VZ": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "trend_sentiment": 50.6,
-    "bullish_vol": 253,
-    "bearish_vol": 4,
-    "current_price": 45.369998931884766
+    "trend_sentiment": 22.69918699186992,
+    "bullish_vol": 2792,
+    "bearish_vol": 122,
+    "current_price": 1038.6800537109375
   }
 }
