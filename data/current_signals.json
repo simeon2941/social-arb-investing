@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "ticker": "T",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": false,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 0,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 3.7732497387669803,
+      "bullish_vol": 7222,
+      "bearish_vol": 1913,
+      "current_price": 22.75
+    },
+    "current_price": 22.75,
+    "trend_sentiment": 3.7732497387669803,
+    "bullish_search_vol": 7222,
+    "bearish_search_vol": 1913
+  },
+  {
+    "ticker": "VZ",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": false,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 0,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 50.6,
+      "bullish_vol": 253,
+      "bearish_vol": 4,
+      "current_price": 45.369998931884766
+    },
+    "current_price": 45.369998931884766,
+    "trend_sentiment": 50.6,
+    "bullish_search_vol": 253,
+    "bearish_search_vol": 4
+  }
+]
