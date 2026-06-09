@@ -1,13 +1,1 @@
-{
-  "CRM": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "trend_sentiment": 10.934659090909092,
-    "bullish_vol": 3849,
-    "bearish_vol": 351,
-    "current_price": 174.77999877929688
-  }
-}
+{}
