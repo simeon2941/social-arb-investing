@@ -1,6 +1,6 @@
 [
   {
-    "ticker": "CRM",
+    "ticker": "V",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
@@ -16,14 +16,14 @@
       "sources": [
         "GoogleTrends"
       ],
-      "trend_sentiment": 11.554179566563468,
-      "bullish_vol": 3732,
-      "bearish_vol": 322,
-      "current_price": 175.35000610351562
+      "trend_sentiment": 4.846332046332046,
+      "bullish_vol": 6276,
+      "bearish_vol": 1294,
+      "current_price": 325.04998779296875
     },
-    "current_price": 175.35000610351562,
-    "trend_sentiment": 11.554179566563468,
-    "bullish_search_vol": 3732,
-    "bearish_search_vol": 322
+    "current_price": 325.04998779296875,
+    "trend_sentiment": 4.846332046332046,
+    "bullish_search_vol": 6276,
+    "bearish_search_vol": 1294
   }
 ]
