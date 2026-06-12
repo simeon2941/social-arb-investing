@@ -1,1 +1,13 @@
-{}
+{
+  "BAC": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 18.884057971014492,
+    "bullish_vol": 3909,
+    "bearish_vol": 206,
+    "current_price": 55.15999984741211
+  }
+}
