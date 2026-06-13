@@ -1,13 +1,1 @@
-{
-  "TMUS": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "trend_sentiment": 1.0,
-    "bullish_vol": 100,
-    "bearish_vol": 99,
-    "current_price": 189.10000610351562
-  }
-}
+{}
