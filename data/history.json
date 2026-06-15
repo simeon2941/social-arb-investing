@@ -1,25 +1,10 @@
 {
-  "OC": {
+  "FISV": {
     "count": 1,
-    "sentiment_sum": 0.5,
+    "sentiment_sum": 0.1,
     "sources": [
-      "Weather/Hail"
+      "GoogleTrends"
     ],
-    "current_price": 121.44000244140625
-  },
-  "BECN": {
-    "count": 1,
-    "sentiment_sum": 0.5,
-    "sources": [
-      "Weather/Hail"
-    ]
-  },
-  "ROCK": {
-    "count": 1,
-    "sentiment_sum": 0.5,
-    "sources": [
-      "Weather/Hail"
-    ],
-    "current_price": 40.29999923706055
+    "current_price": 53.779998779296875
   }
 }
