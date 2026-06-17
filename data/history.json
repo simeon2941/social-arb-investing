@@ -1,13 +1,13 @@
 {
-  "DOW": {
+  "NFLX": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "trend_sentiment": 6.499306518723994,
-    "bullish_vol": 4686,
-    "bearish_vol": 720,
-    "current_price": 32.5
+    "trend_sentiment": 9.153846153846153,
+    "bullish_vol": 238,
+    "bearish_vol": 25,
+    "current_price": 76.95999908447266
   }
 }

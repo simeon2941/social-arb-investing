@@ -1,6 +1,6 @@
 [
   {
-    "ticker": "DOW",
+    "ticker": "NFLX",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
@@ -16,14 +16,14 @@
       "sources": [
         "GoogleTrends"
       ],
-      "trend_sentiment": 6.499306518723994,
-      "bullish_vol": 4686,
-      "bearish_vol": 720,
-      "current_price": 32.5
+      "trend_sentiment": 9.153846153846153,
+      "bullish_vol": 238,
+      "bearish_vol": 25,
+      "current_price": 76.95999908447266
     },
-    "current_price": 32.5,
-    "trend_sentiment": 6.499306518723994,
-    "bullish_search_vol": 4686,
-    "bearish_search_vol": 720
+    "current_price": 76.95999908447266,
+    "trend_sentiment": 9.153846153846153,
+    "bullish_search_vol": 238,
+    "bearish_search_vol": 25
   }
 ]
