@@ -1,31 +1,10 @@
 {
-  "OC": {
+  "DUK": {
     "count": 1,
-    "sentiment_sum": 0.5,
+    "sentiment_sum": 0.1,
     "sources": [
-      "Weather/Hail"
+      "GoogleTrends"
     ],
-    "trend_sentiment": 24.65573770491803,
-    "bullish_vol": 4512,
-    "bearish_vol": 182,
-    "current_price": 123.77999877929688
-  },
-  "BECN": {
-    "count": 1,
-    "sentiment_sum": 0.5,
-    "sources": [
-      "Weather/Hail"
-    ]
-  },
-  "ROCK": {
-    "count": 1,
-    "sentiment_sum": 0.5,
-    "sources": [
-      "Weather/Hail"
-    ],
-    "trend_sentiment": 3.703054298642534,
-    "bullish_vol": 6547,
-    "bearish_vol": 1767,
-    "current_price": 40.52000045776367
+    "current_price": 123.7300033569336
   }
 }
