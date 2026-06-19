@@ -1,1 +1,24 @@
-{}
+{
+  "DUK": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 100.0,
+    "bullish_vol": 100,
+    "bearish_vol": 0,
+    "current_price": 123.86000061035156
+  },
+  "NFLX": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 3.6464646464646466,
+    "bullish_vol": 361,
+    "bearish_vol": 98,
+    "current_price": 77.37999725341797
+  }
+}
