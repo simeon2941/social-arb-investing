@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "ticker": "AAPL",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": false,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 0,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 14.098360655737705,
+      "bullish_vol": 1720,
+      "bearish_vol": 121,
+      "current_price": 298.010009765625
+    },
+    "current_price": 298.010009765625,
+    "trend_sentiment": 14.098360655737705,
+    "bullish_search_vol": 1720,
+    "bearish_search_vol": 121
+  },
+  {
+    "ticker": "NFLX",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": false,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 0,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 20.227272727272727,
+      "bullish_vol": 445,
+      "bearish_vol": 21,
+      "current_price": 77.37999725341797
+    },
+    "current_price": 77.37999725341797,
+    "trend_sentiment": 20.227272727272727,
+    "bullish_search_vol": 445,
+    "bearish_search_vol": 21
+  }
+]
