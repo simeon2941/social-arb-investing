@@ -1,1 +1,21 @@
-{}
+{
+  "NFLX": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "current_price": 74.30999755859375
+  },
+  "AVGO": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 7.111111111111111,
+    "bullish_vol": 1088,
+    "bearish_vol": 152,
+    "current_price": 394.93499755859375
+  }
+}
