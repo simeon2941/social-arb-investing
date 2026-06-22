@@ -1,13 +1,1 @@
-{
-  "DAL": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "trend_sentiment": 12.670103092783505,
-    "bullish_vol": 1229,
-    "bearish_vol": 96,
-    "current_price": 84.18000030517578
-  }
-}
+{}
