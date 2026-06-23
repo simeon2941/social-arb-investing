@@ -1,13 +1,1 @@
-{
-  "SNDK": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "trend_sentiment": 7.30827067669173,
-    "bullish_vol": 972,
-    "bearish_vol": 132,
-    "current_price": 2002.5989990234375
-  }
-}
+{}
