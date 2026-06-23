@@ -1,13 +1,1 @@
-{
-  "DUK": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "trend_sentiment": 0.01056338028169014,
-    "bullish_vol": 3,
-    "bearish_vol": 283,
-    "current_price": 123.5199966430664
-  }
-}
+{}
