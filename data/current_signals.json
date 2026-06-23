@@ -1,6 +1,6 @@
 [
   {
-    "ticker": "AMZN",
+    "ticker": "SNDK",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
@@ -16,11 +16,14 @@
       "sources": [
         "GoogleTrends"
       ],
-      "current_price": 235.0
+      "trend_sentiment": 7.30827067669173,
+      "bullish_vol": 972,
+      "bearish_vol": 132,
+      "current_price": 2002.5989990234375
     },
-    "current_price": 235.0,
-    "trend_sentiment": 0,
-    "bullish_search_vol": 0,
-    "bearish_search_vol": 0
+    "current_price": 2002.5989990234375,
+    "trend_sentiment": 7.30827067669173,
+    "bullish_search_vol": 972,
+    "bearish_search_vol": 132
   }
 ]
