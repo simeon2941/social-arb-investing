@@ -137,9 +137,9 @@
     "symbol": "GOOGL",
     "name": "Alphabet Inc. (Class A)",
     "aliases": [
-      "alphabet (class a)",
       "alphabet inc. (class a)",
-      "google"
+      "google",
+      "alphabet (class a)"
     ]
   },
   {
@@ -275,8 +275,8 @@
     "symbol": "AAPL",
     "name": "Apple Inc.",
     "aliases": [
-      "apple",
-      "apple inc."
+      "apple inc.",
+      "apple"
     ]
   },
   {
@@ -473,16 +473,16 @@
     "symbol": "BX",
     "name": "Blackstone Inc.",
     "aliases": [
-      "blackstone inc.",
-      "blackstone"
+      "blackstone",
+      "blackstone inc."
     ]
   },
   {
     "symbol": "XYZ",
     "name": "Block, Inc.",
     "aliases": [
-      "block, inc.",
-      "block,"
+      "block,",
+      "block, inc."
     ]
   },
   {
@@ -566,8 +566,8 @@
     "symbol": "BXP",
     "name": "BXP, Inc.",
     "aliases": [
-      "bxp, inc.",
-      "bxp,"
+      "bxp,",
+      "bxp, inc."
     ]
   },
   {
@@ -912,8 +912,8 @@
     "symbol": "GLW",
     "name": "Corning Inc.",
     "aliases": [
-      "corning",
-      "corning inc."
+      "corning inc.",
+      "corning"
     ]
   },
   {
@@ -948,8 +948,8 @@
     "symbol": "CRH",
     "name": "CRH plc",
     "aliases": [
-      "crh plc",
-      "crh"
+      "crh",
+      "crh plc"
     ]
   },
   {
@@ -1117,8 +1117,8 @@
     "symbol": "DOW",
     "name": "Dow Inc.",
     "aliases": [
-      "dow inc.",
-      "dow"
+      "dow",
+      "dow inc."
     ]
   },
   {
@@ -1160,8 +1160,8 @@
     "symbol": "EBAY",
     "name": "eBay Inc.",
     "aliases": [
-      "ebay",
-      "ebay inc."
+      "ebay inc.",
+      "ebay"
     ]
   },
   {
@@ -2046,8 +2046,8 @@
     "symbol": "LIN",
     "name": "Linde plc",
     "aliases": [
-      "linde",
-      "linde plc"
+      "linde plc",
+      "linde"
     ]
   },
   {
@@ -2195,9 +2195,9 @@
     "symbol": "META",
     "name": "Meta Platforms",
     "aliases": [
-      "meta platforms",
       "meta",
-      "facebook"
+      "facebook",
+      "meta platforms"
     ]
   },
   {
@@ -2324,8 +2324,8 @@
     "symbol": "NDAQ",
     "name": "Nasdaq, Inc.",
     "aliases": [
-      "nasdaq, inc.",
-      "nasdaq,"
+      "nasdaq,",
+      "nasdaq, inc."
     ]
   },
   {
@@ -2818,8 +2818,8 @@
     "symbol": "ROL",
     "name": "Rollins, Inc.",
     "aliases": [
-      "rollins, inc.",
-      "rollins,"
+      "rollins,",
+      "rollins, inc."
     ]
   },
   {
@@ -3505,8 +3505,8 @@
     "symbol": "WDAY",
     "name": "Workday, Inc.",
     "aliases": [
-      "workday,",
-      "workday, inc."
+      "workday, inc.",
+      "workday,"
     ]
   },
   {
