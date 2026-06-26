@@ -38,8 +38,8 @@
     "symbol": "ADBE",
     "name": "Adobe Inc.",
     "aliases": [
-      "adobe",
-      "adobe inc."
+      "adobe inc.",
+      "adobe"
     ]
   },
   {
@@ -138,16 +138,16 @@
     "name": "Alphabet Inc. (Class A)",
     "aliases": [
       "google",
-      "alphabet inc. (class a)",
-      "alphabet (class a)"
+      "alphabet (class a)",
+      "alphabet inc. (class a)"
     ]
   },
   {
     "symbol": "GOOG",
     "name": "Alphabet Inc. (Class C)",
     "aliases": [
-      "google",
       "alphabet inc. (class c)",
+      "google",
       "alphabet (class c)"
     ]
   },
@@ -275,8 +275,8 @@
     "symbol": "AAPL",
     "name": "Apple Inc.",
     "aliases": [
-      "apple",
-      "apple inc."
+      "apple inc.",
+      "apple"
     ]
   },
   {
@@ -473,8 +473,8 @@
     "symbol": "BX",
     "name": "Blackstone Inc.",
     "aliases": [
-      "blackstone inc.",
-      "blackstone"
+      "blackstone",
+      "blackstone inc."
     ]
   },
   {
@@ -637,8 +637,8 @@
     "symbol": "CAT",
     "name": "Caterpillar Inc.",
     "aliases": [
-      "caterpillar inc.",
-      "caterpillar"
+      "caterpillar",
+      "caterpillar inc."
     ]
   },
   {
@@ -1117,8 +1117,8 @@
     "symbol": "DOW",
     "name": "Dow Inc.",
     "aliases": [
-      "dow inc.",
-      "dow"
+      "dow",
+      "dow inc."
     ]
   },
   {
@@ -1350,8 +1350,8 @@
     "symbol": "FFIV",
     "name": "F5, Inc.",
     "aliases": [
-      "f5,",
-      "f5, inc."
+      "f5, inc.",
+      "f5,"
     ]
   },
   {
@@ -2187,17 +2187,17 @@
     "symbol": "MRK",
     "name": "Merck & Co.",
     "aliases": [
-      "merck &",
-      "merck & co."
+      "merck & co.",
+      "merck &"
     ]
   },
   {
     "symbol": "META",
     "name": "Meta Platforms",
     "aliases": [
+      "meta platforms",
       "facebook",
-      "meta",
-      "meta platforms"
+      "meta"
     ]
   },
   {
@@ -2316,16 +2316,16 @@
     "symbol": "MSCI",
     "name": "MSCI Inc.",
     "aliases": [
-      "msci inc.",
-      "msci"
+      "msci",
+      "msci inc."
     ]
   },
   {
     "symbol": "NDAQ",
     "name": "Nasdaq, Inc.",
     "aliases": [
-      "nasdaq,",
-      "nasdaq, inc."
+      "nasdaq, inc.",
+      "nasdaq,"
     ]
   },
   {
@@ -2684,8 +2684,8 @@
     "symbol": "PTC",
     "name": "PTC Inc.",
     "aliases": [
-      "ptc",
-      "ptc inc."
+      "ptc inc.",
+      "ptc"
     ]
   },
   {
@@ -3057,8 +3057,8 @@
     "symbol": "TPR",
     "name": "Tapestry, Inc.",
     "aliases": [
-      "tapestry,",
-      "tapestry, inc."
+      "tapestry, inc.",
+      "tapestry,"
     ]
   },
   {
@@ -3100,8 +3100,8 @@
     "symbol": "TSLA",
     "name": "Tesla, Inc.",
     "aliases": [
-      "tesla, inc.",
-      "tesla,"
+      "tesla,",
+      "tesla, inc."
     ]
   },
   {
@@ -3228,8 +3228,8 @@
     "symbol": "UDR",
     "name": "UDR, Inc.",
     "aliases": [
-      "udr, inc.",
-      "udr,"
+      "udr,",
+      "udr, inc."
     ]
   },
   {
@@ -3370,8 +3370,8 @@
     "symbol": "VST",
     "name": "Vistra Corp.",
     "aliases": [
-      "vistra",
-      "vistra corp."
+      "vistra corp.",
+      "vistra"
     ]
   },
   {
@@ -3483,8 +3483,8 @@
     "symbol": "WSM",
     "name": "Williams-Sonoma, Inc.",
     "aliases": [
-      "williams-sonoma, inc.",
-      "williams-sonoma,"
+      "williams-sonoma,",
+      "williams-sonoma, inc."
     ]
   },
   {
@@ -3505,8 +3505,8 @@
     "symbol": "WDAY",
     "name": "Workday, Inc.",
     "aliases": [
-      "workday, inc.",
-      "workday,"
+      "workday,",
+      "workday, inc."
     ]
   },
   {
@@ -3527,8 +3527,8 @@
     "symbol": "XYL",
     "name": "Xylem Inc.",
     "aliases": [
-      "xylem",
-      "xylem inc."
+      "xylem inc.",
+      "xylem"
     ]
   },
   {
