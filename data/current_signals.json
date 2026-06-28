@@ -16,15 +16,15 @@
       "sources": [
         "Weather/Hail"
       ],
-      "trend_sentiment": 23.51366120218579,
-      "bullish_vol": 4303,
-      "bearish_vol": 182,
+      "trend_sentiment": 19.806451612903224,
+      "bullish_vol": 4912,
+      "bearish_vol": 247,
       "current_price": 135.38999938964844
     },
     "current_price": 135.38999938964844,
-    "trend_sentiment": 23.51366120218579,
-    "bullish_search_vol": 4303,
-    "bearish_search_vol": 182
+    "trend_sentiment": 19.806451612903224,
+    "bullish_search_vol": 4912,
+    "bearish_search_vol": 247
   },
   {
     "ticker": "BECN",
@@ -69,41 +69,14 @@
       "sources": [
         "Weather/Hail"
       ],
-      "trend_sentiment": 3.8767123287671232,
-      "bullish_vol": 5094,
-      "bearish_vol": 1313,
+      "trend_sentiment": 3.895787139689579,
+      "bullish_vol": 5271,
+      "bearish_vol": 1352,
       "current_price": 44.20000076293945
     },
     "current_price": 44.20000076293945,
-    "trend_sentiment": 3.8767123287671232,
-    "bullish_search_vol": 5094,
-    "bearish_search_vol": 1313
-  },
-  {
-    "ticker": "NFLX",
-    "signal_strength": 1,
-    "velocity": 0,
-    "avg_sentiment": 0.1,
-    "blind_spot": false,
-    "analyst_rating": "Neutral",
-    "est_position_shares": 0,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "details": {
-      "count": 1,
-      "sentiment_sum": 0.1,
-      "sources": [
-        "GoogleTrends"
-      ],
-      "trend_sentiment": 12.73076923076923,
-      "bullish_vol": 331,
-      "bearish_vol": 25,
-      "current_price": 73.80999755859375
-    },
-    "current_price": 73.80999755859375,
-    "trend_sentiment": 12.73076923076923,
-    "bullish_search_vol": 331,
-    "bearish_search_vol": 25
+    "trend_sentiment": 3.895787139689579,
+    "bullish_search_vol": 5271,
+    "bearish_search_vol": 1352
   }
 ]
