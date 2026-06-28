@@ -5,9 +5,9 @@
     "sources": [
       "Weather/Hail"
     ],
-    "trend_sentiment": 22.914893617021278,
-    "bullish_vol": 4308,
-    "bearish_vol": 187,
+    "trend_sentiment": 19.81451612903226,
+    "bullish_vol": 4914,
+    "bearish_vol": 247,
     "current_price": 135.38999938964844
   },
   "BECN": {
@@ -26,9 +26,20 @@
     "sources": [
       "Weather/Hail"
     ],
-    "trend_sentiment": 3.8734756097560976,
-    "bullish_vol": 5082,
-    "bearish_vol": 1311,
+    "trend_sentiment": 3.899408284023669,
+    "bullish_vol": 5272,
+    "bearish_vol": 1351,
     "current_price": 44.20000076293945
+  },
+  "NFLX": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 3.730769230769231,
+    "bullish_vol": 291,
+    "bearish_vol": 77,
+    "current_price": 73.80999755859375
   }
 }
