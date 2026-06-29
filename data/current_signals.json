@@ -16,15 +16,15 @@
       "sources": [
         "Weather/Hail"
       ],
-      "trend_sentiment": 19.74206349206349,
-      "bullish_vol": 4975,
-      "bearish_vol": 251,
+      "trend_sentiment": 18.476744186046513,
+      "bullish_vol": 4767,
+      "bearish_vol": 257,
       "current_price": 135.38999938964844
     },
     "current_price": 135.38999938964844,
-    "trend_sentiment": 19.74206349206349,
-    "bullish_search_vol": 4975,
-    "bearish_search_vol": 251
+    "trend_sentiment": 18.476744186046513,
+    "bullish_search_vol": 4767,
+    "bearish_search_vol": 257
   },
   {
     "ticker": "BECN",
@@ -42,14 +42,11 @@
       "sentiment_sum": 0.5,
       "sources": [
         "Weather/Hail"
-      ],
-      "trend_sentiment": 100.0,
-      "bullish_vol": 100,
-      "bearish_vol": 0
+      ]
     },
     "current_price": 0,
-    "trend_sentiment": 100.0,
-    "bullish_search_vol": 100,
+    "trend_sentiment": 0,
+    "bullish_search_vol": 0,
     "bearish_search_vol": 0
   },
   {
@@ -77,7 +74,31 @@
     "bearish_search_vol": 0
   },
   {
-    "ticker": "DASH",
+    "ticker": "LUV",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": true,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 10,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "current_price": 51.90999984741211
+    },
+    "current_price": 51.90999984741211,
+    "trend_sentiment": 0,
+    "bullish_search_vol": 0,
+    "bearish_search_vol": 0
+  },
+  {
+    "ticker": "CMCSA",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
@@ -93,9 +114,9 @@
       "sources": [
         "GoogleTrends"
       ],
-      "current_price": 183.08999633789062
+      "current_price": 23.170000076293945
     },
-    "current_price": 183.08999633789062,
+    "current_price": 23.170000076293945,
     "trend_sentiment": 0,
     "bullish_search_vol": 0,
     "bearish_search_vol": 0

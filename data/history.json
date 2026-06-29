@@ -5,9 +5,9 @@
     "sources": [
       "Weather/Hail"
     ],
-    "trend_sentiment": 19.74206349206349,
-    "bullish_vol": 4975,
-    "bearish_vol": 251,
+    "trend_sentiment": 18.476744186046513,
+    "bullish_vol": 4767,
+    "bearish_vol": 257,
     "current_price": 135.38999938964844
   },
   "BECN": {
@@ -15,10 +15,7 @@
     "sentiment_sum": 0.5,
     "sources": [
       "Weather/Hail"
-    ],
-    "trend_sentiment": 100.0,
-    "bullish_vol": 100,
-    "bearish_vol": 0
+    ]
   },
   "ROCK": {
     "count": 1,
@@ -28,12 +25,20 @@
     ],
     "current_price": 44.20000076293945
   },
-  "DASH": {
+  "LUV": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "current_price": 183.08999633789062
+    "current_price": 51.90999984741211
+  },
+  "CMCSA": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "current_price": 23.170000076293945
   }
 }
