@@ -5,14 +5,17 @@
     "sources": [
       "Weather/Hail"
     ],
-    "current_price": 132.7899932861328
+    "current_price": 152.0050048828125
   },
   "BECN": {
     "count": 1,
     "sentiment_sum": 0.5,
     "sources": [
       "Weather/Hail"
-    ]
+    ],
+    "trend_sentiment": 0.0,
+    "bullish_vol": 0,
+    "bearish_vol": 100
   },
   "ROCK": {
     "count": 1,
@@ -20,6 +23,6 @@
     "sources": [
       "Weather/Hail"
     ],
-    "current_price": 44.08000183105469
+    "current_price": 44.40999984741211
   }
 }

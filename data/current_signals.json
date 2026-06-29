@@ -16,9 +16,9 @@
       "sources": [
         "Weather/Hail"
       ],
-      "current_price": 132.7899932861328
+      "current_price": 152.0050048828125
     },
-    "current_price": 132.7899932861328,
+    "current_price": 152.0050048828125,
     "trend_sentiment": 0,
     "bullish_search_vol": 0,
     "bearish_search_vol": 0
@@ -39,12 +39,15 @@
       "sentiment_sum": 0.5,
       "sources": [
         "Weather/Hail"
-      ]
+      ],
+      "trend_sentiment": 0.0,
+      "bullish_vol": 0,
+      "bearish_vol": 100
     },
     "current_price": 0,
-    "trend_sentiment": 0,
+    "trend_sentiment": 0.0,
     "bullish_search_vol": 0,
-    "bearish_search_vol": 0
+    "bearish_search_vol": 100
   },
   {
     "ticker": "ROCK",
@@ -63,9 +66,9 @@
       "sources": [
         "Weather/Hail"
       ],
-      "current_price": 44.08000183105469
+      "current_price": 44.40999984741211
     },
-    "current_price": 44.08000183105469,
+    "current_price": 44.40999984741211,
     "trend_sentiment": 0,
     "bullish_search_vol": 0,
     "bearish_search_vol": 0
