@@ -5,9 +5,9 @@
     "sources": [
       "Weather/Hail"
     ],
-    "trend_sentiment": 24.696629213483146,
-    "bullish_vol": 4396,
-    "bearish_vol": 177,
+    "trend_sentiment": 24.13736263736264,
+    "bullish_vol": 4393,
+    "bearish_vol": 181,
     "current_price": 135.38999938964844
   },
   "BECN": {
@@ -26,9 +26,9 @@
     "sources": [
       "Weather/Hail"
     ],
-    "trend_sentiment": 3.90283091048202,
-    "bullish_vol": 5101,
-    "bearish_vol": 1306,
+    "trend_sentiment": 3.906513409961686,
+    "bullish_vol": 5098,
+    "bearish_vol": 1304,
     "current_price": 44.20000076293945
   }
 }
