@@ -5,7 +5,7 @@
     "sources": [
       "Weather/Hail"
     ],
-    "current_price": 133.01499938964844
+    "current_price": 132.7899932861328
   },
   "BECN": {
     "count": 1,
@@ -20,14 +20,6 @@
     "sources": [
       "Weather/Hail"
     ],
-    "current_price": 43.03499984741211
-  },
-  "UBER": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "current_price": 76.2699966430664
+    "current_price": 44.08000183105469
   }
 }

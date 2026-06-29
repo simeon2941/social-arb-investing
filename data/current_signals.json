@@ -16,9 +16,9 @@
       "sources": [
         "Weather/Hail"
       ],
-      "current_price": 133.01499938964844
+      "current_price": 132.7899932861328
     },
-    "current_price": 133.01499938964844,
+    "current_price": 132.7899932861328,
     "trend_sentiment": 0,
     "bullish_search_vol": 0,
     "bearish_search_vol": 0
@@ -63,33 +63,9 @@
       "sources": [
         "Weather/Hail"
       ],
-      "current_price": 43.03499984741211
+      "current_price": 44.08000183105469
     },
-    "current_price": 43.03499984741211,
-    "trend_sentiment": 0,
-    "bullish_search_vol": 0,
-    "bearish_search_vol": 0
-  },
-  {
-    "ticker": "UBER",
-    "signal_strength": 1,
-    "velocity": 1,
-    "avg_sentiment": 0.1,
-    "blind_spot": false,
-    "analyst_rating": "Neutral",
-    "est_position_shares": 0,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "details": {
-      "count": 1,
-      "sentiment_sum": 0.1,
-      "sources": [
-        "GoogleTrends"
-      ],
-      "current_price": 76.2699966430664
-    },
-    "current_price": 76.2699966430664,
+    "current_price": 44.08000183105469,
     "trend_sentiment": 0,
     "bullish_search_vol": 0,
     "bearish_search_vol": 0
