@@ -16,15 +16,12 @@
       "sources": [
         "Weather/Hail"
       ],
-      "trend_sentiment": 21.266375545851528,
-      "bullish_vol": 4870,
-      "bearish_vol": 228,
       "current_price": 135.38999938964844
     },
     "current_price": 135.38999938964844,
-    "trend_sentiment": 21.266375545851528,
-    "bullish_search_vol": 4870,
-    "bearish_search_vol": 228
+    "trend_sentiment": 0,
+    "bullish_search_vol": 0,
+    "bearish_search_vol": 0
   },
   {
     "ticker": "BECN",
@@ -43,14 +40,14 @@
       "sources": [
         "Weather/Hail"
       ],
-      "trend_sentiment": 16.666666666666668,
+      "trend_sentiment": 100.0,
       "bullish_vol": 100,
-      "bearish_vol": 5
+      "bearish_vol": 0
     },
     "current_price": 0,
-    "trend_sentiment": 16.666666666666668,
+    "trend_sentiment": 100.0,
     "bullish_search_vol": 100,
-    "bearish_search_vol": 5
+    "bearish_search_vol": 0
   },
   {
     "ticker": "ROCK",
@@ -69,14 +66,11 @@
       "sources": [
         "Weather/Hail"
       ],
-      "trend_sentiment": 3.919079435783222,
-      "bullish_vol": 5279,
-      "bearish_vol": 1346,
       "current_price": 44.20000076293945
     },
     "current_price": 44.20000076293945,
-    "trend_sentiment": 3.919079435783222,
-    "bullish_search_vol": 5279,
-    "bearish_search_vol": 1346
+    "trend_sentiment": 0,
+    "bullish_search_vol": 0,
+    "bearish_search_vol": 0
   }
 ]

@@ -5,9 +5,6 @@
     "sources": [
       "Weather/Hail"
     ],
-    "trend_sentiment": 21.266375545851528,
-    "bullish_vol": 4870,
-    "bearish_vol": 228,
     "current_price": 135.38999938964844
   },
   "BECN": {
@@ -16,9 +13,9 @@
     "sources": [
       "Weather/Hail"
     ],
-    "trend_sentiment": 16.666666666666668,
+    "trend_sentiment": 100.0,
     "bullish_vol": 100,
-    "bearish_vol": 5
+    "bearish_vol": 0
   },
   "ROCK": {
     "count": 1,
@@ -26,9 +23,6 @@
     "sources": [
       "Weather/Hail"
     ],
-    "trend_sentiment": 3.919079435783222,
-    "bullish_vol": 5279,
-    "bearish_vol": 1346,
     "current_price": 44.20000076293945
   }
 }
