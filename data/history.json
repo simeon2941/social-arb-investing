@@ -5,9 +5,9 @@
     "sources": [
       "Weather/Hail"
     ],
-    "trend_sentiment": 18.476744186046513,
-    "bullish_vol": 4767,
-    "bearish_vol": 257,
+    "trend_sentiment": 16.57894736842105,
+    "bullish_vol": 4410,
+    "bearish_vol": 265,
     "current_price": 135.38999938964844
   },
   "BECN": {
@@ -24,21 +24,5 @@
       "Weather/Hail"
     ],
     "current_price": 44.20000076293945
-  },
-  "LUV": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "current_price": 51.90999984741211
-  },
-  "CMCSA": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "current_price": 23.170000076293945
   }
 }

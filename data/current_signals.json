@@ -16,15 +16,15 @@
       "sources": [
         "Weather/Hail"
       ],
-      "trend_sentiment": 18.476744186046513,
-      "bullish_vol": 4767,
-      "bearish_vol": 257,
+      "trend_sentiment": 16.57894736842105,
+      "bullish_vol": 4410,
+      "bearish_vol": 265,
       "current_price": 135.38999938964844
     },
     "current_price": 135.38999938964844,
-    "trend_sentiment": 18.476744186046513,
-    "bullish_search_vol": 4767,
-    "bearish_search_vol": 257
+    "trend_sentiment": 16.57894736842105,
+    "bullish_search_vol": 4410,
+    "bearish_search_vol": 265
   },
   {
     "ticker": "BECN",
@@ -69,54 +69,6 @@
       "current_price": 44.20000076293945
     },
     "current_price": 44.20000076293945,
-    "trend_sentiment": 0,
-    "bullish_search_vol": 0,
-    "bearish_search_vol": 0
-  },
-  {
-    "ticker": "LUV",
-    "signal_strength": 1,
-    "velocity": 1,
-    "avg_sentiment": 0.1,
-    "blind_spot": true,
-    "analyst_rating": "Neutral",
-    "est_position_shares": 10,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "details": {
-      "count": 1,
-      "sentiment_sum": 0.1,
-      "sources": [
-        "GoogleTrends"
-      ],
-      "current_price": 51.90999984741211
-    },
-    "current_price": 51.90999984741211,
-    "trend_sentiment": 0,
-    "bullish_search_vol": 0,
-    "bearish_search_vol": 0
-  },
-  {
-    "ticker": "CMCSA",
-    "signal_strength": 1,
-    "velocity": 1,
-    "avg_sentiment": 0.1,
-    "blind_spot": false,
-    "analyst_rating": "Neutral",
-    "est_position_shares": 0,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "details": {
-      "count": 1,
-      "sentiment_sum": 0.1,
-      "sources": [
-        "GoogleTrends"
-      ],
-      "current_price": 23.170000076293945
-    },
-    "current_price": 23.170000076293945,
     "trend_sentiment": 0,
     "bullish_search_vol": 0,
     "bearish_search_vol": 0
