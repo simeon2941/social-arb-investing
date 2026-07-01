@@ -2,7 +2,7 @@
   {
     "ticker": "OC",
     "signal_strength": 1,
-    "velocity": 1,
+    "velocity": 0,
     "avg_sentiment": 0.5,
     "blind_spot": false,
     "analyst_rating": "CONSENSUS BULL (Priced In?)",
@@ -16,20 +16,20 @@
       "sources": [
         "Weather/Hail"
       ],
-      "trend_sentiment": 16.657243816254418,
-      "bullish_vol": 4714,
-      "bearish_vol": 282,
+      "trend_sentiment": 30.273809523809526,
+      "bullish_vol": 5086,
+      "bearish_vol": 167,
       "current_price": 158.9600067138672
     },
     "current_price": 158.9600067138672,
-    "trend_sentiment": 16.657243816254418,
-    "bullish_search_vol": 4714,
-    "bearish_search_vol": 282
+    "trend_sentiment": 30.273809523809526,
+    "bullish_search_vol": 5086,
+    "bearish_search_vol": 167
   },
   {
     "ticker": "BECN",
     "signal_strength": 1,
-    "velocity": 1,
+    "velocity": 0,
     "avg_sentiment": 0.5,
     "blind_spot": true,
     "analyst_rating": "Unknown",
@@ -42,20 +42,17 @@
       "sentiment_sum": 0.5,
       "sources": [
         "Weather/Hail"
-      ],
-      "trend_sentiment": 0.0,
-      "bullish_vol": 0,
-      "bearish_vol": 100
+      ]
     },
     "current_price": 0,
-    "trend_sentiment": 0.0,
+    "trend_sentiment": 0,
     "bullish_search_vol": 0,
-    "bearish_search_vol": 100
+    "bearish_search_vol": 0
   },
   {
     "ticker": "ROCK",
     "signal_strength": 1,
-    "velocity": 1,
+    "velocity": 0,
     "avg_sentiment": 0.5,
     "blind_spot": false,
     "analyst_rating": "Unknown",
@@ -69,14 +66,14 @@
       "sources": [
         "Weather/Hail"
       ],
-      "trend_sentiment": 3.9084720121028744,
-      "bullish_vol": 5167,
-      "bearish_vol": 1321,
+      "trend_sentiment": 3.9790535298681147,
+      "bullish_vol": 5129,
+      "bearish_vol": 1288,
       "current_price": 45.099998474121094
     },
     "current_price": 45.099998474121094,
-    "trend_sentiment": 3.9084720121028744,
-    "bullish_search_vol": 5167,
-    "bearish_search_vol": 1321
+    "trend_sentiment": 3.9790535298681147,
+    "bullish_search_vol": 5129,
+    "bearish_search_vol": 1288
   }
 ]
