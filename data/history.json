@@ -1,31 +1,18 @@
 {
-  "OC": {
+  "AAPL": {
     "count": 1,
-    "sentiment_sum": 0.5,
+    "sentiment_sum": 0.1,
     "sources": [
-      "Weather/Hail"
+      "GoogleTrends"
     ],
-    "trend_sentiment": 30.273809523809526,
-    "bullish_vol": 5086,
-    "bearish_vol": 167,
-    "current_price": 158.9600067138672
+    "current_price": 289.3599853515625
   },
-  "BECN": {
+  "NFLX": {
     "count": 1,
-    "sentiment_sum": 0.5,
+    "sentiment_sum": 0.1,
     "sources": [
-      "Weather/Hail"
-    ]
-  },
-  "ROCK": {
-    "count": 1,
-    "sentiment_sum": 0.5,
-    "sources": [
-      "Weather/Hail"
+      "GoogleTrends"
     ],
-    "trend_sentiment": 3.9790535298681147,
-    "bullish_vol": 5129,
-    "bearish_vol": 1288,
-    "current_price": 45.099998474121094
+    "current_price": 71.4000015258789
   }
 }

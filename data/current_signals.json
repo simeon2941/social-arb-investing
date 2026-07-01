@@ -1,79 +1,50 @@
 [
   {
-    "ticker": "OC",
+    "ticker": "AAPL",
     "signal_strength": 1,
-    "velocity": 0,
-    "avg_sentiment": 0.5,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
     "blind_spot": false,
-    "analyst_rating": "CONSENSUS BULL (Priced In?)",
+    "analyst_rating": "Neutral",
     "est_position_shares": 0,
     "sources": [
-      "Weather/Hail"
+      "GoogleTrends"
     ],
     "details": {
       "count": 1,
-      "sentiment_sum": 0.5,
+      "sentiment_sum": 0.1,
       "sources": [
-        "Weather/Hail"
+        "GoogleTrends"
       ],
-      "trend_sentiment": 30.273809523809526,
-      "bullish_vol": 5086,
-      "bearish_vol": 167,
-      "current_price": 158.9600067138672
+      "current_price": 289.3599853515625
     },
-    "current_price": 158.9600067138672,
-    "trend_sentiment": 30.273809523809526,
-    "bullish_search_vol": 5086,
-    "bearish_search_vol": 167
-  },
-  {
-    "ticker": "BECN",
-    "signal_strength": 1,
-    "velocity": 0,
-    "avg_sentiment": 0.5,
-    "blind_spot": true,
-    "analyst_rating": "Unknown",
-    "est_position_shares": 10,
-    "sources": [
-      "Weather/Hail"
-    ],
-    "details": {
-      "count": 1,
-      "sentiment_sum": 0.5,
-      "sources": [
-        "Weather/Hail"
-      ]
-    },
-    "current_price": 0,
+    "current_price": 289.3599853515625,
     "trend_sentiment": 0,
     "bullish_search_vol": 0,
     "bearish_search_vol": 0
   },
   {
-    "ticker": "ROCK",
+    "ticker": "NFLX",
     "signal_strength": 1,
-    "velocity": 0,
-    "avg_sentiment": 0.5,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
     "blind_spot": false,
-    "analyst_rating": "Unknown",
+    "analyst_rating": "Neutral",
     "est_position_shares": 0,
     "sources": [
-      "Weather/Hail"
+      "GoogleTrends"
     ],
     "details": {
       "count": 1,
-      "sentiment_sum": 0.5,
+      "sentiment_sum": 0.1,
       "sources": [
-        "Weather/Hail"
+        "GoogleTrends"
       ],
-      "trend_sentiment": 3.9790535298681147,
-      "bullish_vol": 5129,
-      "bearish_vol": 1288,
-      "current_price": 45.099998474121094
+      "current_price": 71.4000015258789
     },
-    "current_price": 45.099998474121094,
-    "trend_sentiment": 3.9790535298681147,
-    "bullish_search_vol": 5129,
-    "bearish_search_vol": 1288
+    "current_price": 71.4000015258789,
+    "trend_sentiment": 0,
+    "bullish_search_vol": 0,
+    "bearish_search_vol": 0
   }
 ]
