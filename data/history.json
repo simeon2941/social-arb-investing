@@ -1,1 +1,25 @@
-{}
+{
+  "OC": {
+    "count": 1,
+    "sentiment_sum": 0.5,
+    "sources": [
+      "Weather/Hail"
+    ],
+    "current_price": 151.05999755859375
+  },
+  "BECN": {
+    "count": 1,
+    "sentiment_sum": 0.5,
+    "sources": [
+      "Weather/Hail"
+    ]
+  },
+  "ROCK": {
+    "count": 1,
+    "sentiment_sum": 0.5,
+    "sources": [
+      "Weather/Hail"
+    ],
+    "current_price": 43.91999816894531
+  }
+}
