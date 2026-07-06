@@ -1,71 +1,24 @@
 [
   {
-    "ticker": "OC",
+    "ticker": "BA",
     "signal_strength": 1,
     "velocity": 1,
-    "avg_sentiment": 0.5,
+    "avg_sentiment": 0.1,
     "blind_spot": false,
-    "analyst_rating": "CONSENSUS BULL (Priced In?)",
+    "analyst_rating": "Neutral",
     "est_position_shares": 0,
     "sources": [
-      "Weather/Hail"
+      "GoogleTrends"
     ],
     "details": {
       "count": 1,
-      "sentiment_sum": 0.5,
+      "sentiment_sum": 0.1,
       "sources": [
-        "Weather/Hail"
+        "GoogleTrends"
       ],
-      "current_price": 151.05999755859375
+      "current_price": 226.49000549316406
     },
-    "current_price": 151.05999755859375,
-    "trend_sentiment": 0,
-    "bullish_search_vol": 0,
-    "bearish_search_vol": 0
-  },
-  {
-    "ticker": "BECN",
-    "signal_strength": 1,
-    "velocity": 1,
-    "avg_sentiment": 0.5,
-    "blind_spot": true,
-    "analyst_rating": "Unknown",
-    "est_position_shares": 10,
-    "sources": [
-      "Weather/Hail"
-    ],
-    "details": {
-      "count": 1,
-      "sentiment_sum": 0.5,
-      "sources": [
-        "Weather/Hail"
-      ]
-    },
-    "current_price": 0,
-    "trend_sentiment": 0,
-    "bullish_search_vol": 0,
-    "bearish_search_vol": 0
-  },
-  {
-    "ticker": "ROCK",
-    "signal_strength": 1,
-    "velocity": 1,
-    "avg_sentiment": 0.5,
-    "blind_spot": false,
-    "analyst_rating": "Unknown",
-    "est_position_shares": 0,
-    "sources": [
-      "Weather/Hail"
-    ],
-    "details": {
-      "count": 1,
-      "sentiment_sum": 0.5,
-      "sources": [
-        "Weather/Hail"
-      ],
-      "current_price": 43.91999816894531
-    },
-    "current_price": 43.91999816894531,
+    "current_price": 226.49000549316406,
     "trend_sentiment": 0,
     "bullish_search_vol": 0,
     "bearish_search_vol": 0
