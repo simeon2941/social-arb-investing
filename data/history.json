@@ -1,1 +1,21 @@
-{}
+{
+  "V": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 5.6301218161683275,
+    "bullish_vol": 5084,
+    "bearish_vol": 902,
+    "current_price": 346.6099853515625
+  },
+  "META": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "current_price": 673.030029296875
+  }
+}
