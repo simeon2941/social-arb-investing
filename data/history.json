@@ -1,13 +1,10 @@
 {
-  "PYPL": {
+  "NFLX": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "trend_sentiment": 0.25742574257425743,
-    "bullish_vol": 26,
-    "bearish_vol": 100,
-    "current_price": 47.369998931884766
+    "current_price": 73.52999877929688
   }
 }

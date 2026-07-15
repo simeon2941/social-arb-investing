@@ -1,6 +1,6 @@
 [
   {
-    "ticker": "PYPL",
+    "ticker": "NFLX",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
@@ -16,14 +16,11 @@
       "sources": [
         "GoogleTrends"
       ],
-      "trend_sentiment": 0.25742574257425743,
-      "bullish_vol": 26,
-      "bearish_vol": 100,
-      "current_price": 47.369998931884766
+      "current_price": 73.52999877929688
     },
-    "current_price": 47.369998931884766,
-    "trend_sentiment": 0.25742574257425743,
-    "bullish_search_vol": 26,
-    "bearish_search_vol": 100
+    "current_price": 73.52999877929688,
+    "trend_sentiment": 0,
+    "bullish_search_vol": 0,
+    "bearish_search_vol": 0
   }
 ]
