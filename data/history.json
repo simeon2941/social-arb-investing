@@ -1,18 +1,24 @@
 {
-  "GOOG": {
+  "MMM": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "current_price": 341.9100036621094
+    "trend_sentiment": 555.0,
+    "bullish_vol": 555,
+    "bearish_vol": 0,
+    "current_price": 170.75999450683594
   },
-  "MCD": {
+  "COF": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "current_price": 263.55999755859375
+    "trend_sentiment": 131.0,
+    "bullish_vol": 131,
+    "bearish_vol": 0,
+    "current_price": 201.36000061035156
   }
 }
