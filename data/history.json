@@ -1,13 +1,18 @@
 {
-  "AMZN": {
+  "GOOG": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "trend_sentiment": 13.992957746478874,
-    "bullish_vol": 1987,
-    "bearish_vol": 141,
-    "current_price": 242.5800018310547
+    "current_price": 341.9100036621094
+  },
+  "MCD": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "current_price": 263.55999755859375
   }
 }
