@@ -1,1 +1,18 @@
-{}
+{
+  "VZ": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "current_price": 45.79499816894531
+  },
+  "GOOG": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "current_price": 320.2200012207031
+  }
+}
