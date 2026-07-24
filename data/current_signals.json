@@ -1,6 +1,6 @@
 [
   {
-    "ticker": "UBER",
+    "ticker": "DOW",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
@@ -16,11 +16,14 @@
       "sources": [
         "GoogleTrends"
       ],
-      "current_price": 65.94999694824219
+      "trend_sentiment": 9.20935960591133,
+      "bullish_vol": 3739,
+      "bearish_vol": 405,
+      "current_price": 29.84000015258789
     },
-    "current_price": 65.94999694824219,
-    "trend_sentiment": 0,
-    "bullish_search_vol": 0,
-    "bearish_search_vol": 0
+    "current_price": 29.84000015258789,
+    "trend_sentiment": 9.20935960591133,
+    "bullish_search_vol": 3739,
+    "bearish_search_vol": 405
   }
 ]

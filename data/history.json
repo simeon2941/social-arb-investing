@@ -1,10 +1,13 @@
 {
-  "UBER": {
+  "DOW": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "current_price": 65.94999694824219
+    "trend_sentiment": 9.20935960591133,
+    "bullish_vol": 3739,
+    "bearish_vol": 405,
+    "current_price": 29.84000015258789
   }
 }
