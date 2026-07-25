@@ -1,1 +1,13 @@
-{}
+{
+  "MMM": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 139.0,
+    "bullish_vol": 139,
+    "bearish_vol": 0,
+    "current_price": 172.6199951171875
+  }
+}
