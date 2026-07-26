@@ -1,13 +1,13 @@
 {
-  "AAPL": {
+  "AMZN": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "trend_sentiment": 17.20212765957447,
-    "bullish_vol": 1617,
-    "bearish_vol": 93,
-    "current_price": 333.0199890136719
+    "trend_sentiment": 20.864197530864196,
+    "bullish_vol": 1690,
+    "bearish_vol": 80,
+    "current_price": 232.11000061035156
   }
 }
