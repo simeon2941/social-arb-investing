@@ -1,1 +1,13 @@
-{}
+{
+  "TSCO": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 177.0,
+    "bullish_vol": 177,
+    "bearish_vol": 0,
+    "current_price": 31.020000457763672
+  }
+}
