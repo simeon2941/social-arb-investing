@@ -1,6 +1,6 @@
 [
   {
-    "ticker": "TSCO",
+    "ticker": "COST",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
@@ -16,14 +16,14 @@
       "sources": [
         "GoogleTrends"
       ],
-      "trend_sentiment": 177.0,
-      "bullish_vol": 177,
-      "bearish_vol": 0,
-      "current_price": 31.020000457763672
+      "trend_sentiment": 3.882111436950147,
+      "bullish_vol": 6619,
+      "bearish_vol": 1704,
+      "current_price": 935.030029296875
     },
-    "current_price": 31.020000457763672,
-    "trend_sentiment": 177.0,
-    "bullish_search_vol": 177,
-    "bearish_search_vol": 0
+    "current_price": 935.030029296875,
+    "trend_sentiment": 3.882111436950147,
+    "bullish_search_vol": 6619,
+    "bearish_search_vol": 1704
   }
 ]
