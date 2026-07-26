@@ -1,13 +1,14 @@
 {
-  "COST": {
-    "count": 1,
-    "sentiment_sum": 0.1,
+  "AAPL": {
+    "count": 2,
+    "sentiment_sum": 0.2,
     "sources": [
+      "GoogleTrends",
       "GoogleTrends"
     ],
-    "trend_sentiment": 3.882111436950147,
-    "bullish_vol": 6619,
-    "bearish_vol": 1704,
-    "current_price": 935.030029296875
+    "trend_sentiment": 16.51578947368421,
+    "bullish_vol": 1569,
+    "bearish_vol": 94,
+    "current_price": 333.0199890136719
   }
 }
