@@ -137,17 +137,17 @@
     "symbol": "GOOGL",
     "name": "Alphabet Inc. (Class A)",
     "aliases": [
+      "alphabet (class a)",
       "alphabet inc. (class a)",
-      "google",
-      "alphabet (class a)"
+      "google"
     ]
   },
   {
     "symbol": "GOOG",
     "name": "Alphabet Inc. (Class C)",
     "aliases": [
-      "alphabet inc. (class c)",
       "google",
+      "alphabet inc. (class c)",
       "alphabet (class c)"
     ]
   },
@@ -253,8 +253,8 @@
     "symbol": "AON",
     "name": "Aon plc",
     "aliases": [
-      "aon plc",
-      "aon"
+      "aon",
+      "aon plc"
     ]
   },
   {
@@ -275,8 +275,8 @@
     "symbol": "AAPL",
     "name": "Apple Inc.",
     "aliases": [
-      "apple inc.",
-      "apple"
+      "apple",
+      "apple inc."
     ]
   },
   {
@@ -473,16 +473,16 @@
     "symbol": "BX",
     "name": "Blackstone Inc.",
     "aliases": [
-      "blackstone inc.",
-      "blackstone"
+      "blackstone",
+      "blackstone inc."
     ]
   },
   {
     "symbol": "XYZ",
     "name": "Block, Inc.",
     "aliases": [
-      "block,",
-      "block, inc."
+      "block, inc.",
+      "block,"
     ]
   },
   {
@@ -1153,8 +1153,8 @@
     "symbol": "EBAY",
     "name": "eBay Inc.",
     "aliases": [
-      "ebay inc.",
-      "ebay"
+      "ebay",
+      "ebay inc."
     ]
   },
   {
@@ -1701,8 +1701,8 @@
     "symbol": "HPQ",
     "name": "HP Inc.",
     "aliases": [
-      "hp",
-      "hp inc."
+      "hp inc.",
+      "hp"
     ]
   },
   {
@@ -1961,8 +1961,8 @@
     "symbol": "KKR",
     "name": "KKR & Co.",
     "aliases": [
-      "kkr &",
-      "kkr & co."
+      "kkr & co.",
+      "kkr &"
     ]
   },
   {
@@ -2195,9 +2195,9 @@
     "symbol": "META",
     "name": "Meta Platforms",
     "aliases": [
+      "facebook",
       "meta",
-      "meta platforms",
-      "facebook"
+      "meta platforms"
     ]
   },
   {
@@ -3100,8 +3100,8 @@
     "symbol": "TSLA",
     "name": "Tesla, Inc.",
     "aliases": [
-      "tesla,",
-      "tesla, inc."
+      "tesla, inc.",
+      "tesla,"
     ]
   },
   {
@@ -3228,8 +3228,8 @@
     "symbol": "UDR",
     "name": "UDR, Inc.",
     "aliases": [
-      "udr, inc.",
-      "udr,"
+      "udr,",
+      "udr, inc."
     ]
   },
   {
@@ -3362,16 +3362,16 @@
     "symbol": "V",
     "name": "Visa Inc.",
     "aliases": [
-      "visa inc.",
-      "visa"
+      "visa",
+      "visa inc."
     ]
   },
   {
     "symbol": "VST",
     "name": "Vistra Corp.",
     "aliases": [
-      "vistra",
-      "vistra corp."
+      "vistra corp.",
+      "vistra"
     ]
   },
   {
