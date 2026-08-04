@@ -1,1 +1,18 @@
-{}
+{
+  "DOW": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "current_price": 30.329999923706055
+  },
+  "COST": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "current_price": 947.8499755859375
+  }
+}
