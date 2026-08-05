@@ -1,1 +1,83 @@
-[]
+[
+  {
+    "ticker": "MCD",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": false,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 0,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 5.135802469135802,
+      "bullish_vol": 832,
+      "bearish_vol": 161,
+      "current_price": 274.0
+    },
+    "current_price": 274.0,
+    "trend_sentiment": 5.135802469135802,
+    "bullish_search_vol": 832,
+    "bearish_search_vol": 161
+  },
+  {
+    "ticker": "SBUX",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": true,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 10,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 100.0,
+      "bullish_vol": 100,
+      "bearish_vol": 0,
+      "current_price": 106.0
+    },
+    "current_price": 106.0,
+    "trend_sentiment": 100.0,
+    "bullish_search_vol": 100,
+    "bearish_search_vol": 0
+  },
+  {
+    "ticker": "AMZN",
+    "signal_strength": 1,
+    "velocity": 1,
+    "avg_sentiment": 0.1,
+    "blind_spot": false,
+    "analyst_rating": "Neutral",
+    "est_position_shares": 0,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "details": {
+      "count": 1,
+      "sentiment_sum": 0.1,
+      "sources": [
+        "GoogleTrends"
+      ],
+      "trend_sentiment": 5.339222614840989,
+      "bullish_vol": 1511,
+      "bearish_vol": 282,
+      "current_price": 272.6499938964844
+    },
+    "current_price": 272.6499938964844,
+    "trend_sentiment": 5.339222614840989,
+    "bullish_search_vol": 1511,
+    "bearish_search_vol": 282
+  }
+]
