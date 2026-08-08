@@ -1,8 +1,8 @@
 [
   {
-    "ticker": "VZ",
-    "signal_strength": 2,
-    "velocity": 2,
+    "ticker": "MET",
+    "signal_strength": 1,
+    "velocity": 1,
     "avg_sentiment": 0.1,
     "blind_spot": false,
     "analyst_rating": "Neutral",
@@ -11,20 +11,19 @@
       "GoogleTrends"
     ],
     "details": {
-      "count": 2,
-      "sentiment_sum": 0.2,
+      "count": 1,
+      "sentiment_sum": 0.1,
       "sources": [
-        "GoogleTrends",
         "GoogleTrends"
       ],
-      "trend_sentiment": 3.227272727272727,
-      "bullish_vol": 355,
-      "bearish_vol": 109,
-      "current_price": 47.060001373291016
+      "trend_sentiment": 9.795977011494253,
+      "bullish_vol": 3409,
+      "bearish_vol": 347,
+      "current_price": 97.7699966430664
     },
-    "current_price": 47.060001373291016,
-    "trend_sentiment": 3.227272727272727,
-    "bullish_search_vol": 355,
-    "bearish_search_vol": 109
+    "current_price": 97.7699966430664,
+    "trend_sentiment": 9.795977011494253,
+    "bullish_search_vol": 3409,
+    "bearish_search_vol": 347
   }
 ]
