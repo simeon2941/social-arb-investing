@@ -1,1 +1,21 @@
-{}
+{
+  "BA": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 26.923076923076923,
+    "bullish_vol": 2450,
+    "bearish_vol": 90,
+    "current_price": 234.4199981689453
+  },
+  "AAPL": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "current_price": 313.3299865722656
+  }
+}
