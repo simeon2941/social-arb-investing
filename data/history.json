@@ -1,1 +1,13 @@
-{}
+{
+  "PYPL": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 0.19090909090909092,
+    "bullish_vol": 21,
+    "bearish_vol": 109,
+    "current_price": 61.65999984741211
+  }
+}
