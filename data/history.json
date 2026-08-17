@@ -1,13 +1,1 @@
-{
-  "BA": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "trend_sentiment": 30.7012987012987,
-    "bullish_vol": 2364,
-    "bearish_vol": 76,
-    "current_price": 231.6699981689453
-  }
-}
+{}
