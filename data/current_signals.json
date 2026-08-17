@@ -2,7 +2,7 @@
   {
     "ticker": "BA",
     "signal_strength": 1,
-    "velocity": 1,
+    "velocity": 0,
     "avg_sentiment": 0.1,
     "blind_spot": false,
     "analyst_rating": "Neutral",
@@ -16,14 +16,14 @@
       "sources": [
         "GoogleTrends"
       ],
-      "trend_sentiment": 36.142857142857146,
-      "bullish_vol": 2277,
-      "bearish_vol": 62,
+      "trend_sentiment": 30.7012987012987,
+      "bullish_vol": 2364,
+      "bearish_vol": 76,
       "current_price": 231.6699981689453
     },
     "current_price": 231.6699981689453,
-    "trend_sentiment": 36.142857142857146,
-    "bullish_search_vol": 2277,
-    "bearish_search_vol": 62
+    "trend_sentiment": 30.7012987012987,
+    "bullish_search_vol": 2364,
+    "bearish_search_vol": 76
   }
 ]
