@@ -1,1 +1,13 @@
-{}
+{
+  "MRNA": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 45.65217391304348,
+    "bullish_vol": 1050,
+    "bearish_vol": 22,
+    "current_price": 62.959999084472656
+  }
+}
