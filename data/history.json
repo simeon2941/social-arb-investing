@@ -1,1 +1,24 @@
-{}
+{
+  "AMZN": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 13.029702970297029,
+    "bullish_vol": 1316,
+    "bearish_vol": 100,
+    "current_price": 265.8399963378906
+  },
+  "WMT": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 1.1204819277108433,
+    "bullish_vol": 186,
+    "bearish_vol": 165,
+    "current_price": 114.30000305175781
+  }
+}
