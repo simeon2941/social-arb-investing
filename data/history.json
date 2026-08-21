@@ -1,13 +1,1 @@
-{
-  "MS": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "trend_sentiment": 3.732394366197183,
-    "bullish_vol": 3975,
-    "bearish_vol": 1064,
-    "current_price": 207.4499969482422
-  }
-}
+{}
