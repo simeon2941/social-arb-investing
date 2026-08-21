@@ -2,7 +2,7 @@
   {
     "ticker": "WMT",
     "signal_strength": 1,
-    "velocity": 1,
+    "velocity": 0,
     "avg_sentiment": 0.1,
     "blind_spot": false,
     "analyst_rating": "Neutral",
@@ -16,41 +16,11 @@
       "sources": [
         "GoogleTrends"
       ],
-      "trend_sentiment": 6.461538461538462,
-      "bullish_vol": 336,
-      "bearish_vol": 51,
-      "current_price": 102.43000030517578
+      "current_price": 103.12000274658203
     },
-    "current_price": 102.43000030517578,
-    "trend_sentiment": 6.461538461538462,
-    "bullish_search_vol": 336,
-    "bearish_search_vol": 51
-  },
-  {
-    "ticker": "AAPL",
-    "signal_strength": 1,
-    "velocity": 1,
-    "avg_sentiment": 0.1,
-    "blind_spot": false,
-    "analyst_rating": "Neutral",
-    "est_position_shares": 0,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "details": {
-      "count": 1,
-      "sentiment_sum": 0.1,
-      "sources": [
-        "GoogleTrends"
-      ],
-      "trend_sentiment": 25.786666666666665,
-      "bullish_vol": 1934,
-      "bearish_vol": 74,
-      "current_price": 309.9949951171875
-    },
-    "current_price": 309.9949951171875,
-    "trend_sentiment": 25.786666666666665,
-    "bullish_search_vol": 1934,
-    "bearish_search_vol": 74
+    "current_price": 103.12000274658203,
+    "trend_sentiment": 0,
+    "bullish_search_vol": 0,
+    "bearish_search_vol": 0
   }
 ]
