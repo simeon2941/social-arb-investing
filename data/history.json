@@ -1,18 +1,13 @@
 {
-  "BBY": {
+  "AAPL": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "current_price": 85.88999938964844
-  },
-  "BA": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "current_price": 214.1999969482422
+    "trend_sentiment": 24.289473684210527,
+    "bullish_vol": 1846,
+    "bearish_vol": 75,
+    "current_price": 309.3500061035156
   }
 }
