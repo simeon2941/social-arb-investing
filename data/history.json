@@ -1,1 +1,24 @@
-{}
+{
+  "NFLX": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 4.512195121951219,
+    "bullish_vol": 370,
+    "bearish_vol": 81,
+    "current_price": 79.58999633789062
+  },
+  "NVDA": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 6.886029411764706,
+    "bullish_vol": 3746,
+    "bearish_vol": 543,
+    "current_price": 214.72000122070312
+  }
+}
