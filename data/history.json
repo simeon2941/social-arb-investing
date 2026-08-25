@@ -1,13 +1,1 @@
-{
-  "NFLX": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "trend_sentiment": 21.0,
-    "bullish_vol": 378,
-    "bearish_vol": 17,
-    "current_price": 80.01000213623047
-  }
-}
+{}
