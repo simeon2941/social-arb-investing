@@ -1,13 +1,1 @@
-{
-  "INTU": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "trend_sentiment": 0.03910614525139665,
-    "bullish_vol": 7,
-    "bearish_vol": 178,
-    "current_price": 357.4599914550781
-  }
-}
+{}
