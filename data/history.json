@@ -1,1 +1,24 @@
-{}
+{
+  "V": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 5.161904761904762,
+    "bullish_vol": 4336,
+    "bearish_vol": 839,
+    "current_price": 384.1400146484375
+  },
+  "NFLX": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 3.4220183486238533,
+    "bullish_vol": 373,
+    "bearish_vol": 108,
+    "current_price": 82.2300033569336
+  }
+}
