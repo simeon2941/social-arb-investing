@@ -1,6 +1,6 @@
 [
   {
-    "ticker": "BSX",
+    "ticker": "META",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
@@ -16,14 +16,11 @@
       "sources": [
         "GoogleTrends"
       ],
-      "trend_sentiment": 1.0495049504950495,
-      "bullish_vol": 106,
-      "bearish_vol": 100,
-      "current_price": 49.86000061035156
+      "current_price": 564.8300170898438
     },
-    "current_price": 49.86000061035156,
-    "trend_sentiment": 1.0495049504950495,
-    "bullish_search_vol": 106,
-    "bearish_search_vol": 100
+    "current_price": 564.8300170898438,
+    "trend_sentiment": 0,
+    "bullish_search_vol": 0,
+    "bearish_search_vol": 0
   }
 ]

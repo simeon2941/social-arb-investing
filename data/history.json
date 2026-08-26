@@ -1,13 +1,10 @@
 {
-  "BSX": {
+  "META": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "trend_sentiment": 1.0495049504950495,
-    "bullish_vol": 106,
-    "bearish_vol": 100,
-    "current_price": 49.86000061035156
+    "current_price": 564.8300170898438
   }
 }
