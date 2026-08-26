@@ -1,13 +1,13 @@
 {
-  "KR": {
+  "BSX": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "trend_sentiment": 36.183673469387756,
-    "bullish_vol": 1773,
-    "bearish_vol": 48,
-    "current_price": 58.45000076293945
+    "trend_sentiment": 1.0495049504950495,
+    "bullish_vol": 106,
+    "bearish_vol": 100,
+    "current_price": 49.86000061035156
   }
 }
