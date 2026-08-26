@@ -1,7 +1,7 @@
 [
   {
     "ticker": "META",
-    "signal_strength": 1,
+    "signal_strength": 2,
     "velocity": 1,
     "avg_sentiment": 0.1,
     "blind_spot": false,
@@ -11,14 +11,15 @@
       "GoogleTrends"
     ],
     "details": {
-      "count": 1,
-      "sentiment_sum": 0.1,
+      "count": 2,
+      "sentiment_sum": 0.2,
       "sources": [
+        "GoogleTrends",
         "GoogleTrends"
       ],
-      "current_price": 564.8300170898438
+      "current_price": 571.7000122070312
     },
-    "current_price": 564.8300170898438,
+    "current_price": 571.7000122070312,
     "trend_sentiment": 0,
     "bullish_search_vol": 0,
     "bearish_search_vol": 0

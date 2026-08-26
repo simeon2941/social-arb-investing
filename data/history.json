@@ -1,10 +1,11 @@
 {
   "META": {
-    "count": 1,
-    "sentiment_sum": 0.1,
+    "count": 2,
+    "sentiment_sum": 0.2,
     "sources": [
+      "GoogleTrends",
       "GoogleTrends"
     ],
-    "current_price": 564.8300170898438
+    "current_price": 571.7000122070312
   }
 }
