@@ -1,13 +1,1 @@
-{
-  "CLX": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "trend_sentiment": 219.0,
-    "bullish_vol": 219,
-    "bearish_vol": 0,
-    "current_price": 93.05999755859375
-  }
-}
+{}
