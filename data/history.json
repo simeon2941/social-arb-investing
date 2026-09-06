@@ -1,1 +1,13 @@
-{}
+{
+  "ADBE": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 0.1116751269035533,
+    "bullish_vol": 22,
+    "bearish_vol": 196,
+    "current_price": 266.510009765625
+  }
+}
