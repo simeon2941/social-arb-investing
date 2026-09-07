@@ -1,13 +1,1 @@
-{
-  "ODFL": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "trend_sentiment": 0.9108910891089109,
-    "bullish_vol": 92,
-    "bearish_vol": 100,
-    "current_price": 185.8699951171875
-  }
-}
+{}
