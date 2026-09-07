@@ -1,6 +1,6 @@
 [
   {
-    "ticker": "ADBE",
+    "ticker": "ODFL",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
@@ -16,14 +16,14 @@
       "sources": [
         "GoogleTrends"
       ],
-      "trend_sentiment": 0.1116751269035533,
-      "bullish_vol": 22,
-      "bearish_vol": 196,
-      "current_price": 266.510009765625
+      "trend_sentiment": 0.9108910891089109,
+      "bullish_vol": 92,
+      "bearish_vol": 100,
+      "current_price": 185.8699951171875
     },
-    "current_price": 266.510009765625,
-    "trend_sentiment": 0.1116751269035533,
-    "bullish_search_vol": 22,
-    "bearish_search_vol": 196
+    "current_price": 185.8699951171875,
+    "trend_sentiment": 0.9108910891089109,
+    "bullish_search_vol": 92,
+    "bearish_search_vol": 100
   }
 ]
