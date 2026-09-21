@@ -1,6 +1,6 @@
 [
   {
-    "ticker": "DASH",
+    "ticker": "META",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
@@ -16,14 +16,14 @@
       "sources": [
         "GoogleTrends"
       ],
-      "trend_sentiment": 13.46788990825688,
-      "bullish_vol": 2936,
-      "bearish_vol": 217,
-      "current_price": 192.94000244140625
+      "trend_sentiment": 3.873485868102288,
+      "bullish_vol": 2878,
+      "bearish_vol": 742,
+      "current_price": 736.7949829101562
     },
-    "current_price": 192.94000244140625,
-    "trend_sentiment": 13.46788990825688,
-    "bullish_search_vol": 2936,
-    "bearish_search_vol": 217
+    "current_price": 736.7949829101562,
+    "trend_sentiment": 3.873485868102288,
+    "bullish_search_vol": 2878,
+    "bearish_search_vol": 742
   }
 ]
