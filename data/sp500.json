@@ -38,8 +38,8 @@
     "symbol": "ADBE",
     "name": "Adobe Inc.",
     "aliases": [
-      "adobe inc.",
-      "adobe"
+      "adobe",
+      "adobe inc."
     ]
   },
   {
@@ -138,17 +138,17 @@
     "name": "Alphabet Inc. (Class A)",
     "aliases": [
       "google",
-      "alphabet (class a)",
-      "alphabet inc. (class a)"
+      "alphabet inc. (class a)",
+      "alphabet (class a)"
     ]
   },
   {
     "symbol": "GOOG",
     "name": "Alphabet Inc. (Class C)",
     "aliases": [
-      "alphabet (class c)",
       "google",
-      "alphabet inc. (class c)"
+      "alphabet inc. (class c)",
+      "alphabet (class c)"
     ]
   },
   {
@@ -275,8 +275,8 @@
     "symbol": "AAPL",
     "name": "Apple Inc.",
     "aliases": [
-      "apple",
-      "apple inc."
+      "apple inc.",
+      "apple"
     ]
   },
   {
@@ -559,8 +559,8 @@
     "symbol": "BXP",
     "name": "BXP, Inc.",
     "aliases": [
-      "bxp,",
-      "bxp, inc."
+      "bxp, inc.",
+      "bxp,"
     ]
   },
   {
@@ -1694,8 +1694,8 @@
     "symbol": "HPQ",
     "name": "HP Inc.",
     "aliases": [
-      "hp inc.",
-      "hp"
+      "hp",
+      "hp inc."
     ]
   },
   {
@@ -1962,8 +1962,8 @@
     "symbol": "KKR",
     "name": "KKR & Co.",
     "aliases": [
-      "kkr & co.",
-      "kkr &"
+      "kkr &",
+      "kkr & co."
     ]
   },
   {
@@ -2188,8 +2188,8 @@
     "symbol": "MRK",
     "name": "Merck & Co.",
     "aliases": [
-      "merck & co.",
-      "merck &"
+      "merck &",
+      "merck & co."
     ]
   },
   {
@@ -2197,8 +2197,8 @@
     "name": "Meta Platforms",
     "aliases": [
       "facebook",
-      "meta platforms",
-      "meta"
+      "meta",
+      "meta platforms"
     ]
   },
   {
@@ -2438,8 +2438,8 @@
     "symbol": "NVR",
     "name": "NVR, Inc.",
     "aliases": [
-      "nvr,",
-      "nvr, inc."
+      "nvr, inc.",
+      "nvr,"
     ]
   },
   {
@@ -3057,8 +3057,8 @@
     "symbol": "TPR",
     "name": "Tapestry, Inc.",
     "aliases": [
-      "tapestry,",
-      "tapestry, inc."
+      "tapestry, inc.",
+      "tapestry,"
     ]
   },
   {
@@ -3100,8 +3100,8 @@
     "symbol": "TSLA",
     "name": "Tesla, Inc.",
     "aliases": [
-      "tesla, inc.",
-      "tesla,"
+      "tesla,",
+      "tesla, inc."
     ]
   },
   {
@@ -3355,16 +3355,16 @@
     "symbol": "V",
     "name": "Visa Inc.",
     "aliases": [
-      "visa",
-      "visa inc."
+      "visa inc.",
+      "visa"
     ]
   },
   {
     "symbol": "VST",
     "name": "Vistra Corp.",
     "aliases": [
-      "vistra",
-      "vistra corp."
+      "vistra corp.",
+      "vistra"
     ]
   },
   {
@@ -3505,8 +3505,8 @@
     "symbol": "WDAY",
     "name": "Workday, Inc.",
     "aliases": [
-      "workday,",
-      "workday, inc."
+      "workday, inc.",
+      "workday,"
     ]
   },
   {
