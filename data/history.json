@@ -1,13 +1,21 @@
 {
-  "BA": {
+  "DOW": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "trend_sentiment": 15.728395061728396,
-    "bullish_vol": 1274,
-    "bearish_vol": 80,
-    "current_price": 196.75
+    "trend_sentiment": 6.848214285714286,
+    "bullish_vol": 2301,
+    "bearish_vol": 335,
+    "current_price": 28.559999465942383
+  },
+  "COST": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "current_price": 896.47998046875
   }
 }
