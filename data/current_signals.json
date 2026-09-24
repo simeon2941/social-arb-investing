@@ -1,6 +1,6 @@
 [
   {
-    "ticker": "NFLX",
+    "ticker": "BA",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
@@ -16,11 +16,14 @@
       "sources": [
         "GoogleTrends"
       ],
-      "current_price": 71.36000061035156
+      "trend_sentiment": 15.728395061728396,
+      "bullish_vol": 1274,
+      "bearish_vol": 80,
+      "current_price": 196.75
     },
-    "current_price": 71.36000061035156,
-    "trend_sentiment": 0,
-    "bullish_search_vol": 0,
-    "bearish_search_vol": 0
+    "current_price": 196.75,
+    "trend_sentiment": 15.728395061728396,
+    "bullish_search_vol": 1274,
+    "bearish_search_vol": 80
   }
 ]
