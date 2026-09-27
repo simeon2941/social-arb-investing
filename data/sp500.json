@@ -138,17 +138,17 @@
     "name": "Alphabet Inc. (Class A)",
     "aliases": [
       "alphabet inc. (class a)",
-      "alphabet (class a)",
-      "google"
+      "google",
+      "alphabet (class a)"
     ]
   },
   {
     "symbol": "GOOG",
     "name": "Alphabet Inc. (Class C)",
     "aliases": [
+      "alphabet (class c)",
       "google",
-      "alphabet inc. (class c)",
-      "alphabet (class c)"
+      "alphabet inc. (class c)"
     ]
   },
   {
@@ -253,8 +253,8 @@
     "symbol": "AON",
     "name": "Aon plc",
     "aliases": [
-      "aon plc",
-      "aon"
+      "aon",
+      "aon plc"
     ]
   },
   {
@@ -275,8 +275,8 @@
     "symbol": "AAPL",
     "name": "Apple Inc.",
     "aliases": [
-      "apple",
-      "apple inc."
+      "apple inc.",
+      "apple"
     ]
   },
   {
@@ -332,8 +332,8 @@
     "symbol": "AJG",
     "name": "Arthur J. Gallagher & Co.",
     "aliases": [
-      "arthur j. gallagher &",
-      "arthur j. gallagher & co."
+      "arthur j. gallagher & co.",
+      "arthur j. gallagher &"
     ]
   },
   {
@@ -474,8 +474,8 @@
     "symbol": "XYZ",
     "name": "Block, Inc.",
     "aliases": [
-      "block, inc.",
-      "block,"
+      "block,",
+      "block, inc."
     ]
   },
   {
@@ -1103,8 +1103,8 @@
     "symbol": "DOW",
     "name": "Dow Inc.",
     "aliases": [
-      "dow inc.",
-      "dow"
+      "dow",
+      "dow inc."
     ]
   },
   {
@@ -1146,8 +1146,8 @@
     "symbol": "EBAY",
     "name": "eBay Inc.",
     "aliases": [
-      "ebay inc.",
-      "ebay"
+      "ebay",
+      "ebay inc."
     ]
   },
   {
@@ -1329,8 +1329,8 @@
     "symbol": "FFIV",
     "name": "F5, Inc.",
     "aliases": [
-      "f5, inc.",
-      "f5,"
+      "f5,",
+      "f5, inc."
     ]
   },
   {
@@ -1758,8 +1758,8 @@
     "symbol": "ILMN",
     "name": "Illumina, Inc.",
     "aliases": [
-      "illumina, inc.",
-      "illumina,"
+      "illumina,",
+      "illumina, inc."
     ]
   },
   {
@@ -1962,8 +1962,8 @@
     "symbol": "KKR",
     "name": "KKR & Co.",
     "aliases": [
-      "kkr &",
-      "kkr & co."
+      "kkr & co.",
+      "kkr &"
     ]
   },
   {
@@ -2188,17 +2188,17 @@
     "symbol": "MRK",
     "name": "Merck & Co.",
     "aliases": [
-      "merck &",
-      "merck & co."
+      "merck & co.",
+      "merck &"
     ]
   },
   {
     "symbol": "META",
     "name": "Meta Platforms",
     "aliases": [
+      "facebook",
       "meta",
-      "meta platforms",
-      "facebook"
+      "meta platforms"
     ]
   },
   {
@@ -2317,8 +2317,8 @@
     "symbol": "NDAQ",
     "name": "Nasdaq, Inc.",
     "aliases": [
-      "nasdaq,",
-      "nasdaq, inc."
+      "nasdaq, inc.",
+      "nasdaq,"
     ]
   },
   {
@@ -2367,8 +2367,8 @@
     "symbol": "NKE",
     "name": "Nike, Inc.",
     "aliases": [
-      "nike, inc.",
-      "nike,"
+      "nike,",
+      "nike, inc."
     ]
   },
   {
@@ -2677,8 +2677,8 @@
     "symbol": "PTC",
     "name": "PTC Inc.",
     "aliases": [
-      "ptc inc.",
-      "ptc"
+      "ptc",
+      "ptc inc."
     ]
   },
   {
@@ -3057,8 +3057,8 @@
     "symbol": "TPR",
     "name": "Tapestry, Inc.",
     "aliases": [
-      "tapestry,",
-      "tapestry, inc."
+      "tapestry, inc.",
+      "tapestry,"
     ]
   },
   {
@@ -3100,8 +3100,8 @@
     "symbol": "TSLA",
     "name": "Tesla, Inc.",
     "aliases": [
-      "tesla,",
-      "tesla, inc."
+      "tesla, inc.",
+      "tesla,"
     ]
   },
   {
@@ -3221,8 +3221,8 @@
     "symbol": "UDR",
     "name": "UDR, Inc.",
     "aliases": [
-      "udr,",
-      "udr, inc."
+      "udr, inc.",
+      "udr,"
     ]
   },
   {
