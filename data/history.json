@@ -1,13 +1,1 @@
-{
-  "KR": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "trend_sentiment": 8.057971014492754,
-    "bullish_vol": 556,
-    "bearish_vol": 68,
-    "current_price": 62.560001373291016
-  }
-}
+{}
