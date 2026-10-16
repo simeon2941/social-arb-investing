@@ -1,24 +1,10 @@
 {
-  "VZ": {
+  "MCD": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "trend_sentiment": 10.571428571428571,
-    "bullish_vol": 296,
-    "bearish_vol": 27,
-    "current_price": 44.400001525878906
-  },
-  "T": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "trend_sentiment": 3.3004020677771395,
-    "bullish_vol": 5746,
-    "bearish_vol": 1740,
-    "current_price": 23.5
+    "current_price": 242.75
   }
 }
