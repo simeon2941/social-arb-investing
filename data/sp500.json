@@ -137,9 +137,9 @@
     "symbol": "GOOGL",
     "name": "Alphabet Inc. (Class A)",
     "aliases": [
-      "google",
       "alphabet (class a)",
-      "alphabet inc. (class a)"
+      "alphabet inc. (class a)",
+      "google"
     ]
   },
   {
@@ -253,8 +253,8 @@
     "symbol": "AON",
     "name": "Aon plc",
     "aliases": [
-      "aon",
-      "aon plc"
+      "aon plc",
+      "aon"
     ]
   },
   {
@@ -466,8 +466,8 @@
     "symbol": "BX",
     "name": "Blackstone Inc.",
     "aliases": [
-      "blackstone",
-      "blackstone inc."
+      "blackstone inc.",
+      "blackstone"
     ]
   },
   {
@@ -820,8 +820,8 @@
     "symbol": "COHR",
     "name": "Coherent Corp.",
     "aliases": [
-      "coherent corp.",
-      "coherent"
+      "coherent",
+      "coherent corp."
     ]
   },
   {
@@ -927,8 +927,8 @@
     "symbol": "CRH",
     "name": "CRH plc",
     "aliases": [
-      "crh plc",
-      "crh"
+      "crh",
+      "crh plc"
     ]
   },
   {
@@ -1687,8 +1687,8 @@
     "symbol": "HPQ",
     "name": "HP Inc.",
     "aliases": [
-      "hp inc.",
-      "hp"
+      "hp",
+      "hp inc."
     ]
   },
   {
@@ -2040,8 +2040,8 @@
     "symbol": "LIN",
     "name": "Linde plc",
     "aliases": [
-      "linde plc",
-      "linde"
+      "linde",
+      "linde plc"
     ]
   },
   {
@@ -2189,8 +2189,8 @@
     "symbol": "META",
     "name": "Meta Platforms",
     "aliases": [
-      "facebook",
       "meta platforms",
+      "facebook",
       "meta"
     ]
   },
@@ -2310,8 +2310,8 @@
     "symbol": "NDAQ",
     "name": "Nasdaq, Inc.",
     "aliases": [
-      "nasdaq,",
-      "nasdaq, inc."
+      "nasdaq, inc.",
+      "nasdaq,"
     ]
   },
   {
@@ -2804,8 +2804,8 @@
     "symbol": "ROL",
     "name": "Rollins, Inc.",
     "aliases": [
-      "rollins, inc.",
-      "rollins,"
+      "rollins,",
+      "rollins, inc."
     ]
   },
   {
@@ -3093,8 +3093,8 @@
     "symbol": "TSLA",
     "name": "Tesla, Inc.",
     "aliases": [
-      "tesla,",
-      "tesla, inc."
+      "tesla, inc.",
+      "tesla,"
     ]
   },
   {
@@ -3505,8 +3505,8 @@
     "symbol": "WDAY",
     "name": "Workday, Inc.",
     "aliases": [
-      "workday, inc.",
-      "workday,"
+      "workday,",
+      "workday, inc."
     ]
   },
   {
