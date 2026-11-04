@@ -1,13 +1,1 @@
-{
-  "CVS": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "trend_sentiment": 0.7214400285154161,
-    "bullish_vol": 4048,
-    "bearish_vol": 5610,
-    "current_price": 91.41000366210938
-  }
-}
+{}
