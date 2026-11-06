@@ -1,1 +1,13 @@
-{}
+{
+  "AVGO": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 11.107692307692307,
+    "bullish_vol": 722,
+    "bearish_vol": 64,
+    "current_price": 296.68499755859375
+  }
+}

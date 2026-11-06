@@ -38,8 +38,8 @@
     "symbol": "ADBE",
     "name": "Adobe Inc.",
     "aliases": [
-      "adobe inc.",
-      "adobe"
+      "adobe",
+      "adobe inc."
     ]
   },
   {
@@ -137,9 +137,9 @@
     "symbol": "GOOGL",
     "name": "Alphabet Inc. (Class A)",
     "aliases": [
-      "google",
       "alphabet inc. (class a)",
-      "alphabet (class a)"
+      "alphabet (class a)",
+      "google"
     ]
   },
   {
@@ -147,8 +147,8 @@
     "name": "Alphabet Inc. (Class C)",
     "aliases": [
       "alphabet inc. (class c)",
-      "alphabet (class c)",
-      "google"
+      "google",
+      "alphabet (class c)"
     ]
   },
   {
@@ -253,8 +253,8 @@
     "symbol": "AON",
     "name": "Aon plc",
     "aliases": [
-      "aon",
-      "aon plc"
+      "aon plc",
+      "aon"
     ]
   },
   {
@@ -332,8 +332,8 @@
     "symbol": "AJG",
     "name": "Arthur J. Gallagher & Co.",
     "aliases": [
-      "arthur j. gallagher & co.",
-      "arthur j. gallagher &"
+      "arthur j. gallagher &",
+      "arthur j. gallagher & co."
     ]
   },
   {
@@ -630,8 +630,8 @@
     "symbol": "CAT",
     "name": "Caterpillar Inc.",
     "aliases": [
-      "caterpillar inc.",
-      "caterpillar"
+      "caterpillar",
+      "caterpillar inc."
     ]
   },
   {
@@ -898,8 +898,8 @@
     "symbol": "GLW",
     "name": "Corning Inc.",
     "aliases": [
-      "corning inc.",
-      "corning"
+      "corning",
+      "corning inc."
     ]
   },
   {
@@ -927,8 +927,8 @@
     "symbol": "CRH",
     "name": "CRH plc",
     "aliases": [
-      "crh plc",
-      "crh"
+      "crh",
+      "crh plc"
     ]
   },
   {
@@ -1096,8 +1096,8 @@
     "symbol": "DOW",
     "name": "Dow Inc.",
     "aliases": [
-      "dow",
-      "dow inc."
+      "dow inc.",
+      "dow"
     ]
   },
   {
@@ -1139,8 +1139,8 @@
     "symbol": "EBAY",
     "name": "eBay Inc.",
     "aliases": [
-      "ebay",
-      "ebay inc."
+      "ebay inc.",
+      "ebay"
     ]
   },
   {
@@ -1751,8 +1751,8 @@
     "symbol": "ILMN",
     "name": "Illumina, Inc.",
     "aliases": [
-      "illumina, inc.",
-      "illumina,"
+      "illumina,",
+      "illumina, inc."
     ]
   },
   {
@@ -2033,8 +2033,8 @@
     "symbol": "LIN",
     "name": "Linde plc",
     "aliases": [
-      "linde plc",
-      "linde"
+      "linde",
+      "linde plc"
     ]
   },
   {
@@ -2183,8 +2183,8 @@
     "name": "Meta Platforms",
     "aliases": [
       "facebook",
-      "meta",
-      "meta platforms"
+      "meta platforms",
+      "meta"
     ]
   },
   {
@@ -2424,8 +2424,8 @@
     "symbol": "NVR",
     "name": "NVR, Inc.",
     "aliases": [
-      "nvr,",
-      "nvr, inc."
+      "nvr, inc.",
+      "nvr,"
     ]
   },
   {
@@ -2798,8 +2798,8 @@
     "symbol": "ROL",
     "name": "Rollins, Inc.",
     "aliases": [
-      "rollins,",
-      "rollins, inc."
+      "rollins, inc.",
+      "rollins,"
     ]
   },
   {
@@ -3051,8 +3051,8 @@
     "symbol": "TPR",
     "name": "Tapestry, Inc.",
     "aliases": [
-      "tapestry,",
-      "tapestry, inc."
+      "tapestry, inc.",
+      "tapestry,"
     ]
   },
   {
@@ -3094,8 +3094,8 @@
     "symbol": "TSLA",
     "name": "Tesla, Inc.",
     "aliases": [
-      "tesla,",
-      "tesla, inc."
+      "tesla, inc.",
+      "tesla,"
     ]
   },
   {
@@ -3172,8 +3172,8 @@
     "symbol": "TRMB",
     "name": "Trimble Inc.",
     "aliases": [
-      "trimble",
-      "trimble inc."
+      "trimble inc.",
+      "trimble"
     ]
   },
   {
@@ -3222,8 +3222,8 @@
     "symbol": "UDR",
     "name": "UDR, Inc.",
     "aliases": [
-      "udr, inc.",
-      "udr,"
+      "udr,",
+      "udr, inc."
     ]
   },
   {
@@ -3356,16 +3356,16 @@
     "symbol": "V",
     "name": "Visa Inc.",
     "aliases": [
-      "visa inc.",
-      "visa"
+      "visa",
+      "visa inc."
     ]
   },
   {
     "symbol": "VST",
     "name": "Vistra Corp.",
     "aliases": [
-      "vistra",
-      "vistra corp."
+      "vistra corp.",
+      "vistra"
     ]
   },
   {
@@ -3484,8 +3484,8 @@
     "symbol": "WSM",
     "name": "Williams-Sonoma, Inc.",
     "aliases": [
-      "williams-sonoma,",
-      "williams-sonoma, inc."
+      "williams-sonoma, inc.",
+      "williams-sonoma,"
     ]
   },
   {
@@ -3528,8 +3528,8 @@
     "symbol": "XYL",
     "name": "Xylem Inc.",
     "aliases": [
-      "xylem",
-      "xylem inc."
+      "xylem inc.",
+      "xylem"
     ]
   },
   {
