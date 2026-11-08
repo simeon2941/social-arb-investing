@@ -1,1 +1,13 @@
-{}
+{
+  "NVDA": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 8.116104868913858,
+    "bullish_vol": 2167,
+    "bearish_vol": 266,
+    "current_price": 186.63999938964844
+  }
+}
