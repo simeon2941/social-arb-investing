@@ -1,13 +1,13 @@
 {
-  "NVDA": {
+  "WMT": {
     "count": 1,
     "sentiment_sum": 0.1,
     "sources": [
       "GoogleTrends"
     ],
-    "trend_sentiment": 8.116104868913858,
-    "bullish_vol": 2167,
-    "bearish_vol": 266,
-    "current_price": 186.63999938964844
+    "trend_sentiment": 14.875,
+    "bullish_vol": 238,
+    "bearish_vol": 15,
+    "current_price": 125.5199966430664
   }
 }
