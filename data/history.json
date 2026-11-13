@@ -1,13 +1,1 @@
-{
-  "MSFT": {
-    "count": 1,
-    "sentiment_sum": 0.1,
-    "sources": [
-      "GoogleTrends"
-    ],
-    "trend_sentiment": 5.576388888888889,
-    "bullish_vol": 803,
-    "bearish_vol": 143,
-    "current_price": 523.0
-  }
-}
+{}
