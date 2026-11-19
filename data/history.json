@@ -1,1 +1,13 @@
-{}
+{
+  "JPM": {
+    "count": 1,
+    "sentiment_sum": 0.1,
+    "sources": [
+      "GoogleTrends"
+    ],
+    "trend_sentiment": 12.421052631578947,
+    "bullish_vol": 236,
+    "bearish_vol": 18,
+    "current_price": 320.3599853515625
+  }
+}
