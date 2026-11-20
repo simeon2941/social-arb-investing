@@ -1,6 +1,6 @@
 [
   {
-    "ticker": "JPM",
+    "ticker": "AAPL",
     "signal_strength": 1,
     "velocity": 1,
     "avg_sentiment": 0.1,
@@ -16,14 +16,14 @@
       "sources": [
         "GoogleTrends"
       ],
-      "trend_sentiment": 12.421052631578947,
-      "bullish_vol": 236,
-      "bearish_vol": 18,
-      "current_price": 320.3599853515625
+      "trend_sentiment": 3.283582089552239,
+      "bullish_vol": 440,
+      "bearish_vol": 133,
+      "current_price": 349.2099914550781
     },
-    "current_price": 320.3599853515625,
-    "trend_sentiment": 12.421052631578947,
-    "bullish_search_vol": 236,
-    "bearish_search_vol": 18
+    "current_price": 349.2099914550781,
+    "trend_sentiment": 3.283582089552239,
+    "bullish_search_vol": 440,
+    "bearish_search_vol": 133
   }
 ]
