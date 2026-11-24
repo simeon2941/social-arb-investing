@@ -137,9 +137,9 @@
     "symbol": "GOOGL",
     "name": "Alphabet Inc. (Class A)",
     "aliases": [
+      "alphabet inc. (class a)",
       "alphabet (class a)",
-      "google",
-      "alphabet inc. (class a)"
+      "google"
     ]
   },
   {
@@ -147,8 +147,8 @@
     "name": "Alphabet Inc. (Class C)",
     "aliases": [
       "alphabet inc. (class c)",
-      "google",
-      "alphabet (class c)"
+      "alphabet (class c)",
+      "google"
     ]
   },
   {
@@ -253,8 +253,8 @@
     "symbol": "AON",
     "name": "Aon plc",
     "aliases": [
-      "aon plc",
-      "aon"
+      "aon",
+      "aon plc"
     ]
   },
   {
@@ -559,8 +559,8 @@
     "symbol": "BXP",
     "name": "BXP, Inc.",
     "aliases": [
-      "bxp,",
-      "bxp, inc."
+      "bxp, inc.",
+      "bxp,"
     ]
   },
   {
@@ -820,8 +820,8 @@
     "symbol": "COHR",
     "name": "Coherent Corp.",
     "aliases": [
-      "coherent",
-      "coherent corp."
+      "coherent corp.",
+      "coherent"
     ]
   },
   {
@@ -927,8 +927,8 @@
     "symbol": "CRH",
     "name": "CRH plc",
     "aliases": [
-      "crh",
-      "crh plc"
+      "crh plc",
+      "crh"
     ]
   },
   {
@@ -1096,8 +1096,8 @@
     "symbol": "DOW",
     "name": "Dow Inc.",
     "aliases": [
-      "dow inc.",
-      "dow"
+      "dow",
+      "dow inc."
     ]
   },
   {
@@ -2182,9 +2182,9 @@
     "symbol": "META",
     "name": "Meta Platforms",
     "aliases": [
-      "meta platforms",
       "meta",
-      "facebook"
+      "facebook",
+      "meta platforms"
     ]
   },
   {
@@ -2453,8 +2453,8 @@
     "symbol": "OKTA",
     "name": "Okta, Inc.",
     "aliases": [
-      "okta,",
-      "okta, inc."
+      "okta, inc.",
+      "okta,"
     ]
   },
   {
@@ -3094,8 +3094,8 @@
     "symbol": "TSLA",
     "name": "Tesla, Inc.",
     "aliases": [
-      "tesla, inc.",
-      "tesla,"
+      "tesla,",
+      "tesla, inc."
     ]
   },
   {
@@ -3506,8 +3506,8 @@
     "symbol": "WDAY",
     "name": "Workday, Inc.",
     "aliases": [
-      "workday, inc.",
-      "workday,"
+      "workday,",
+      "workday, inc."
     ]
   },
   {
